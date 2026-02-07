@@ -24,6 +24,7 @@ Nurashell Saga
 
 :: StoryInit
 <<set $playerImage to "images/characters/leo/leo_full_cloth.png">>
+<<set $locationImage to "images/locations/leo_dorm.jpeg">>
 <<set $firstTimeSplash to true>>
 <<set $day to 1>>
 <<set $game to "nurashell">>

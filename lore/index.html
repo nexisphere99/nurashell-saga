@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Nurashell Saga   Lore Archive</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+
+/* -------- GLOBAL -------- */
+body {
+    background: #0e0e14;
+    margin: 0;
+    padding: 0;
+    color: #ddd;
+    font-family: "Inter", "Segoe UI", sans-serif;
+    line-height: 1.6;
+}
+
+#lore-container {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+/* -------- HEADER -------- */
+.lore-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.lore-header h1 {
+    font-size: 2.4rem;
+    letter-spacing: 1px;
+    font-weight: 700;
+    margin: 0 0 10px;
+    background: linear-gradient(90deg, #a6e3ff, #d6b3ff);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-shadow: 0 0 10px rgba(100, 180, 255, 0.35);
+}
+
+.lore-tagline {
+    font-size: 1.1rem;
+    opacity: 0.85;
+}
+
+/* -------- NAVIGATION -------- */
+.lore-nav {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 15px 0;
+    margin-bottom: 25px;
+}
+
+.lore-nav button {
+    background: rgba(40, 40, 55, 0.85);
+    color: #dcdcff;
+    border: 1px solid rgba(130, 130, 160, 0.5);
+    padding: 10px 18px;
+    border-radius: 8px;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: 0.25s ease;
+    backdrop-filter: blur(4px);
+}
+
+.lore-nav button:hover {
+    transform: translateY(-2px);
+    border-color: #94d2ff;
+    box-shadow: 0 0 10px rgba(120, 200, 255, 0.35);
+}
+
+.lore-nav button.active {
+    border-color: #cba6ff;
+    color: #fff;
+    box-shadow: 0 0 12px rgba(180, 120, 255, 0.45);
+}
+
+/* -------- SECTIONS -------- */
+.lore-section {
+    display: none;
+    animation: fade 0.4s ease forwards;
+}
+
+.lore-section.active {
+    display: block;
+}
+
+@keyframes fade {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.lore-section h2 {
+    font-size: 1.7rem;
+    color: #cbd9ff;
+    margin-bottom: 10px;
+}
+
+.lore-section h3 {
+    color: #b0c7ff;
+    margin-top: 20px;
+}
+
+/* LISTS */
+.lore-section ul {
+    padding-left: 20px;
+}
+
+/* CHARACTER LIST STYLE */
+.character-list li {
+    margin: 4px 0;
+}
+
+
+body {
+        background: #0b0e14;
+        color: #e4e7ec;
+        font-family: "Segoe UI", sans-serif;
+        margin: 0;
+        padding: 0;
+        line-height: 1.6;
+    }
+
+    header {
+        background: #161b22;
+        padding: 20px;
+        text-align: center;
+        border-bottom: 1px solid #2a2f34;
+    }
+    header h1 {
+        margin: 0;
+        font-size: 2rem;
+        letter-spacing: 1px;
+        color: #7dc0ff;
+    }
+
+    .container {
+        width: 90%;
+        max-width: 900px;
+        margin: 30px auto;
+    }
+
+    /* Accordion Base */
+    .accordion {
+        background: #13171d;
+        border: 1px solid #2a2f34;
+        border-radius: 8px;
+        margin-bottom: 15px;
+        overflow: hidden;
+    }
+
+    .accordion-header {
+        padding: 16px;
+        cursor: pointer;
+        background: #1a1f26;
+        transition: 0.2s;
+        font-size: 1.2rem;
+        font-weight: bold;
+        color: #9fc7ff;
+    }
+    .accordion-header:hover {
+        background: #21272f;
+    }
+
+    .accordion-content {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.35s ease;
+        padding: 0 16px;
+    }
+
+    .accordion-content.open {
+        padding: 16px;
+    }
+
+    .accordion img {
+        width: 280px;
+        border-radius: 6px;
+        margin-bottom: 15px;
+        display: block;
+    }
+
+    h2 { color: #8fc9ff; margin-top: 20px; }
+    h3 { color: #7ab7ff; margin-top: 15px; }
+
+    ul { margin-left: 20px; }
+
+    strong { color: #d1e0ff; }
+</style>
+</head>
+
+
+<body>
+
+<div id="lore-container">
+
+    <!-- HEADER -->
+    <header class="lore-header">
+        <h1>Nurashell Saga - Lore Archive</h1>
+        <p class="lore-tagline">A Compendium of SynReal Worlds, Fablegate Mythos, and Mirrorborn Secrets</p>
+    </header>
+
+    <!-- NAVIGATION -->
+    <nav class="lore-nav">
+        <button data-section="overview" class="active">Overview</button>
+        <!-- <button data-section="timeline">Timeline</button> -->
+        <button data-section="technology">SynReal Tech</button>
+        <!-- <button data-section="fablegate">Fablegate World</button> -->
+        <button data-section="characters">Characters</button>
+        <!-- <button data-section="mirrorborn">Mirrorborn</button>
+        <button data-section="organizations">Organizations</button> -->
+    </nav>
+
+
+    <!-- ========= CONTENT SECTIONS ========= -->
+
+    <!-- OVERVIEW -->
+    <section id="overview" class="lore-section active">
+        <h2>Welcome to the Nurashell Saga Lore Archive</h2>
+        <p>
+            This codex contains the complete worldbuilding for the <strong>Synthetic Realism Era</strong>,
+            the rise of <strong>SynReal immersion technology</strong>,
+            the mythic world of <strong>Fablegate Online</strong>,
+            and the mysterious <strong>Mirrorborn phenomenon</strong>.
+        </p>
+
+        <h3>Main Categories</h3>
+        <ul>
+            <li><strong>SynReal Technology</strong>   neural-phase VR and embodiment.</li>
+            <li><strong>Fablegate</strong>   a living, evolving fantasy world.</li>
+            <li><strong>Characters</strong>   Leo, Ava, Leona, Avan, and more.</li>
+            <li><strong>Mirrorborn</strong>   the legendary identity-inversion glitch.</li>
+            <li><strong>Organizations</strong>   Mythos Dynamics, DreamFall Interactives.</li>
+        </ul>
+    </section>
+
+
+    <!-- TIMELINE -->
+    <section id="timeline" class="lore-section">
+        <h2>Timeline of Key Events</h2>
+        <ul>
+            <li><strong>2090s:</strong> The CEREBRO Initiative maps neural micro-fluctuations.</li>
+            <li><strong>2102:</strong> First AURORA Halo released by Mythos Dynamics.</li>
+            <li><strong>2115:</strong> Fablegate Online launches, becomes global phenomenon.</li>
+            <li><strong>2120:</strong> Helm-IX becomes standard; Mirrorborn rumors spread.</li>
+        </ul>
+    </section>
+
+
+    <!-- TECHNOLOGY -->
+    <section id="technology" class="lore-section">
+        <h2>SynReal Immersion Technology</h2>
+        <p>
+            SynReal VR provides perfect sensory simulation through neural-phase synchronization.
+        </p>
+
+        <h3>Core Systems</h3>
+        <ul>
+            <li><strong>SAP</strong>   Synthetic Anatomy Profiles</li>
+            <li><strong>VES</strong>   Variable Embodiment Systems</li>
+            <li><strong>ERM</strong>   Emotional Resonance Mapping</li>
+            <li><strong>Haptic-Neural Duplication</strong>   1:1 tactile fidelity</li>
+            <li><strong>Metasenses</strong>   mana-sight, etheric pressure, arcane temperature</li>
+        </ul>
+    </section>
+
+
+    <!-- FABLEGATE -->
+    <section id="fablegate" class="lore-section">
+        <h2>Fablegate Online   The Living Fantasy World</h2>
+        <p>
+            Fablegate is the most advanced SynReal world ever created a living, breathing mythic
+            ecosystem shaped by player choices and arcane physics.
+        </p>
+
+        <h3>Key Features</h3>
+        <ul>
+            <li>Living cities that evolve with player influence</li>
+            <li>Magic tied to emotion, geometry, and intention</li>
+            <li>Shapeshifting and alternate embodiment</li>
+            <li>Sentient-feeling NPC cultures</li>
+            <li>Hidden realms and mythic events</li>
+        </ul>
+    </section>
+
+
+    <!-- CHARACTERS -->
+
+    <section id="characters" class="lore-section">
+    <div class="container">
+
+        <h2>Characters</h2>
+        <p>Click any character to expand their full lore and anatomy details.</p>
+    
+    
+    
+    
+        <!-- ==========================
+             LEO HART
+        =========================== -->
+        <div class="accordion">
+            <div class="accordion-header">Leo Hart</div>
+            <div class="accordion-content">
+    
+                <img src="images/characters/leo/leo_full_cloth.png">
+    
+                <p><strong>Leo Hart</strong> is effortlessly confident, sharp-minded, and deeply affectionate beneath a teasing exterior.</p>
+    
+                <h2>Physical Details – Leo Hart</h2>
+                <p><strong>Age:</strong> 19<br>
+                   <strong>Height:</strong> 5'10"<br>
+                   <strong>Body Type:</strong> Lean athletic</p>
+    
+                <h3>Genitals</h3>
+                <p>Erect length: 6.2 in<br>Girth: 4.9 in</p>
+    
+                <h3>Anal Anatomy</h3>
+                <p>Resting: 1.6 cm<br>Comfort: 2.6 cm</p>
+    
+            </div>
+        </div>
+    
+    
+    
+    
+        <!-- ==========================
+             LEONA HART
+        =========================== -->
+        <div class="accordion">
+            <div class="accordion-header">Leona Hart</div>
+            <div class="accordion-content">
+    
+                <img src="images/characters/leona/leona_full_lumira.png">
+    
+                <p><strong>Leona Hart</strong> is Leo's subconscious-made fantasy form—curvier, softer, more alluring, and overwhelmingly sensual.</p>
+    
+                <h2>Physical Details – Leona Hart</h2>
+                <p><strong>Age:</strong> Appears 19<br>
+                   <strong>Height:</strong> 5'6"<br>
+                   <strong>Body Type:</strong> Idealized hourglass</p>
+    
+                <h3>Breasts</h3>
+                <ul>
+                    <li>DD-cup</li>
+                    <li>High sensitivity</li>
+                    <li>Warm pink nipples</li>
+                </ul>
+    
+                <h3>Genital Anatomy</h3>
+                <p>Inner labia: 6–9 mm<br>
+                   Clitoris: 7 → 12 mm when aroused</p>
+    
+                <h3>Vaginal Canal</h3>
+                <p>Depth (aroused): 6.0"<br>Tight, VR-responsive</p>
+    
+            </div>
+        </div>
+    
+    
+    
+    
+        <!-- ==========================
+             AVA MORGAN
+        =========================== -->
+        <div class="accordion">
+            <div class="accordion-header">Ava Morgan</div>
+            <div class="accordion-content">
+    
+                <img src="images/characters/ava/ava_full_cloth.png">
+    
+                <p><strong>Ava Morgan</strong> is shy, gentle, emotionally warm, and quietly passionate beneath her calm surface.</p>
+    
+                <h2>Physical Details – Ava Morgan</h2>
+                <p><strong>Age:</strong> 19<br>
+                   <strong>Height:</strong> 5'4"<br>
+                   <strong>Body Type:</strong> Soft, petite</p>
+    
+                <h3>Breasts</h3>
+                <ul>
+                    <li>Small B-cup</li>
+                    <li>Teardrop shape</li>
+                    <li>Areola: 3.1 cm</li>
+                </ul>
+    
+                <h3>Genital Anatomy</h3>
+                <p>Inner labia: 1–2 mm<br>
+                   Clitoris: 5 → 8 mm</p>
+    
+                <h3>Vaginal Canal</h3>
+                <p>Depth (aroused): 5.1"<br>Very snug</p>
+    
+            </div>
+        </div>
+    
+    
+    
+    
+        <!-- ==========================
+             AVAN MORGAN
+        =========================== -->
+        <div class="accordion">
+            <div class="accordion-header">Avan Morgan</div>
+            <div class="accordion-content">
+    
+                <img src="images/characters/avan/avan_full_eidolon.png">
+    
+                <p><strong>Avan Morgan</strong> is Ava’s subconscious masculine ideal—taller, stronger, elegant, confident, and intensely charismatic.</p>
+    
+                <h2>Physical Details – Avan Morgan</h2>
+                <p><strong>Height:</strong> 6'3"<br>
+                   <strong>Body Type:</strong> Fantasy athletic</p>
+    
+                <h3>Penis Anatomy</h3>
+                <p>Erect: 8.4"<br>
+                   Girth: 6.0"<br>
+                   Upward curve</p>
+    
+                <h3>Testicles</h3>
+                <p>Large, heavy hang<br>Volume: 5–7 ml</p>
+    
+                <h3>Anal Anatomy</h3>
+                <p>Resting: 1.8 cm<br>Comfort: 3.2 cm</p>
+    
+            </div>
+        </div>
+    
+    </div>
+</section>
+    
+    
+    <script>
+    // Accordion logic
+    document.querySelectorAll('.accordion-header').forEach(header => {
+        header.addEventListener('click', function () {
+            const content = this.nextElementSibling;
+    
+            // Toggle the panel
+            if (content.style.maxHeight) {
+                content.style.maxHeight = null;
+                content.classList.remove("open");
+            } else {
+                content.style.maxHeight = content.scrollHeight + "px";
+                content.classList.add("open");
+            }
+        });
+    });
+    </script>
+    
+
+
+    <!-- MIRRORBORN -->
+    <section id="mirrorborn" class="lore-section">
+        <h2>The Mirrorborn Phenomenon</h2>
+        <p>
+            A rare, possibly mythical SynReal anomaly involving perfect cross-identity embodiment inversion.
+            Two users may emerge in bodies biologically and sensorially reconstructed as each other’s ideal opposite.
+        </p>
+
+        <h3>Theoretical Triggers</h3>
+        <ul>
+            <li>SAP Reconstruction Errors</li>
+            <li>VES Stabilization Overrides</li>
+            <li>Cross-Linked Identity Anchors</li>
+            <li>Emotional Resonance Misfires</li>
+        </ul>
+
+        <p>Mythos denies it can happen.  
+        Players… aren’t convinced.</p>
+    </section>
+
+
+    <!-- ORGANIZATIONS -->
+    <section id="organizations" class="lore-section">
+        <h2>Major Organizations</h2>
+
+        <h3>Mythos Dynamics</h3>
+        <p>Creators of SynReal hardware, neural-phase tech, and the AURORA Helm systems.</p>
+
+        <h3>DreamFall Interactives</h3>
+        <p>Architects of living narratives, emotional resonance, and Fablegate’s mythic world structure.</p>
+
+        <h3>MythFall Industries</h3>
+        <p>The joint venture responsible for maintaining Fablegate Online and SynReal entertainment.</p>
+    </section>
+
+</div>
+
+
+<!-- SECTION SWITCHING SCRIPT -->
+<script>
+document.querySelectorAll('.lore-nav button').forEach(btn => {
+    btn.addEventListener('click', () => {
+
+        document.querySelectorAll('.lore-nav button')
+                .forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+
+        document.querySelectorAll('.lore-section')
+                .forEach(sec => sec.classList.remove('active'));
+
+        document.getElementById(btn.dataset.section).classList.add('active');
+    });
+});
+</script>
+
+</body>
+</html>

@@ -1972,7 +1972,7 @@ We stood there in our unfamiliar bodies, breathing hard, terrified, clinging to 
 [[The world around us shattered into violet neon|day_7_22_eidolom_straight]]
 
 :: day_7_22_eidolom_straight
-
+<<set $locationImage = "images/locations_eidolon/apartment.jpeg">>
 The world around us shattered into violet neon. The warm wood vanished. The island dissolved. A cold violet pulse spread beneath our feet   and the system announced our arrival,
 
 <<system "Spawn point configured: Eidolon City User Penthouse Apartment." >>

@@ -245,6 +245,10 @@ I say, stretching. She says
 
 In that quiet way she does when she’s smiling softly at the floor. Then she hangs up. I get ready quickly shower, jeans, a hoodie and catch myself actually putting effort into my hair before giving up the fight and letting it fall however it wants. Ava doesn’t care what my hair looks like. She cares whether I’m warm enough, whether I’ve eaten, whether I’m stressed. Small things, but somehow all the things that matter.
 
+[[Morning Walk to Café|dorm_cafe_1_1]]
+
+:: dorm_cafe_1_1
+<<set $locationImage = "images/locations/cafeteria.jpeg">>
 When I step outside, she’s already waiting at the base of her dorm steps, hands tucked into her coat sleeves, ribbon tied loosely in her dark hair. She looks up when she hears me. Her smile is small but warm, the kind that lights her entire face.
 
 <<ava "Hi.">>
@@ -283,6 +287,10 @@ The campus always feels different once Ava and I split off for class like the da
 
 I tease, leaning down to kiss her forehead. Her cheeks warm instantly, that shy smile blooming. Then she slips inside the building with her book clutched to her chest, disappearing into the crowd. I head across the quad toward engineering, adjusting my backpack, trying to shake off how much I already miss the warmth of her tucked under my arm.
 
+[[Circuits Lecture|circuits_lecture]]
+
+:: circuits_lecture
+<<set $locationImage = "images/locations/eng_class.jpeg">>
 In the lecture hall, I take my usual seat third row, easy view of the board but far enough from the professor that I don’t feel watched. I pull out my notebook, flip it to a mostly blank page with a few chaotic scribbles from last week, and try to settle into student mode. I last about seven minutes before my phone buzzes. A photo from Ava.
 
 It’s her notes neat handwriting, margins decorated with tiny doodles of teacups, stars, and little cats curled around paragraphs. She must have drawn them while half-listening to the lecture, her mind drifting in that soft, absentminded way she gets when something reminds her of me.
@@ -310,7 +318,7 @@ Her answer comes almost instantly, like she’d been waiting with her phone in h
 [[Library Window Seat|dorm_cafe_2]]
 
 :: dorm_cafe_2
-
+<<set $locationImage = "images/locations/library.jpeg">>
 The library feels like a different world compared to the noisy campus paths outside cool, quiet, sun filtering through tall windows in soft, golden beams. I spot Ava immediately. She always chooses the same window seat on the second floor, the one tucked against the wall where the sunlight hits her hair like warm glass.
 
 She’s already looking for me when I step out of the stairwell, her head lifting, ribbon swaying slightly as she smiles. Not a big smile Ava doesn’t do big smiles but one of those soft ones that makes her eyes warm and her shoulders relax, like she’s been holding her breath and only just let it out.
@@ -382,7 +390,7 @@ Not every day. Not always so openly. But today, she wants me near. I squeeze her
 [[Afternoon Walk in the Park|dorm_cafe_3]]
 
 :: dorm_cafe_3
-
+<<set $locationImage = "images/locations/park.jpeg">>
 The sun has mellowed by the time we step out of the library warm, not sharp, filtered through soft patches of cloud that drift lazily across the sky. Ava slips her hand into mine the moment we’re outside, like she’s been waiting for the chance. Her fingers are cool from the air-conditioned building, and she squeezes lightly as we cross the quad toward the small park that borders campus.
 
 The path curves between tall trees, leaves flickering in the breeze. It’s quieter here only gravel crunching under our shoes and distant chatter from students on the grass.
@@ -542,7 +550,7 @@ We continue down the path, side by side, her arm brushing mine with every unhurr
 
 
 :: day_1_5
-
+<<set $locationImage = "images/locations/leo_dorm.jpeg">>
 By the time we reach my dorm, the sky has turned that soft violet-blue that always makes campus look dreamlike. Ava walks beside me quietly, her hand still tucked in mine, her thumb brushing the back of my knuckles every few steps like she’s drawing courage from the contact.
 
 Inside my room, the lights are low my desk lamp glowing warm gold against the wall, soft music humming from my speaker. She pauses in the doorway, that shy hesitation she always has before entering my space fully. Then she exhales and steps in. I close the door gently behind us.
@@ -643,6 +651,10 @@ God. That warms something deep in me. I finish getting dressed jeans, hoodie, ha
 
 <<ava "Leo !">>
 
+[[Breakfast at the Cafeteria|day_2_1_1]]
+
+:: day_2_1_1
+<<set $locationImage = "images/locations/cafeteria.jpeg">>
 I laugh quietly as I push through the cafeteria doors. She’s exactly where she said standing by the tall window with her tea already in both hands, rocking lightly on her heels. When she spots me, her expression brightens… then falters just a little.
 
 Last night sits between us in the faint stiffness of her posture. Still, she walks to me, lifts her free hand, and slips her fingers into mine like she needs the reassurance. We settle at our usual table, sunlight washing over her hair. She stirs her tea too long, gaze drifting over the steam before settling on me again hesitant, searching.
@@ -668,7 +680,7 @@ She whispers, though it sounds like she’s trying to convince herself. She hold
 [[Late Morning Classes|day_2_2]]
 
 :: day_2_2
-
+<<set $locationImage = "images/locations/corridor.jpeg">>
 The air outside the cafeteria is crisp, sunlight sharper than yesterday. Students move in clusters toward their classes, voices echoing across the courtyard. Ava walks beside me, still holding my hand from breakfast like she’s afraid to let go.
 
 Her thumb rubs slow circles along the side of my palm tiny, anxious motions she probably doesn’t realize she’s doing. Before we split for our buildings, she stops, tugging gently on my hand.
@@ -735,7 +747,7 @@ Before I can reach her, she turns and slips into the crowd, moving too fast, sho
 
 
 :: day_2_3
-
+<<set $locationImage = "images/locations/eng_class.jpeg">>
 Ava doesn’t look back as she disappears into the crowd, but the image of her tight shoulders and trembling fingers stays with me long after she’s gone.
 
 I make it to my engineering lecture on autopilot, dropping into my seat without hearing a word the professor says. My phone sits face-down on the desk for the first ten minutes because I’m afraid to check it afraid there’s nothing from her. Eventually, I flip it over. No messages. I try anyway.
@@ -782,6 +794,7 @@ Just one word. Small. Careful. And that tells me everything. She’s hurting, an
 
 
 :: day_2_4
+<<set $locationImage = "images/locations/cafeteria.jpeg">>
 The café is warm compared to the chilly campus air, filled with the low hum of conversations and the scent of espresso. I grab our usual corner table the one tucked away near the window and sit with my hands clasped, waiting.
 
 Ava arrives a minute later. Her steps are small, careful. She keeps her arms close to her body, ribbon slightly crooked like she got dressed without looking in the mirror. When she spots me, she tries to smile.
@@ -859,6 +872,7 @@ We stay that way, her hand in mine, her breath unsteady but slowly evening out, 
 [[Her Dorm Room|day_2_5]]
 
 :: day_2_5
+<<set $locationImage = "images/locations/ava_dorm.jpeg">>
 <<img "images/locations/ava_dorm.jpeg" "header">>
 
 Her dorm hall is quieter at night, the kind of quiet that makes every footstep echo. When Ava opens her door, she’s already in her soft sleep shirt and cardigan, hair down, ribbon slipping from one side like she’s been tugging at it nervously.
@@ -954,6 +968,10 @@ There’s a soft, shaky breath on the other end. Then her voice small, thinned b
 
 The please breaks something in me. I’m out of bed instantly, tugging on jeans, hoodie, barely registering the cold floor under my feet. Her hallway is silent when I reach it, the kind of quiet that feels heavy. Before I even knock, her door cracks open and she pulls me inside with trembling hands.
 
+[[Her Dorm Room|day_3_1_1]]
+
+:: day_3_1_1
+<<set $locationImage = "images/locations/ava_dorm.jpeg">>
 She’s in her sleep shirt, hair mussed, ribbon slipping loose. Her eyes are red, like she’s been awake for hours. And she just… clings to me. Arms around my waist, face pressed into my chest, her fingers gripping the fabric like I’m the only thing keeping her upright. I wrap her up immediately.
 
 <<leo "Hey hey. I’m here. I’m right here.">>
@@ -1027,8 +1045,7 @@ She blushes faintly, cheeks pink and warm, and presses closer as if absorbing th
 [[Morning at Campus|day_3_2]]
 
 :: day_3_2
-
-
+<<set $locationImage = "images/locations/cafeteria.jpeg">>
 By the time we make it to the cafeteria, the morning rush has thinned, but the room still buzzes with scattered conversations and clinking silverware. Ava stays close to my side the whole walk closer than usual, like gravity is pulling her toward me. Her fingers keep brushing mine until finally she just takes my hand outright, squeezing once, as if asking permission to breathe easier.
 
 We slide into our usual booth. Except she doesn’t sit across from me. She sits beside me. Practically on my side of the booth, thigh pressed fully against mine, shoulder tucked under my arm.
@@ -1113,7 +1130,7 @@ The rest of breakfast is quiet. She doesn’t eat much. She just holds onto me l
 
 
 :: day_3_3
-
+<<set $locationImage = "images/locations/corridor.jpeg">>
 Classes let out early today, sunlight flooding the courtyard in warm gold. Students wander in clusters, laughing, heading toward the café or the quad. I check my phone. Still nothing from Ava since breakfast.
 
 I spot her before she spots me standing with two of her literature friends. Natalie, with the green glasses and fast-talking energy, and Jenna, with curls bouncing like static electricity. Ava stands between them, small and quiet, her fingers twisted in the hem of her cardigan. She’s listening but not really. Anyone could tell she’s somewhere else entirely. When she finally turns and sees me across the path, her whole body stiffens… then softens with relief. Her friends follow her gaze immediately. Natalie grins.
@@ -1234,11 +1251,11 @@ I rest my chin on her head.
 
 She nods against me, holding me like she’s afraid the world will pull me away.
 
-[[Ava's Dorm Room|day_3_4]]
+[[Go to Dorm Room|day_3_4]]
 
 
 :: day_3_4
-
+<<set $locationImage = "images/locations/leo_dorm.jpeg">>
 She arrives at my dorm earlier than planned. Knocks once softly then a second time, like she’s scared she’ll lose her nerve if she waits too long.
 
 When I open the door, she slips inside quickly, almost hiding in my hoodie as I shut it behind her. Her eyes are down, her hands twisting at the hem of her cardigan her nervous tell, sharp and frantic today. I guide her gently to sit on the edge of my bed. She sits stiffly, knees together, shoulders trembling with something more than just nerves.
@@ -1493,6 +1510,10 @@ Her smile twitches.
 
 <<ava "Of course I’m okay! Yesterday was… it was fine. Really. Don’t worry about me, okay?">>
 
+[[Go to Breakfast|day_4_1_1]]
+
+:: day_4_1_1
+<<set $locationImage = "images/locations/cafe.jpeg">>
 Her voice cracks on “fine.” She rushes us toward the path before I can answer. She holds my hand the entire walk tight, gripping, as if afraid I might fade if she loosens her fingers. Every few steps she brushes her shoulder into me, exaggeratedly cheerful.
 
 She talks about the weather. The movie. Her literature class. How she wants popcorn later. How she thinks she might braid her hair. How she’s craving strawberry smoothies. Anything but yesterday. Anything but the trembling in her hands.
@@ -1523,7 +1544,7 @@ She lifts her head and takes a sip of tea, hands still shaking faintly. And I do
 [[Go to Classes|day_4_2]]
 
 :: day_4_2
-
+<<set $locationImage = "images/locations/corridor.jpeg">>
 Campus is warm and bright by the time we finish breakfast, sunlight spilling across the brick paths in soft gold. Ava walks with me until our paths split, her hand wrapped around my arm like she doesn’t want to let go. At the intersection between buildings, she stops and forces another bright smile too quick, too polished.
 
 <<ava "Okay! Literature for me… engineering for you. You’ll do great.">>
@@ -1540,6 +1561,10 @@ Her cheeks color faintly, and she bites her lip nervous, hopeful, still pushing 
 
 <<leo "I always do.">>
 
+[[Go to Literature Class|day_4_2_1]]
+
+:: day_4_2_1
+<<set $locationImage = "images/locations/eng_class.jpeg">>
 She turns and walks toward her building, shoulders slightly hunched despite the cheerful bounce in her step. I watch her disappear into the crowd, something tight pressing against my ribs.
 
 In Class My professor drones on about statics and load distribution, diagrams filling the screen but all I can think about is Ava’s trembling smile and the way she gripped my hand at breakfast like she was afraid I’d slip away. My phone buzzes. Ava.
@@ -1603,7 +1628,7 @@ Even with the warmth on my face, I can’t shake the feeling that Ava’s smile 
 [[Afternoon with Ava|day_4_3]]
 
 :: day_4_3
-
+<<set $locationImage = "images/locations/mall.jpeg">>
 The mall is buzzing air-conditioning humming, music drifting from open storefronts, clusters of students moving between shops with bags swinging at their sides. Ava walks beside me, fingers hooked into the edge of my hoodie pocket instead of holding my hand. It’s a small thing, but it tells me she’s nervous trying to stay close without looking like she needs to. Her smile keeps flickering on and off like a faulty bulb.
 
 We stop at the snack shop first, where the clerk is restocking jars of colorful candy. Ava picks up a bag of chocolate clusters and holds it up with both hands, eyes bright.
@@ -1679,6 +1704,7 @@ She takes my hand finally and we head toward the theater, shopping bag swinging 
 [[Movie at the Theater|day_4_4]]
 
 :: day_4_4
+<<set $locationImage = "images/locations/theatre_outside.jpeg">>
 The theater is buzzing with the usual pre-movie noise popcorn machines humming, teenagers laughing, the faint echo of trailers playing in neighboring rooms. Ava walks close to me, holding the snack bag like it’s a shield, her shoulder brushing mine every few steps.
 
 We’re just turning toward our theater when it happens. A muffled sound. Soft at first barely noticeable over the chatter. But then it sharpens. A quiet gasp. A low moan. The rhythmic sound of something someone moving against a wall inside the restroom down the hallway. Ava freezes. Completely.
@@ -1723,7 +1749,7 @@ She pulls her cardigan tighter over her chest, trying to shield herself from the
 
 
 :: day_4_5
-
+<<set $locationImage = "images/locations/theatre.jpeg">>
 The theater lights dim, washing the room in soft blue shadows. The screen glows. The opening credits roll. But Ava is barely watching. From the moment we sit, she tucks herself under my arm, curling into my side with a closeness that feels deeper, heavier, than before. Her head rests just below my shoulder, her breath brushing warm through my shirt.
 
 For the first fifteen minutes, she’s stiff tense from the hallway incident, still burning with embarrassment. Then gradually… she softens. Her fingers slide along my thigh, hesitant at first, then resting there gentle, warm, needy in a quiet way.
@@ -1862,6 +1888,10 @@ My chest tightens.
 
 <<leo "You already are.">>
 
+[[Walk Home|day_4_5_1]]
+
+:: day_4_5_1
+<<set $locationImage = "images/locations/street.jpeg">>
 She doesn’t answer. The Walk Home Streetlights cast soft orange glows along the sidewalk. Our shadows drift beside us hers close to mine, but her body feels miles away. She doesn’t reach for my hand this time. Only folds her arms over her stomach like she’s protecting something delicate.
 
 The air is quiet. The city hums far away. But between us, everything feels brittle. At her dorm steps, she finally turns to me, eyes glossy with shame she’s trying to swallow.
@@ -1880,6 +1910,10 @@ Before I can disagree, she steps forward and hugs me hard her arms tight around 
 
 She nods against me, but her breath shivers. She pulls back slowly. Rises on her toes. Kisses my forehead a soft, trembling touch.
 
+[[Walk her to Dorm|day_4_5_1_1]]
+
+:: day_4_5_1_1
+<<set $locationImage = "images/locations/ava_dorm.jpeg">>
 <<ava "Goodnight… Leo.">>
 
 Her voice is small. Shaken. Frayed at the edges.
@@ -1927,6 +1961,10 @@ Her voice softens, almost shy,
 
 <<ava "Okay. I’ll… meet you downstairs.">>
 
+[[Go to meet Ava|day_5_1_1]]
+
+:: day_5_1_1
+<<set $locationImage = "images/locations/ava_dorm.jpeg">>
 We hang up. I sit there for a moment, phone still in my hand, running a hand over my face. Something in her tone too bright, too fast, too eager tells me she’s not steady at all. I get dressed quickly and head out.
 
 Ava is waiting at the entrance of her dorm, rocking lightly on her toes, clutching her phone with both hands like a lifeline. The second she sees me, she brightens too fast, too wide. She tucks her phone away and almost hops toward me.
@@ -1945,7 +1983,7 @@ She practically pulls me toward the sidewalk. Something inside me twists. She’
 
 
 :: day_5_2
-
+<<set $locationImage = "images/locations/cafeteria.jpeg">>
 The café smells like fresh pastries and warm sugar, the kind of soft morning sweetness that usually relaxes Ava. Not today. She sits beside me in our booth, hands wrapped around her mug even though she hasn’t taken a sip. Her smile is small, tight, like she’s stretching it over a bruise. A moment later, Jamie and Rowan appear coat sleeves rolled up, still glowing from vacation. Jamie practically beams as she slides into the seat across from us.
 
 <<jamie "Look at you two! We were gone for one week and somehow you’re even cuter. How’s that fair?">>
@@ -2181,7 +2219,7 @@ She exhales a tiny, trembling breath of relief. Still not looking at me. Still a
 
 
 :: day_5_5
-
+<<set $locationImage = "images/locations/corridor.jpeg">>
 After the classes I met Ava again. The afternoon sun is soft, warm but not bright, filtering through the trees with a gentle glow that usually calms Ava. Not today. Both hands wrap around it, pulling herself into my side like she’s afraid the world might steal me if she leaves even a sliver of space. She doesn’t speak for a while. Just walks.
 
 Her cheek occasionally brushing my shoulder. Her grip tightening whenever we pass clusters of students. Her steps small, hesitant. I slow my pace automatically. She presses even closer. Finally, I try breaking the silence.
@@ -2279,7 +2317,7 @@ Her entire body softens, like she’s been holding her breath all morning. But h
 [[Walk Ava to her dorm|day_5_6]]
 
 :: day_5_6
-
+<<set $locationImage = "images/locations/ava_dorm.jpeg">>
 We walk back to her dorm as the daylight fades into cool lavender. Ava holds my arm the whole way carefully, tightly, as though she’s made of two parts, the part that wants to stay close to me, and the part that’s terrified she isn’t enough. By the time she unlocks her door, her hands are trembling again.
 
 Inside, she closes it softly behind us and stands there for a moment, back pressed to the wood, eyes lowered. Her room is dim just the warm lamplight filling the edges with soft gold. I sit on the edge of her bed and pat the blanket beside me. She hesitates… then walks over and sits slowly, like she’s afraid the mattress might collapse under her. She takes a long breath, steadying herself, then turns slightly toward me.
@@ -2373,7 +2411,7 @@ She drifts to sleep on my chest, still holding onto my shirt as though the world
 
 
 :: day_5_7
-
+<<set $locationImage = "images/locations/leo_dorm.jpeg">>
 Ava is asleep on my chest when I leave her dorm small, curled, exhausted from carrying fear and guilt all day. When I finally slip out and make it back to my place, my head is too full to sit still. I need answers. And there are only two people who actually know the truth. I grab my phone and call Rowan. He picks up almost immediately.
 
 <<rowan "Yo, you alive? Jamie said Ava was looking rough today.">>
@@ -2519,7 +2557,7 @@ My room is dark and quiet when I finally sit down on my bed. But my mind isn’t
 
 Ava asleep on my chest… her voice trembling as she whispered she loved me… her tiny, hopeful suggestion about VR… and now Rowan and Jamie explaining everything that they use it, that it helps, that it’s real, safe, gentle. All of it circles in my head like a storm that refuses to settle. The room feels too empty without her. Before I can stop myself, I pick up my phone and press her name. She answers on the first ring. Her voice is soft, sleepy, warm.
 
-<<ava "Leo…? Did you get home okay?">>
+<<ava "Leo…? Did you get dorm okay?">>
 
 My chest tightens at how small she sounds.
 
@@ -2727,7 +2765,7 @@ By the time Rowan and I reached the cafeteria doors, I already knew Ava was push
 
 
 :: day_6_3
-
+<<set $locationImage = "images/locations/cafeteria.jpeg">>
 The cafeteria was already humming by the time Rowan and I stepped inside soft chatter, clinking mugs, the low hiss of an espresso machine that never seemed to stop suffering. I scanned the room automatically, heartbeat tightening a little in anticipation. Ava was sitting with Jamie near the corner windows.
 
 The moment her eyes lifted and found mine… something in my chest eased, just a little. She gave me the smallest smile shy around the edges, but real. I walked over with Rowan, trying not to look like someone who’d been worrying all morning. Jamie waved us over.
@@ -2782,7 +2820,7 @@ Her shoulders lowered just a little, like a weight loosened. We ate laughing at 
 
 
 :: day_6_4
-
+<<set $locationImage = "images/locations/mall.jpeg">>
 The mall doors slid open with a soft hydraulic sigh, that cold manufactured air brushing over us as we stepped inside. Weekend crowds moved like slow currents families, students, couples, people drifting between stores under warm skylights. Ava moved a little closer to me as we walked, her fingers brushing mine each time a louder group passed. She never fully held on, but she hovered like she wanted the contact without drawing attention. Jamie clapped her hands once.
 
 <<jamie "Alright! Warm-up mission, cute outfits for Ava. Boys, go entertain yourselves. Try not to spend all your money on RGB nonsense." >>

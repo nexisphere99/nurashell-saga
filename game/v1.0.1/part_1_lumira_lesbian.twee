@@ -552,7 +552,7 @@ Hearing my own voice light, airy, intimate made me freeze all over again. My ref
 [[World Initialization: LUMIRA|day_6_37_lumira_lesbian]]
 
 :: day_6_37_lumira_lesbian
-
+<<set $locationImage = "images/locations_lumira/apartment.jpeg">>
 The obsidian reflection shattered not violently, but like glass dissolving into warm golden dust. Each fragment drifted upward, weightless, sparkling, until the darkness around me thinned into a soft, rising glow. A breeze touched my skin. Not simulated wind not something abstract but real, warm air sliding across my newly sensitive body. It lifted the long hair down my back, stirring the ends so gently it sent a shiver through me. Then a voice, calm and luminous,
 
 <<system "Initializing world environment… Lumira: Eternal Sky." >>

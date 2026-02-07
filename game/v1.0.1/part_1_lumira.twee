@@ -293,7 +293,7 @@ Ava laughed again real, bright, releasing the last bit of tension knotted in her
 
 
 :: day_6_23_lumira
-
+<<set $locationImage = "images/locations/street.jpeg">>
 The café lights warmed into a late-afternoon glow, stretching soft golden lines across the table. It felt like the day itself was winding down, settling gently around us. Ava’s head still rested lightly against my shoulder, her breaths small and calm, fingers interlaced with mine under the table. Jamie finished the last sip of her drink and set the cup down with a soft clink.
 
 <<jamie "Alright, troublemakers. Rowan and I should get going." >>
@@ -381,7 +381,7 @@ She breathed out relieved, fragile, hopeful. And together, we stepped into the c
 
 
 :: day_6_24_lumira
-
+<<set $locationImage = "images/locations/ava_dorm.jpeg">>
 By the time we reached Ava’s dorm building, the sky had settled into deep evening soft purples fading into navy, the campus quiet and warm under the glow of lampposts. The air felt lighter, almost fragile, like the day was holding its breath around us. Ava walked slower as we reached the steps, her hand still gently woven with mine. Not tight. Not anxious. Just… wanting the connection.
 
 Her ribbon swayed faintly with each step, catching bits of lamplight like soft starlight. At her door, she stopped. She didn’t open it. She didn’t move at all for a moment. She just stood there, fingers brushing the edge of my hoodie sleeve, hesitating the way she always did before saying something vulnerable. She looked up at me eyes warm, tired, and soft in a way that tugged right through my chest.
@@ -473,7 +473,7 @@ She trusted me. Not just with her feelings. But with the world she chose. And to
 
 
 :: day_6_25_lumira
-
+<<set $locationImage = "images/locations/leo_dorm.jpeg">>
 The walk back to my dorm felt heavier than I expected not in a bad way, just in that bone-deep exhaustion that comes when a long day finally catches up. The VR case rested against my side with every step, warm from being carried so long. A reminder of everything that had happened. Everything that would happen tomorrow.
 
 By the time I reached my room, the hallway lights were dim, the building quiet, that late-campus stillness settling over everything like a blanket. I unlocked my door and slipped inside, letting the soft click echo in the empty space. I set the Lumira case gently on my desk. It glowed faintly in the low light like it was breathing. Like it was waiting for me.

@@ -13,8 +13,14 @@ $(document).one(':storyready', function () {
             </div>
             <div class="neura-left-image">
                 <img id="neura-player-image"
-                     src="${State.variables.playerImage || 'https://placehold.co/280x500/png'}"
-                     alt="Character Image">
+                    src="${State.variables.playerImage || 'https://placehold.co/280x500/png'}"
+                    alt="Character Image">
+            </div>
+
+            <div class="neura-left-location">
+                <img id="neura-location-image"
+                    src="${State.variables.locationImage || 'https://placehold.co/280x160/png'}"
+                    alt="Location Image">
             </div>
         </aside>
 
@@ -43,18 +49,29 @@ $(document).one(':storyready', function () {
 });
 
 
-// Update the image on every passage render
 $(document).on(':passagerender', function () {
-    if (State.variables.playerImage) {
-        $('#neura-player-image').attr('src', State.variables.playerImage);
+
+    /* PLAYER IMAGE */
+    if (State.variables.playerImage && $('#neura-player-image').length) {
+        $('#neura-player-image')
+            .stop(true, true)
+            .fadeOut(200, function () {
+                $(this)
+                    .attr('src', State.variables.playerImage)
+                    .fadeIn(200);
+            });
     }
+
+    /* LOCATION IMAGE */
+    if (State.variables.locationImage && $('#neura-location-image').length) {
+        $('#neura-location-image')
+            .stop(true, true)
+            .fadeOut(200, function () {
+                $(this)
+                    .attr('src', State.variables.locationImage)
+                    .fadeIn(200);
+            });
+    }
+
 });
 
-
-$(document).on(':passagerender', function () {
-    if (State.variables.playerImage) {
-        $('#neura-player-image').fadeOut(200, function() {
-            $(this).attr('src', State.variables.playerImage).fadeIn(200);
-        });
-    }
-});
