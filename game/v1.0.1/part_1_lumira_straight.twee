@@ -1207,7 +1207,7 @@ But the sound came out deeper than he expected. His eyes widened. Heat seared ac
 
 Deep. Smooth. Shockingly low. Not male-ish. Not a mix. A masculine register built from Ava’s subconscious ideal. Ava's throat flexed, and her new voice rumbled faintly completely unintentional. A wave hit his ribcage. His entire chest vibrated a deep, warm resonance replacing Ava’s light tone. Sound moved from, the upper throat, the nasal cavity, the head voice, Down into, the sternum, the diaphragm, the chest cavity, the collarbones, Every breath became heavy, grounded. When he exhaled, the air carried a new depth. Leo felt it vibrate in the floorboards.
 
-<<leoona "A-Ava... ?" >>
+<<leona "A-Ava... ?" >>
 
 He answered his voice rolling through the space like a low, controlled rumble,
 
@@ -1304,6 +1304,7 @@ The world began to materialize around us wood, sunlight, a warm cabin interior. 
 
 :: day_7_20_lumira_straight
 <<set $locationImage = "images/locations_lumira/apartment.jpeg">>
+<<set $playerImage to "images/characters/leona/leona_full_lumira.png">>
 The last glow of the transformation flickered out, replaced by a slow, warm radiance that pulsed beneath our feet. The white void cracked   not shattered, not abruptly   but unfolded, like soft paper peeling away to reveal color, texture, life. Lumira. The world breathed itself into existence around us.
 
 <<img "images/scene/part_1/apartment_3.jpeg" "scene">>

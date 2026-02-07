@@ -1562,7 +1562,7 @@ The system moved to her next,
 
 Ava inhaled sharply, terrified.
 
-[[To be continued...|day_7_18_eidolom_straight]]
+[[Ava’s pod lit up with a violent surge|day_7_18_eidolom_straight]]
 
 
 :: day_7_18_eidolom_straight
@@ -1973,6 +1973,7 @@ We stood there in our unfamiliar bodies, breathing hard, terrified, clinging to 
 
 :: day_7_22_eidolom_straight
 <<set $locationImage = "images/locations_eidolon/apartment.jpeg">>
+<<set $playerImage to "images/characters/leona/leona_full_eidolon.png">>
 The world around us shattered into violet neon. The warm wood vanished. The island dissolved. A cold violet pulse spread beneath our feet   and the system announced our arrival,
 
 <<system "Spawn point configured: Eidolon City User Penthouse Apartment." >>
@@ -1993,13 +1994,13 @@ Her his voice vibrated the air, deeper and rougher than she expected, and he win
 
 <<leona "Ava Ava don’t look don’t look at me " >>
 
-<<img "images/scene/part_1/user_6.jpeg" "scene">>
+<<img "images/characters/leona/leona_full_eidolon.png" "scene">>
 
 But he already had. His reflection towered behind mine   muscular, masculine, breathing hard.
 
 <<avan "Leo… I don’t even recognize us…" >>
 
-<<img "images/scene/part_1/avan_2.jpeg" "scene">>
+<<img "images/characters/avan/avan_full_eidolon.png" "scene">>
 
 His voice cracked deep, heavy. I wrapped my arms around myself instantly feeling the unfamiliar weight of my breasts shifting. The apartment around us pulsed with soft neon light, too sensual, too intimate, A hovering low bed with holographic sheets drifting between violet and rose gold. A wardrobe open to reveal cyber-leather outfits, neon mesh tops, sleek bodysuits shaped to feminine curves and masculine frames. A bathroom glowing softly, floating screens hovering over a chrome basin. Holographic mirrors suspended in an arc, capturing every angle of our new bodies.
 
