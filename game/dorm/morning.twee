@@ -1,0 +1,26 @@
+
+
+
+
+:: leo_dorm_room
+<<nobr>>
+<<img "images/locations/leo_dorm.jpeg" "header">>
+
+<<if $day == 1>>
+    [[Wake Up|morning_1]]
+<<elseif $day == 2>>
+    [[Wake Up|day_2_1]]
+<<elseif $day == 3>>
+    [[Wake Up|day_3_1]]
+<<elseif $day == 4>>
+    [[Wake Up|day_4_1]]
+<<elseif $day == 5>>
+    [[Wake Up|day_5_1]]
+<<elseif $day == 6>>
+    [[Wake Up|day_6_1]]
+<<elseif $day == 7 and $game == "eidolom_straight">>
+    [[Wake Up|day_7_1_eidolom_straight]]
+<<elseif $day == 7 and $game == "lumira_straight">>
+    [[Wake Up|day_7_1_lumira_straight]]
+<</if>>
+<</nobr>>

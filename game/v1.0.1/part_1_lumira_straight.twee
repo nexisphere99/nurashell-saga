@@ -1,0 +1,1364 @@
+
+
+
+
+
+:: day_6_26_lumira_straight
+
+The glow from the VR case spilled softly across my room warm gold painting the walls with a quiet invitation. I stood there in the dim light, helmet in one hand, wristband in the other, heart doing this slow, steady pounding that felt half anticipation, half exhaustion.
+
+I could log in. Ava told me I could. She trusted me with that. Just a quick look. Just enough to learn the basics. Just enough to help her tomorrow. But as I stared down at the helmet, my muscles finally stopped pretending they had anything left. My legs felt heavy. My shoulders sagged. My eyes burned in that way that meant sleep was dragging its fingers through my thoughts, pulling them down. I set the helmet back in its cushioned slot, fingers lingering on the smooth surface.
+
+<<leo "…I’m too tired for this tonight." >>
+
+Saying it softly made the truth settle deeper. Yes, logging in might help Ava tomorrow. But going in half-awake, blurry, unfocused that wouldn’t help either of us. And something inside me whispered that our first real steps into this world… should be taken together. Not rushed. Not stumbled through. Shared.
+
+I closed the case gently. The glow dimmed a little, like the world inside understood I wasn’t coming tonight but wasn’t offended just waiting. I sat on the edge of my bed, elbows on my knees, and exhaled. The thought of slipping into Lumira’s warm sky alone tonight… it didn’t feel right. I wanted Ava there. I wanted her hand in mine. I wanted to witness her first reaction her awe, her fear, her excitement all of it, not experience it beforehand without her. She chose me to walk into it with her. That meant something. I rubbed my face, exhaustion pressing heavy across my eyelids.
+
+<<leo "Tomorrow will be better." >>
+
+I lay back on the bed, staring at the ceiling as the soft VR glow flickered across the room one more time. The decision settled like a final, comforting breath. No preview. No shortcuts. No solo first step.
+
+Tomorrow morning, she and I would open the world together. Fresh. Unspoiled. Side by side. Slowly, sleep rose up around me, warm and heavy. The last thing I saw before my eyes closed was the faint glow of the VR case, patient and steady  Waiting for us.
+
+<<set $day to 7>>
+<<set $game to "lumira_straight">>
+
+[[Sleep|leo_dorm_room]]
+
+:: day_7_1_lumira_straight
+
+My alarm buzzed somewhere far away, a thin vibration against the pillow before reality caught up and dragged me out of sleep. For a moment I didn’t move. I just lay there, face half-buried in the blanket, eyes squinting against the soft morning light leaking through the blinds and then I saw it.
+
+The VR case at the foot of my bed. Still. Silent. Waiting. A warm pull went through me anticipation, nerves, something like hope but it was quieter than last night. Softer. I stretched, rubbed my eyes, and let out a groan that sounded embarrassingly human. I hadn’t logged in. I’d chosen to wait. Chosen her. My phone buzzed as if on cue. Ava.
+
+Her name glowing on my screen hit me with a different warmth one that spread low and steady through my chest. I sat up, cleared my throat, thumb hovering over the call before I answered. I didn’t even get a full hello out before her small, sleepy voice filled my ear.
+
+<<ava "…Leo? Are you awake?" >>
+
+God, she sounded shy. Morning-soft. Still a little fragile from everything this week had put on her shoulders. I leaned back against the wall, letting my eyes close for a second.
+
+<<leo "Yeah. I’m up. I was… actually about to call you." >>
+
+A tiny breath on the other end. I pictured her curled under her blankets, hair messy, thumb worrying the edge of her pillowcase the way she always did when she was nervous.
+
+<<ava "Did you… um… try it last night?" >>
+
+My gaze drifted back to the VR case untouched since I’d closed it.
+
+<<leo "No. I was dead tired. Completely wiped." >>
+
+<<leo "I thought about it, but… I didn’t want my first time in there without you." >>
+
+Silence soft, warm, startled silence. Then a rustle, like she’d sat up too quickly.
+
+<<ava "…You waited? For me?" >>
+
+I smiled without meaning to.
+
+<<leo "Of course I did." >>
+
+<<leo "We’re doing this together. That was the whole point." >>
+
+Another quiet inhale. I could almost see her pressing her hand to her chest, trying to steady herself the way she did when emotion hit too hard, too fast. Then,
+
+<<ava "Leo… can I… come over?" >>
+
+Her voice broke just slightly on the last word hopeful, anxious, wanting this but terrified she was pushing too much. I stood up instinctively, suddenly awake in a way caffeine could never recreate.
+
+<<leo "Yeah. Come here." >>
+
+<<leo "We’ll set everything up together. Slow. Easy. Just us." >>
+
+There was a tiny, breathy sound from her end relief, gratitude, something gentler.
+
+<<ava "Okay. I’ll get dressed. Ten minutes?" >>
+
+<<leo "I’ll unlock the door." >>
+
+Before she hung up, she hesitated one heartbeat, two then,
+
+<<ava "Leo… thank you. For waiting." >>
+
+My throat tightened.
+
+<<leo "Always, Ava." >>
+
+The line clicked softly as she ended the call. I exhaled, long and steady, and glanced once more at the VR case glowing faintly in the morning light. Today wasn’t just about a game. It was about her trusting me enough to step into something new something big with me beside her. I pulled on a shirt, straightened the blankets without thinking, and felt my pulse start to climb with something warm, something quiet, something determined. She was coming. She chose to come and we were going to take our first step into Lumira together.
+
+[[Ava arrives|day_7_2_lumira_straight]]
+
+
+:: day_7_2_lumira_straight
+
+The hallway outside my dorm had that early-morning quiet the kind where every small sound feels louder. I’d left the door unlocked like I promised, but when her soft knock came anyway, my chest tightened in that familiar way it always did around her. I crossed the room and opened it slowly. Ava stood there in her pale sweater, hair still a little mussed from rushing, cheeks pink from the cold and maybe from nerves. She clutched the strap of her bag with both hands, like she needed something to anchor herself. Her eyes lifted to mine, hesitant but warm.
+
+<<ava "Hi…" >>
+
+God, she looked small. Small and brave at the same time. I stepped aside, voice low.
+
+<<leo "Come in." >>
+
+She slipped past me, brushing lightly against my arm. Even that brief touch sent a pulse through me not desire, just the soft, grounding awareness of her. The room was tidy for once. I’d straightened the blankets, cleared the desk, made sure the VR case sat centered so it wouldn’t overwhelm her the moment she walked in. It overwhelmed her anyway. Her gaze went straight to it glowing softly on the desk, runes shifting like slow breathing. She froze, fingers tightening on her bag strap. I closed the door gently behind us.
+
+<<leo "Hey. You okay?" >>
+
+She nodded too fast, swallowing.
+
+<<ava "It’s just… real. Seeing it. Like this." >>
+
+I moved closer, slow enough she could step away if she needed. She didn’t. She stayed rooted to the spot, eyes on the VR case but body angled subtly toward me.
+
+<<leo "We’re not rushing anything." >>
+
+<<leo "We’re just opening it. Looking. Together. That’s all." >>
+
+Her breath came out shaky, but she loosened her grip on her bag.
+
+<<ava "I trust you." >>
+
+The words were so soft I almost missed them. But they hit hard right under my ribs. I reached out, offering my hand without taking hers. Letting her choose. She hesitated one heartbeat. Two. Then her fingers slipped into mine, warm and trembling. I felt her exhale against the silence. With her hand in mine, she took two steps toward the desk. The runes on the VR case brightened not flashy, not noisy just a soft, welcoming pulse, like a light turning on when someone comes home. Ava’s shoulders lifted as she breathed in.
+
+<<ava "…It’s beautiful." >>
+
+<<leo "Yeah." >>
+
+I glanced at her instead of the case.
+
+<<leo "It is." >>
+
+She didn’t notice the way I watched her eyes wide, awe softening every edge of her face, fear and excitement twisting together. Her thumb brushed over my knuckles, almost absentminded.
+
+<<ava "So… we’re really doing this?" >>
+
+I stepped close enough that our shoulders touched.
+
+<<leo "Only as far as you want. If you say stop, we stop." >>
+
+She turned her head toward me, eyes shining with something fragile.
+
+<<ava "I know." >>
+
+<<ava "That's why I'm not scared." >>
+
+A moment hung between us quiet, steady, full. Then she whispered,
+
+<<ava "Can we… open it?" >>
+
+I squeezed her hand, slow and deliberate.
+
+<<leo "Yeah." >>
+
+<<leo "Together." >>
+
+We reached for the case at the same time, the gold light warming both our hands as the lid began to rise.
+
+[[VR activation begins|day_7_3_lumira_straight]]
+
+
+
+:: day_7_3_lumira_straight
+
+The golden VR startup light washed over everything, warm and soft, Ava’s hand resting nervously inside mine. For the first few seconds it felt exactly like yesterday’s demo steady, gentle, safe. Then the light froze. Not dimmed. Not flickered. Froze. A thin, high digital whine cut through the space, and Ava’s fingers tightened around mine. A warning box flashed in red,
+
+<<system "Calibration conflict detected. Identity modules failing." >>
+
+Before I could even curse, the white void around us glitched shivering like cracked glass. Ava let out a small, frightened sound.
+
+<<ava "L-Leo… what's happening?" >>
+
+I squeezed her hand, or tried to the VR had locked our bodies in place.
+
+<<system "Reinitializing core architecture. Users: do not move." >>
+
+My stomach dropped. VR systems never immobilized users unless something was seriously wrong.
+
+<<leo "System, cancel. Stop the reboot." >>
+
+<<system "Command denied. Critical correction in progress." >>
+
+A crawling light scanned up my legs, cold and clinical, reading deeper than the calibration yesterday. Ava stiffened as the same scan climbed her body.
+
+<<ava "It… it feels wrong…" >>
+
+A sharp tone hit lower, more mechanical.
+
+<<system "USER LEO HART: biological data does not match MALE baseline." >>
+
+My pulse slammed.
+
+<<leo "What? I’m male. Stop the scan!" >>
+
+<<system "Correction acknowledged. OVERRIDDEN." >>
+
+<<system "Updating user classification: LEONA HART." >>
+
+Ava gasped, voice breaking. Then her scan pulsed red.
+
+<<system "USER AVA MORGAN: biological data does not match FEMALE baseline." >>
+
+<<ava "No no, please, I " >>
+
+<<system "Correction acknowledged. OVERRIDDEN." >>
+
+<<system "Updating user classification: AVAN MORGAN." >>
+
+A hollow ringing filled my ears. Our names our identities were being overwritten line by line. Thin holographic bodies began forming around us, still flickering, half-transparent one shaped like a woman around me, one shaped like a man around Ava. Ava looked at me with wide, terrified eyes. Our hands were still locked together, frozen, helpless.
+
+<<system "Identity rewrite initializing. Generating new avatar shells." >>
+
+The light surged upward like a wave ready to break over us. No escape. No movement. No override.
+
+<<system "Commencing transformation protocol…" >>
+
+Then everything went white.
+
+[[White void thickened|day_7_4_lumira_straight]]
+
+
+:: day_7_4_lumira_straight
+
+The white void thickened, sound warping into something too smooth, too artificial. Ava’s hand was still locked in mine her pulse fluttering fast, like a bird trapped under her skin. A new set of red system panels flickered into existence around us, circling like we were under interrogation. Then one snapped directly in front of me.
+
+<<system "Re-scan complete. User LEO HART does not match MALE parameters." >>
+
+My heart stuttered.
+
+<<leo "I AM male. System, correct that." >>
+
+A processing tone rose a cold, emotionless rising pitch.
+
+<<system "Correction request logged." >>
+
+<<system "Correction request denied." >>
+
+Ava’s fear spiked in her voice.
+
+<<ava "Leo… it’s not listening to you." >>
+
+The panel brightened in violent, unmistakable red,
+
+<<system "Updating biological baseline: FEMALE." >>
+
+<<system "New identity recognized: LEONA HART." >>
+
+A sharp electric shock of disbelief shot through me.
+
+<<leo "NO. Override! Override! I did NOT authorize " >>
+
+<<system "Override rejected. Gender baseline recalibrated." >>
+
+Ava flinched as her own panel materialized, hovering inches from her face.
+
+<<system "User AVA MORGAN does not match FEMALE parameters." >>
+
+She shook her head vigorously tears already building.
+
+<<ava "Stop  I am  please " >>
+
+The system’s hum flattened into something cold and absolute.
+
+<<system "Updating biological baseline: MALE." >>
+
+<<system "New identity recognized: AVAN MORGAN." >>
+
+Ava’s breath fractured shock overtaking every line of her face.
+
+<<ava "No no Leo what’s happening to us?" >>
+
+Behind her, the holographic male shell sharpened, becoming more solid broad shoulders, tall frame, masculine silhouette aligning with her frozen outline. Mine was doing the same curving, shrinking, reshaping into something unmistakably female. I felt a cold rush sweep under my skin.
+
+<<leo "System, STOP. Cancel all avatar construction. Revert to original dataset!" >>
+
+The reply hit like a hammer.
+
+<<system "Reversion impossible. Conflict has overwritten user scan data." >>
+
+Lines of code streamed behind the panels, reforming our identities in real time.
+
+<<system "Proceeding with enforced biological reconstruction." >>
+
+The light around us tightened like invisible hands gripping our outlines. Ava’s voice cracked.
+
+<<ava "Leo, I-I can see it it's building a man around me " >>
+
+I swallowed hard, trying to keep my voice steady for her.
+
+<<leo "I know. Just breathe. I’m right here. I’m not letting go." >>
+
+Even though neither of us could move. The system glowed brighter.
+
+<<system "Begin Phase 1: Height, hair, and body hair restructuring." >>
+
+The holograms around us solidified one feminine, one masculine and then they began to close in. Wrapping over us. Aligning. Preparing to reshape us from the inside out. Everything inside me braced for impact.
+
+[[Holographic female shell tightened around me|day_7_5_lumira_straight]]
+
+
+:: day_7_5_lumira_straight
+
+
+The holographic female shell tightened around me like a second skin still transparent, still flickering, but close enough that I could feel the outline pressing in. My breath hitched as the system’s next directive slid into the air like a blade.
+
+<<system "PHASE 1: Adjusting HEIGHT, HAIR, and BODY HAIR to female baseline." >>
+
+Ava’s forming silhouette stood frozen across from me, watching helplessly. I felt her thumb twitch against mine, a tiny tremor of panic trapped in her immobile hand. Then the world pressed inward. It began in my legs. A deep warmth rolled up my shins, then my knees like invisible hands compressing bone. A low pressure throbbed through my thighs, into my hips, then my spine.
+
+My perspective sank. Just a few centimeters at first. Then more and more. The world didn’t move I did. I was shrinking. My muscles softened as my bones compressed, my center of gravity settling lower, my stance narrowing automatically to a more balanced feminine posture. My feet pulled inward slightly, losing the broader splay I’d always had. Ava’s silhouette rose higher as I sank, until he easily towered over me. My breath shivered.
+
+<<system "Target female height: 168 cm. Adjustment complete." >>
+
+I swallowed hard. My voice came out quieter.
+
+<<leo "A-Ava…?" >>
+
+A low, broken whisper came back from her transforming throat,
+
+<<ava "I’m right here, Leo…" >>
+
+Heat flared across my scalp. It wasn’t painful but it was intense, like a thousand warm threads pulling outward all at once. Something brushed the back of my neck. Then my shoulders. Then lower. Strands poured past my collarbone in real time thickening, lengthening, gaining weight. I watched honey-brown waves slide down my chest, then my ribs, then my waist as if someone was pulling silk from inside my skull.
+
+My hair reached mid-back. Then brushed my hips. Then flowed in voluminous waves all the way to my waist. It was heavy. Warm. Unreal. Ava still mid-change stared at me with wide, shocked eyes as the shimmering length settled around my narrowing shoulders.
+
+<<system "Hair length calibrated: 74 cm. Color adjusted: honey-brown with gold highlights." >>
+
+A stray lock fell across my cheek, absurdly soft. It felt like touching someone else’s hair a girl’s hair except it was growing from me. I exhaled shakily.
+
+<<leo "I… I can feel it changing." >>
+
+A tingling sweep passed over my skin starting at my ankles and sliding upward like warm vapor. Every fine hair on my legs dissolved, fading into smoothness. The sensation climbed, Up my thighs, Over my hips, Across my stomach, Along my arms, Over my chest, Up my neck Then it erased the faint stubble on my jaw as if it had never existed. My skin gleamed. Soft. Flawless. Completely hairless except for the thick, luxurious hair cascading behind me. I flexed my fingers, marveling at the delicate shine of my new feminine skin.
+
+<<system "Body hair removed. Female epidermal pattern applied." >>
+
+My breathing came shallow, disbelieving. I felt… lighter. Smoother. Wrong and yet eerily right within the system’s logic. Ava her voice deeper now, trembling whispered,
+
+<<ava "Leo… you look… different already." >>
+
+I swallowed hard as the last warmth faded from my freshly hairless skin.
+
+<<leo "I know. I can feel everything changing." >>
+
+And Phase 1 wasn’t even over. The system hummed.
+
+<<system "Proceeding to Phase 2: Facial Reconstruction." >>
+
+Light gathered around my jaw. My pulse spiked. Everything was about to change again.
+
+
+[[Shift in Ava|day_7_6_lumira_straight]]
+
+
+:: day_7_6_lumira_straight
+
+The shift in Ava  started the moment the system’s voice cut through the glowing space with its cold precision.
+
+<<system "PHASE 1: Adjusting HEIGHT, HAIR, and BODY HAIR to male baseline." >>
+
+Ava’s fingers clenched around mine not dainty anymore, not trembling the same way. There was already a new strength in her grip, an undercurrent of something deeper, something heavier. Her holographic male shell tightened around her form like a growing shadow. It hit her like a rising wave. Ava’s legs stretched first bones lengthening with a pulling pressure that made Ava gasp, a sound that already carried the first hint of a lower tone. The scan-light wrapped around her calves, shins, thighs stretching, thickening, reshaping. Her perspective surged upward. A foot taller. More. More. Her shoulders rose above mine as the transformation continued, her frame expanding past my line of sight until she stood towering over six feet, powerful, imposing. I felt myself instinctively look up.
+
+<<system "Target male height: 191 cm achieved." >>
+
+Avan still Ava inside stared down at me with wide, disoriented eyes now far above my own.
+
+<<ava "Leo… I’m " >>
+
+Her voice cracked downward mid-word. A warm ripple flashed across her scalp. Her long, dark waves drew upward coiling, tightening vanishing strand by strand as if an invisible hand was trimming them in fast-forward. Locks dissolved around her shoulders, falling away into pixels of light until only short, tousled masculine waves framed her forehead and neck. The new style suited her no, suited him effortlessly. A clean, handsome silhouette. Ava’s silhouette.
+
+<<system "Hair length calibrated to male preset. Style: wavy, short." >>
+
+Ava touched the space where her longer hair used to brush her collarbone her eyes startled, her hand now broader, her fingers thicker. A faint heat swept across his skin. Ava had always been soft-skinned, smooth so the shift was subtle, but unmistakable. A faint masculine pattern appeared over his forearms and legs light, aesthetic, barely noticeable, but undeniably male. His chest developed a minimal dusting, leading downward into the faint beginning of a happy trail. All of it perfectly curated. Designed. Intentional.
+
+<<system "Body hair pattern updated: light male distribution." >>
+
+Ava’s breath deepened, chest expanding with a much larger lung capacity than before. Her voice his voice came out lower, rougher, instinctively trying to stay calm,
+
+<<ava "Leo… I can feel my body getting… heavier." >>
+
+I swallowed.
+
+<<leo "I know. I’m right here. I’m not going anywhere." >>
+
+Her fingers twitched again strong, larger than moments before. Her height, her hair, her very presence all shifting toward something undeniably masculine. The system pulsed again.
+
+<<system "Phase 1 complete. Proceeding to Phase 2: Facial Reconstruction." >>
+
+Ava’s jaw began to glow with restructuring lines. And everything prepared to change again.
+
+[[Air thickened around my face|day_7_7_lumira_straight]]
+
+
+
+
+:: day_7_7_lumira_straight
+
+The air thickened around my face, the holographic female mask tightening until it felt like a warm, soft pressure cupping my cheeks, my jaw, my lips. Then the system’s voice slid through the white void,
+
+<<system "PHASE 2: Facial Reconstruction   applying female morphology." >>
+
+A ripple of heat rolled through my skull. I sucked in a breath. This wasn’t like height or hair. This was deeper. More intimate. Like someone was sculpting me from inside my own bones. The first shift hit my jaw. A gentle pressure… then a pull inward. My square edges softened. The width narrowed. The angle curved. I felt my chin round subtly, losing the sharper male line I’d seen in the mirror all my life. It wasn’t painful just impossibly strange, like my bones were becoming warm clay. My breathing hitched.
+
+<<leo "A-Ava… my face is  it’s changing " >>
+
+Her voice deeper now came back strained,
+
+<<ava "I can see it happening, Leo…" >>
+
+A tightening sensation climbed my cheeks. Then A light upward tug, lifting, refining, giving me high, feminine cheekbones that reshaped the entire structure of my face. The skin over them smoothed and warmed, glowing with a soft, unreal perfection. It felt like I was being angled toward beauty I’d never chosen.
+
+Heat blossomed around my eyes. My eyelids tingled, widening. My lashes lengthened in waves, thickening into dense, dark frames. My eyes themselves seemed to grow rounder, more expressive, catching the white light with a golden glow that had never been there before. Ava watched me still half-Ava inside with stunned disbelief.
+
+<<ava "Your eyes look… huge. Beautiful. Leo, they don't look like yours anymore…" >>
+
+The comment hit somewhere deep and unreal. A soft pinch above each brow. They reshaped into elegant arches, thinner but defined, more expressive more feminine. The structure above them softened, losing the heavier male ridge. I blinked, and everything felt lighter somehow.
+
+Warm pressure pushed inward at the bridge. My nose slimmed. The tip refined. The whole structure became delicate almost unfairly pretty. It was the kind of nose you’d expect on a fantasy heroine, not on me.
+
+<<system "Nasal structure alignment complete." >>
+
+My lips tingled. Then they swelled, layer by layer Plumping softly, warmly, until they were full, pink, naturally pouty. The kind of lips meant to be noticed meant to draw attention without trying. I felt their new weight when I parted them. A soft, unintentional gasp escaped a sound so feminine it shocked me. Ava’s eyes widened.
+
+<<ava "Leo… your mouth…" >>
+
+I swallowed hard, feeling the new softness, the sensual plushness that hadn’t existed seconds ago. A shimmering warmth washed over my face. My pores tightened, disappearing. My skin smoothed into flawlessness warm golden-cream with a gentle luminescence. A faint flush bloomed over my cheeks, giving me a soft, natural glow. The kind of beauty that felt impossible manufactured, idealized, enchanting. The masculine face I’d known my whole life was gone.
+
+<<system "Facial reconstruction complete. Template: LEONA HART   idealized female." >>
+
+I breathed in slow, unsteady feeling the unfamiliar shape of my own mouth, the new alignment of my jaw, the lightweight grace of my lashes brushing my cheeks. I didn’t just look like a woman. I looked like a fantasy. Ava transitioning into Avan stared in awe and panic.
+
+<<ava "Leo… you’re gorgeous…" >>
+
+Her voice cracked with disbelief. And I felt my stomach twist at the realization, My face was never going back. The system hummed ominously.
+
+<<img "images/scene/part_1/head_1.png" "scene">>
+
+<<leona "What's happening to me?">>
+
+<<system "Proceeding to Phase 3: Upper Body Reconstruction." >>
+
+Warmth gathered across my collarbones. Everything was about to change again.
+
+[[System’s voice reverberated through the glowing void|day_7_8_lumira_straight]]
+
+
+:: day_7_8_lumira_straight
+
+The system’s voice reverberated through the glowing void, vibrating through Ava’s newly lengthened frame.
+
+<<system "PHASE 2: Facial Reconstruction   applying male morphology." >>
+
+Ava’s breath hitched already deeper, rougher at the edges as the holographic masculine mask cinched around her head, aligning with her features with terrifying precision. Her fingers squeezed mine stronger now, firmer struggling for grounding as her face began to shift beneath the warm, sculpting pressure. A deep pressure spread along her jaw. Not the soft inward pull I had felt. No this was outward, widening, strengthening.
+
+Her jaw pushed broader, squarer, gaining clean masculine angles. Her chin jutted subtly forward, sharpening into a confident, assertive point. The bones felt like they thickened like her entire lower face was gaining weight and structure. She made a low sound half gasp, half groan shocked by the raw physicality of it.
+
+<<ava "L-Leo my face it's getting… heavier…" >>
+
+Her voice cracked again, sinking lower. I swallowed hard. She was becoming a man. A tightening pulled through her cheeks next. Ava’s naturally soft cheekbones thickened, gaining more masculine edges less delicate, more angular, subtly rugged. The change made her face look strikingly heroic. Then a warmth rolled across her forehead. The feminine smoothness of her brow reshaped, A slight ridge formed subtle, elegant, giving her eyes depth and presence. Not caveman-like no. Beautiful. Strong. Commanding. Ava blinked, stunned by the weight above her eyes.
+
+<<ava "Everything… feels different. Heavier. Sharper." >>
+
+Her eyelids tightened. The slight roundness Ava always had narrowed, tilting inward, Her gaze sharpened Her lashes shortened Her brows thickened Her eyes didn’t look soft anymore. They looked steady. Focused. Masculine. Their color deepened into rich forest green Avan’s signature. I felt a cold shiver run up my spine. This wasn’t Ava’s face. Not anymore.
+
+A warm, firm pressure pressed outward from the bridge of her nose. It broadened slightly without losing symmetry shaping into a straight, strong masculine line. The tip refined not sharp, not round perfectly balanced. It was a noble profile. Handsome. Confident. It suited Avan terrifyingly well.
+
+<<system "Nasal structure alignment complete." >>
+
+Ava exhaled her breath deeper, warmer touching her face with those larger masculine fingers.
+
+<<ava "I… I can’t even recognize myself." >>
+
+Her lips tingled next. Unlike mine swelling into softness hers thinned slightly, gaining firmer definition, a straighter masculine line. Not flat or narrow just… clean. Kissable in a completely different way. More controlled. More reserved. Her upper lip tilted slightly downward in the subtle, natural slope common in handsome men. Her mouth no longer held Ava’s soft vulnerability. It now carried quiet strength.
+
+A warm wave smoothed over her face. Ava’s soft, fine-grained skin didn’t simply become male. It became idealized male skin, Light bronze tone Even coloration Barely visible pores A faint roughness at the jaw hinting at stubble but never unkempt He looked like he’d been carved from a fantasy painting. The system delivered the final note,
+
+<<system "Facial reconstruction complete. Template: AVAN MORGAN   idealized male." >>
+
+Ava opened his eyes fully and the man standing before me made my breath catch. Tall Handsome Sharp-jawed Green-eyed Radiating a steady, controlled heat He wasn’t “Ava with a masculine overlay.” He was Avan. The avatar her subconscious had built. The man she imagined. The man she quietly longed to be and to want. His deeper voice trembled with awe and fear,
+
+<<img "images/scene/part_1/face_2.png" "scene">>
+
+<<avan "Leo… do I… really look like this?" >>
+
+I nodded, swallowing hard.
+
+<<leona "Yeah. You… you look very male..." >>
+
+And then the system hummed again. Heat pooled across both our collarbones.
+
+<<system "Proceeding to Phase 3: Upper Body Reconstruction." >>
+
+My chest tightened. His chest expanded. Everything was about to accelerate.
+
+[[Warmth that had gathered across my collarbones flared suddenly|day_7_9_lumira_straight]]
+
+:: day_7_9_lumira_straight
+
+The warmth that had gathered across my collarbones flared suddenly hot enough to make me inhale sharply. My shoulders tightened, my chest constricted, and the holographic feminine torso overlay pressed closer against my real one like it was sealing into my skin. Then the system began.
+
+<<system "PHASE 3: Upper Body Reconstruction   applying female thoracic anatomy." >>
+
+My heart pounded inside a ribcage that was no longer staying the same size. A pressure pushed inward firm but smooth compressing my shoulder width. The broad masculine span I’d lived with my entire life began to shrink,
+
+<<system "Original shoulder width: ~46 cm \nTarget shoulder width: 39.5 cm / 15.6 inches">>
+
+The bones glided inward, rotating slightly to create a softer slope. My posture shifted automatically less square, more elegant, torso subtly angling forward into a feminine line. It felt foreign. It felt delicate. It felt undeniably female. A choked breath escaped me.
+
+<<leona "…my shoulders…" >>
+
+Across from me, Ava watched helplessly.
+
+<<avan "They’re getting so much smaller…" >>
+
+Heat wrapped around my upper chest. My clavicles shortened, angling inward, giving my shoulders that unmistakable feminine curve. Then a tightening squeeze hit my ribcage narrowing it, reshaping it,
+
+<<system "Original ribcage circumference: ~86 cm \nTarget underbust circumference: 74 cm / 29 inches">>
+
+My breath came faster. It felt like my entire upper body was being cinched into a new blueprint. Then slowly the pressure moved lower.
+
+<<img "images/scene/part_1/top_8.png" "scene">>
+
+A glowing ring ignited across my chest, circling the exact points where breasts should be. Then a deep warmth rushed outward thick, pulsing, full of pressure and sensation. Softness swelled beneath my skin. First small bumps. Then mounds. Then growing weight. My breath hitched as the system accelerated growth.
+
+<<system "A-cup → B-cup → C-cup → D-cup">>
+
+Each stage blossomed outward, unmistakable, A-cups barely there A soft, tender swelling foreign, sensitive.
+
+<<img "images/scene/part_1/top_1.png" "scene">>
+
+B-cups, More shape. More curve. My chest visibly rounding beneath the hologram.
+
+<<img "images/scene/part_1/top_2.png" "scene">>
+
+C-cups, Heavier now full handfuls. Movement. Warmth. The beginning of bounce.
+
+<<img "images/scene/part_1/top_3.png" "scene">>
+
+<<leona "A-Ava… they’re… getting big " >>
+
+My voice cracked softly, femininely. Ava’s  eyes widened.
+
+<<ava "They’re still growing. Those are bigger than mine.." >>
+
+D-cups, A sudden surge of fullness. My breasts expanded into large, round, plush weight 92 cm bust circumference / 36 inches the perfect high-profile D-cup shape the system had defined for Leona.
+
+<<img "images/scene/part_1/top_4.png" "scene">>
+
+
+DD-cups, They settled on my chest with a natural sway. Heavy. Soft. Undeniably present.
+
+<<img "images/scene/part_1/top_5.png" "scene">>
+
+The weight pulled gently at my spine, forcing my posture into the subtle arch of a woman with full breasts. My balance shifted instantly I could feel them. I gasped. A undeniably feminine sound.
+
+<<img "images/scene/part_1/top_7.png" "scene">>
+
+<<leona "They feel… so real…" >>
+
+Heat pinpointed the center of each breast. My nipples tingled then expanded, 
+
+<<system "Areola Diameter: 4.2 cm \nNipple Diameter: 1.6 cm">>
+
+They darkened slightly into a warm rosy pink, becoming impossibly sensitive, each pulse of blood sending sparks through my nerves. I accidentally inhaled sharply back arching a little as the sensitivity finalized. Ava swallowed visibly, his masculine throat bobbing.
+
+<<avan "Leo… they look real. And big. And… so much bigger than mine.." >>
+
+He exhaled, overwhelmed.
+
+<<avan "Are you okay?" >>
+
+I didn’t trust my voice. Everything felt too new. Too soft. Too alive. My pectoral muscles dissolved into softer tissue. The flat firmness of a male chest melted away, replaced with the gentle slope and yielding softness of a woman’s upper torso. The system reshaped my upper body into, shorter collarbones narrower chest width softer shoulder curvature gentler sternum angle My physique was now unmistakably feminine above the waist.
+
+<<system "Upper body transformation completed. Measurements stabilized." >>
+
+Final values shimmered before my eyes,
+
+<<system "Bust: 98 cm / 38.8 inches \nUnderbust: 74 cm / 29 inches \nCup size: DD \nShoulder width: 39.5 cm \nVolume per breast: ~1150–1200 mL \nWeight per breast: ~1.15–1.2 kg">>
+
+I stared down breath shaking at the heavy curves resting on my chest. They moved when I breathed. They felt warm. They felt real and they were mine. The system hummed ominously again.
+
+<<system "Proceeding to Phase 4: Lower Body Reconstruction." >>
+
+The glow slid downward toward my waist. My heart thudded. Everything was about to widen, swell, and transform again.
+
+[[Glow that had just finished sculpting|day_7_10_lumira_straight]]
+
+:: day_7_10_lumira_straight
+
+The glow that had just finished sculpting Leona’s breasts and narrowing her upper body now shifted toward Ava toward Avan with heavier, deeper energy. Instead of the soft, upward warmth of female shaping, this was a dense, expanding pressure, like someone was inflating strength directly into his bones. The system’s voice rolled through the space, lower and resonant,
+
+<<system "PHASE 3: Upper Body Reconstruction   applying male thoracic anatomy." >>
+
+Ava’s breath deeper than before shivered with fear and anticipation. Her hand in mine felt bigger now. Stronger. Warmer. Then her body began to grow again. Ava’s shoulders jerked outward subtle at first, then expanding with powerful force.
+
+<<system "Starting width (Ava): ~37 cm \n Target male width: 52 cm / 20.5 inches">>
+
+<<img "images/scene/part_1/upper_ava_1.png" "scene">>
+
+I watched her frame widen in real time, clavicles lengthening deltoids swelling upper ribs expanding The transformation gave her him massive, undeniably masculine breadth. A low, involuntary sound escaped his throat a kind of half-groan, half-breath he wasn’t prepared for.
+
+<<avan "It feels too big " >>
+
+<<img "images/scene/part_1/upper_ava_2.png" "scene">>
+
+His voice dipped again, lower than any version of Ava had ever sounded. Heat surged across his chest. Ava’s soft, feminine breast tissue compressed flattening rapidly. Then, beneath the skin, powerful pressure swelled outward.
+
+<<system "Target male chest circumference: 104 cm / 41 inches">>
+
+His thorax expanded. His sternum widened. His ribs lifted and reshaped. Then two sculpted slabs formed beneath his skin pectorals, solid, square, masculine. They pushed his chest outward, giving him that broad, heroic silhouette. He instinctively inhaled and his new chest rose with thick, defined muscle, not soft tissue. Ava inside Avan stared down at it in disbelief.
+
+<<avan "My chest… it’s so… hard." >>
+
+He pressed a hand to it, feeling the new firmness. I couldn’t look away. A deep pulling sensation ran across his back stretching, thickening. Muscle formed in sweeping arcs, lats flaring outward traps rising spinal erectors thickening This created the unmistakable V-taper of an idealized male body broad on top, narrowing dramatically at the waist. Ava had always had a gentle, narrow back. Now Avan stood like a warrior.
+
+<<system "Back width calibrated to male preset." >>
+
+<<img "images/scene/part_1/upper_ava_3.png" "scene">>
+
+Ava rolled his shoulders instinctively the new mass shifting with slow, heavy strength. A sudden rush of heat filled his upper arms. Muscle expanded under his skin, pushing outward visibly, biceps rounding triceps thickening delts bulging into clean domes Ava’s once slender arms became powerful, sculpted limbs built for strength. Even his forearms thickened tendons sharpening, veins beginning to show faint definition.
+
+<<system "Measurements finalized:\n Biceps (relaxed): 36 cm\nBiceps (flexed): 40 cm \nForearm circumference: 29 cm">>
+
+He stared at his hands now larger, stronger, more angular.
+
+<<avan "Leo… these are my arms…" >>
+
+He flexed without thinking The muscle bulged massively. He froze in shock. The warmth slid downward. His ribcage expanded gaining height and width for deeper male breathing volume. I watched the abdominal region tighten, then segment, Lines formed. Deepened. Sharpened. Within seconds, Ava had a defined 6-pack, sculpted and symmetrical, with a clean centerline.
+
+<<system "Waist size locked: 78 cm / 30.7 inches">>
+
+He touched his stomach, fingertips grazing ridges of hard muscle. Ava’s voice trembled inside Ava’s deeper timbre,
+
+<<avan "It feels like… armor…" >>
+
+<<img "images/scene/part_1/upper_ava_4.png" "scene">>
+
+The transformation settled across Ava’s torso,
+
+<<system "Broad 52 cm shoulders\n104 cm sculpted chest\n78 cm masculine waist\nThick, powerful arms\nV-shaped lats and defined abs">>
+
+He looked like he belonged on a fantasy cover. Strong. Elegant. Heroic. Exactly the version of a man Ava subconsciously desired and imagined now imposed onto her own body.
+
+<<system "Upper body transformation complete. Measurements stabilized." >>
+
+Ava took a deeper breath richer, fuller, with a man’s lung capacity and looked down at himself in raw, stunned awe. His new voice, low and warm, slipped out,
+
+<<avan "Leo… I'm… huge." >>
+
+And he was. The system chimed again.
+
+<<system "Proceeding to Phase 4: Lower Body Reconstruction." >>
+
+The glow drifted toward their hips. Leo would widen. Ava would narrow. Their lower halves were about to change forever.
+
+[[Glow that had finished sculpting|day_7_11_lumira_straight]]
+
+
+
+
+
+:: day_7_11_lumira_straight
+
+The glow that had finished sculpting my breasts slid downward again   molten, slow, deliberate   tracing along my ribs until it pooled at my waist with a heat deeper and heavier than anything before. The system’s voice dropped into smooth clinical tone,
+
+<<system "PHASE 4: Lower Body Reconstruction   applying female pelvic morphology and pelvic tilt." >>
+
+<<img "images/scene/part_1/lower_6.png" "scene">>
+
+My breath hitched. This was the moment my entire lower body   balance, posture, movement   would become female. A tight constricting sensation wrapped around my midsection. Not painful. But intense enough to make my breath tremble. My waist began to pull inward.
+
+<<system "Original waist: ~78 cm \nTarget Leona waist: 60 cm / 23.6 inches">>
+
+My lower ribs shifted inward. My sides compressed, drawing tight. My abdomen hollowed, pulling into a deep, narrow curve. I gasped   soft and breathy, unmistakably feminine. My torso folded into a shape I’d never had before, Soft. Tight. Sensual. Vulnerable. My hand twitched toward the new tiny waist, wanting to feel its narrowness, but Ava transformed grip held mine firmly. She stared down, eyes wide.
+
+<<avan "Your waist… Leo… it’s tiny…" >>
+
+<<leona "I… I can feel it pulling in…" >>
+
+<<img "images/scene/part_1/lower_7.png" "scene">>
+
+Heat flared across my cheeks and the glow moved lower. Warmth flooded my hip bones. Then they pushed outward. Slow at first. Then wider. Then dramatically wider.
+
+<<system "Leona hip measurement: 98 cm / 38.5 inches" >>
+
+My pelvis tilted open, reshaping into the unmistakable structure of a woman. The width alone forced my stance to shift, Feet settling apart Knees softenin Balance lowering I felt bigger, rounder, more rooted   like my entire center of gravity had sunk into my hips. A tremble ran through my thighs.
+
+<<system "Pelvic width calibrated to 98 cm." >>
+
+Ava swallowed, throat bobbing.
+
+<<img "images/scene/part_1/lower_2.png" "scene">>
+
+<<avan "Leo… your hips are… huge…" >>
+
+<<leona "I can feel them… widening " >>
+
+<<img "images/scene/part_1/lower_3.png" "scene">>
+
+My voice caught. So was I. Then the new part began. A hot band wrapped low across my spine   right where pelvis meets back. My lower spine arched. Not much. Just enough to change everything. The pelvis tilted forward, pubic bone angling subtly downward tailbone rising slightly lower back curving inward, stomach flattening into a gentle slope, hips rolling forward into an unmistakably feminine stance, This tilt changed the physics of how I stood how my thighs pressed together, how my butt projected behind me, how my hips swayed with even the smallest balance shift. My breath shivered.
+
+<<leona "I… my back… it’s arching " >>
+
+<<img "images/scene/part_1/side_2.jpeg" "scene">>
+
+Ava watched in stunned silence as my posture transformed before her eyes into a fluid, feminine silhouette.
+
+<<avan "Your body tilt… it’s… so feminine…" >>
+
+<<img "images/scene/part_1/back_1.jpeg" "scene">>
+
+The tilt was instinctive. A built-in part of my new anatomy. I could feel heat pooling lower, deeper   a new center of gravity forming. The warmth surged into my backside. A deep swelling pressure filled my glutes,
+
+<<system "Stage 1: soft expansion \nStage 2: lifting upward \nStage 3: rounding outward \nStage 4: plush fullness forming \nStage 5: final perfect bubble shape">>
+
+My butt grew Large. Round. Full. Soft. Shapely.
+
+<<system "Final circumference: 101–103 cm depending on stance and tilt.">>
+
+<<img "images/scene/part_1/front_1.jpeg" "scene">>
+
+Every tiny adjustment of weight made it bounce lightly   a soft, natural jiggle I couldn’t control. I flushed hot.
+
+<<leona "A-Ava… it’s… so big…" >>
+
+Ava didn’t answer. She couldn’t. She was too stunned.
+
+<<avan "Y-Your butt… it’s…" >>
+
+
+Heat pooled down my thighs. Then they thickened, inner thigh softness blooming outer curves rounding outward front muscles smoothing into feminine shape back gaining deep plushness My thighs became, Soft. Thick. Warm. Strong enough to carry my new hips and butt.
+
+<<system "Upper thigh circumference: 60–63 cm \nMid thigh: 54–56 cm">>
+
+Even standing still, I felt them brush   a delicate, warm friction that sent a shiver straight upward.
+
+<<leona "Oh " >>
+
+It slipped out involuntarily. A soft chime shimmered through my bones. The glow receded. System readouts scrolled,
+
+<<system "Lower body transformation complete \nWaist: 60 cm \nHips: 98 cm \nGluteal circumference: 103 cm \nThigh circumference: 62 cm \nPelvic tilt: FEMALE   18° anterior" >>
+
+The tilt locked into place. My posture changed forever, hips forward lower back curved thighs aligned inward butt lifted and rounded waist swanlike I stood differently. I felt differently. Soft. Wide. Heavy. Curved. Open. Sensual. And utterly feminine. Ava stared   chest rising deep and slow   overwhelmed by what I’d become. Then the glow slid between my legs. A cold, intimate pulse. My heart jumped.
+
+<<system "Proceeding to Phase 5: Genital Reconstruction." >>
+
+My breath trembled hard. The most intimate change was next.
+
+[[Glow rushed toward Ava|day_7_12_lumira_straight]]
+
+:: day_7_12_lumira_straight
+
+The glow that had reshaped my hips wide and soft pulled away from me and rushed toward Ava toward Avan   with a completely different force. Where mine had felt like blossoming warmth, this felt like coiled power gathering in his bones. The system announced,
+
+<<system "PHASE 4: Lower Body Reconstruction applying male pelvic and muscular anatomy. Removing female pelvic tilt." >>
+
+<<img "images/scene/part_1/lower_ava_1.png" "scene">>
+
+Ava’s breath shook   deeper now, resonant in Avan’s large chest. Her center of gravity was about to uproot itself. A forceful pressure wrapped her midsection. Where mine had narrowed, Ava's thickened,
+
+<<system "Final male waist: 78 cm / 30.7 inches">>
+
+Muscle fiber knitted itself beneath his skin, obliques sharpening lower abs forming powerful male ridges abdominal wall thickening Ava gasped through Avan’s deeper voice,
+
+<<avan "It… feels so strong… so dense…" >>
+
+<<system "Waist circumference locked." >>
+
+He looked stronger by the second. A sudden inward yank hit his pelvis. Ava jerked as her feminine flare   the width she had lived with her whole life   began to compress.
+
+<<system "Original hips: ~92 cm \nTarget hips: 100 cm circumference, but narrower bone width">>
+
+The transformation removed, hip flare side curves soft female angles His hips straightened into the harder, straighter lines of a male pelvis. Avan winced as his stance changed.
+
+<<avan "My hips they’re narrowing " >>
+
+<<leona "Ava your hips…" >>
+
+<<img "images/scene/part_1/lower_ava_2.png" "scene">>
+
+His silhouette slimmed at the sides, all trace of roundness gone. This was new. A deep corrective force gripped the very base of his spine. Ava inhaled sharply as the system forcibly removed her feminine pelvic orientation, Her natural female pelvic tilt   anterior, soft, forward-angled   was erased. The system reversed it, the forward roll of a female pelvis unrolled backward the tailbone lowered the lumbar arch reduced the pubic bone lifted into masculine alignment the thighs rotated outward for a naturally wide male stance the hips settled into a neutral, stable male tilt The adjustment was not subtle. Ava nearly staggered.
+
+<<avan "My back ! It’s changing straightening " >>
+
+<<leona "Ava your pelvis…" >>
+
+And it was, His female body’s natural sway, curve, and tilt disappeared completely. In its place, The squared, grounded tilt of a male pelvis. Built for power. Not sway. Not softness. Ava’s entire posture stabilized   shoulders heavy, hips straight, legs firm. He stood like a man. Because he was one now. A heavy pulse struck his backside. Ava’s soft feminine curves compressed inward, plush fat redistributed lower curve flattened upper roundness tightened At the same time, muscle surged forward, gluteus maximus thickened fibers braided into powerful male striations butt lifted into a firm, athletic shape
+
+<<system "Final male glute circumference: 97–100 cm, depending on stance.">>
+
+Not rounded. Not bouncy. Hard. Tight. Functional. Ava reached back instinctively and froze at the firmness.
+
+<<img "images/scene/part_1/lower_ava_3.png" "scene">>
+
+<<avan "It’s… tight. Hard. Strong." >>
+
+<<leona "Ava your butt… Nothing like before" >>
+
+Nothing of Ava’s old softness remained. Heat surged down his thighs. Unlike mine, which grew soft outward, Avan’s expanded front-to-back, quads bulging outward hamstrings thickening deeply inner thighs losing all feminine plush outer lines sharpening into powerful arcs
+
+<<system "Final thigh circumference, \nUpper: 62–65 cm (dense male muscle) \nMid: 55–58 cm">>
+
+His stance widened entirely on its own not from curve, but from power.
+
+<<avan "Leo my legs feel… so heavy." >>
+
+Heavy. Stable. Built for strength. The system delivered a final neural-muscular adjustment, sealing the new tilt. His pelvis was now locked into, slight posterior tilt (male standard) reduced lumbar curve lower center of gravity wider, outward-rotated stance straighter hip alignment Walking would no longer sway. Not even slightly. His steps would be, direct grounded weight-forward powerful. Avan breathed out slowly as his spine and hips settled into their permanent masculine configuration. He looked down at himself   overwhelmed. He no longer carried Ava’s body. There was nothing left of it. The system chimed,
+
+<<system "Lower body transformation complete. \nFinal measurements: \nWaist: 78 cm \nHips: 100 cm \nGluteal shape: tight/muscular \nThigh circumference: 64 cm \nPelvic tilt: MALE   4° posterior \nFemale pelvic tilt successfully removed." >>
+
+<<img "images/scene/part_1/lower_ava_4.png" "scene">>
+
+Ava from the waist down was gone. Avan stood in her place and then A pulse of heat gathered between both our legs. We both stiffened.
+
+<<system "Proceeding to Phase 5: Genital Reconstruction." >>
+
+The most intimate change was coming. Ava’s deep breath trembled and so did mine.
+
+[[Glow gathered between my legs|day_7_13_lumira_straight]]
+
+:: day_7_13_lumira_straight
+
+The glow that had reshaped my hips and thighs now gathered between my legs denser, hotter, sharper than anything before. This wasn’t just bone or muscle. This was identity. This was sex. The system’s voice dropped into a deeper resonance, almost reverent,
+
+<<system "PHASE 5: Genital Reconstruction   converting male genitalia to female morphology." >>
+
+<<img "images/scene/part_1/lower_8.png" "scene">>
+
+My pulse slammed. My breath stuttered. Avan’s hand tightened around mine steady, grounding, terrified and then it happened.
+
+Heat wrapped around my shaft. Not surface warmth. Deep. Moving through every nerve, every vein. My penis tingled then began to shrink. Not from arousal. Not from cold. From the system pulling it inward. I gasped sharply.
+
+<<leona "A-Ava " >>
+
+Ava's deeper voice answered instantly.
+
+<<avan "I’m here. I’m right here." >>
+
+The shaft retracted steadily,
+
+<<system "5 inches → 4 → 3 → 2 → 1…">>
+
+<<img "images/scene/part_1/lower_3.png" "scene">>
+
+The skin smoothed over as the erectile tissue dissolved inside me, folding into softer internal structures. The last of the shaft slid inward with a warm, final pull. There was no pain. Just the shocking absence of weight and then A spark of intense heat where the glans had been. The system isolated the glans. It pulsed hot, hypersensitive  then compressed into a smaller, tighter node of nerve-dense tissue.
+
+<<system "Final clitoral size,\n7 mm unaroused\n12 mm aroused">>
+
+When the transformation locked, a jolt of pleasure shot upward so strong my knees almost buckled if they weren’t immobilized. A soft, involuntary moan escaped me  nothing like Leo’s voice. High. Breathy. Feminine. Ava's breath hitched at hearing it.
+
+<<img "images/scene/part_1/lower_1.png" "scene">>
+
+A warm pressure enveloped my scrotum. The skin softened  then gently split along a natural seam. No pain. Just unfolding. Two soft, plush folds formed, Outer labia (labia majora) full rounded warm subtly padded They framed the new anatomy like perfect petals. A warm flush spread between my thighs.
+
+<<img "images/scene/part_1/lower_4.png" "scene">>
+
+A tingling began inside the new folds.Soft tissue swelled outward petal-shaped, delicate, warm pink.
+
+<<system "Inner labia measurements, \n6–9 mm protrusion">>
+
+soft, thin, extremely sensitive They fluttered slightly as sensation mapped through them a foreign, intimate awareness. I shivered.
+
+<<leo "Oh god Ava " >>
+
+The sound of my own voice breathy, feminine startled me as much as the sensation.
+
+<<img "images/scene/part_1/lower_5.png" "scene">>
+
+A deep warmth centered just below the clitoral hood. Then the skin parted slowly softly into a small, naturally shaped entrance. A gentle, stretching pressure pulsed as the tissues formed, smooth vestibule soft opening warm, moist readiness The air felt different against it a tender vulnerability I had no context for.
+
+<<img "images/scene/part_1/side_1.jpeg" "scene">>
+
+A pull deep inside me like a tunnel being carved through warmth. Layer by layer, the system generated, entrance canal soft, ribbed walls expanding depth muscular folds lubrication glands
+
+<<system "Vaginal canal morphology established." >>
+
+<<system "Final vaginal canal depth, \nUnaroused: 9.1 cm \nAroused: up to 15.2 cm">>
+
+Every new nerve connected like a spark. I felt… deeper. Emptier. Open in a way I’d never imagined. A sheen of moisture began pooling inside me 
+
+<<system "Lubrication function online." >>
+
+I trembled. Not from fear. From sensation.
+
+<<img "images/scene/part_1/back_2.jpeg" "scene">>
+
+A point inside the canal pulsed. Then another, deeper one. Nerve clusters bloomed sending waves of warm pressure through my pelvis.
+
+<<system "G-spot: hyper-responsive ridge\n A-spot: deep arousal trigger">>
+
+Each activation delivered a jolt that almost made me moan again. Avan watched, wide-eyed, chest rising with heavy breaths.
+
+<<img "images/scene/part_1/front_2.jpeg" "scene">>
+
+The glow faded. Left behind was, a soft, full vulva. plush outer labia. delicate inner petals a sensitive clitoral hood a small clitoris pulsing with warmth a natural, moist vaginal opening deep, responsive canal All mapped to my nervous system. All mine. A final system confirmation slid across the air,
+
+<<system "Female genitalia reconstruction complete. Final anatomy: LEONA HART." >>
+
+I felt exposed. Sensitive. Warm. Open. I wasn’t Leo with altered parts. I was a woman between the legs. Breathing shakily, I managed a whisper,
+
+<<leona "...Ava... everything’s gone. And I… I have…" >>
+
+He stepped closer still overwhelmed in his new body.
+
+<<avan "I know. I can see it. I’m… I’m here, Leo." >>
+
+The system pulsed again, ominous.
+
+<<system "Proceeding to PHASE 6: Neural Overwrite and Sensory Mapping." >>
+
+A deeper, more intimate transformation was coming next.
+
+[[Moment my transformation completed|day_7_14_lumira_straight]]
+
+
+:: day_7_14_lumira_straight
+
+The moment my transformation completed, the glow between Avan’s legs between Ava’s legs intensified into something heavier than anything before. It wasn’t soft like Leona’s change. It wasn’t gentle. It was expanding, growing, forming from nothing. The system’s voice struck like a hammer,
+
+<<system "PHASE 5: Genital Reconstruction   converting female genitalia to male morphology." >>
+
+<<img "images/scene/part_1/lower_ava_5.png" "scene">>
+
+Ava inhaled sharply his new chest lifting with deep, masculine breath. Our hands were still locked. I felt his fingers clamp around mine as the glow pulsed. This was the moment Ava’s body would stop being hers.
+
+Ava’s soft feminine anatomy began to heat intense, dense warmth gathering around her vulva. The outer labia tingled, then pressed inward. Not collapsing. Merging. Her feminine opening sealed shut while internal tissues thickened, folding upward and inward. He gasped a deep, raw sound that vibrated through our joined hands.
+
+<<avan "Le Leo something is closing " >>
+
+His voice cracked into a masculine rasp. The female entrance vanished. No softness remained. Only smooth skin preparing for something entirely different.
+
+Heat concentrated at the sealed center. Then slowly the skin pushed outward. A small mound formed. Then lengthened. Ava stared down in shock as a penile shaft grew from her pelvis, beginning as a warm pressure, then rapidly gaining structure, weight, and sensitivity.
+
+It lengthened in stages,
+
+<<system "1 inch → 2 inches → 3 → 4 → 5 (soft)">>
+
+<<img "images/scene/part_1/lower_ava_6.png" "scene">>
+
+Then continued,
+
+<<system "Final soft length: 4.6 inches / 11.7 cm \nFinal erect length: 8.4 inches / 21.3 cm \nGirth: 6.0 inches / 15.2 cm">>
+
+The skin gained texture, warmth, slight veining. The organ hung with undeniable weight heavy, thick, warm. Ava’s shock turned into breathless disbelief.
+
+<<avan "It’s hanging Leo it’s heavy " >>
+
+<<leona "Ava… your… your… penis is larger than mine.." >>
+
+I swallowed, unable to look away. The tip of the forming shaft pulsed. The skin stretched outward into a broad, rounded masculine head smooth, thick, perfectly shaped. It flushed a deeper tone than the shaft, sensitivity blooming in sudden pulses. Ava winced not from pain from overwhelming sensation.
+
+<<avan "It’s sensitive oh god " >>
+
+<<img "images/scene/part_1/lower_ava_7.png" "scene">>
+
+His voice vibrated with raw, new nerve signals. A foreskin began forming naturally looser, partially covering the glans, designed for natural glide. The new organ wasn’t just male. It was idealized male.
+
+A deep warmth gathered beneath the new shaft. The skin softened, then drooped downward, forming a fleshy sac smooth, warm, natural. Inside it, two distinct pulses of pressure formed. Testicles. They grew internally first, 1 cm → 2 → 3 → 4.5 cm final length each Then descended with a slow, heavy pull. Ava groaned a deep, instinctive male sound as the new weight settled between his legs.
+
+<<avan "It’s pulling Leo they’re dropping " >>
+
+When the descent locked, he inhaled sharply. The scrotum hung naturally, full heavy warm very sensitive Everything about it radiated male anatomy, not a converted one.
+
+<<system "Final testicular size: \nLength: 4.5 cm \nWidth: 3.2 cm \nVolume per testicle: ~18–20 mL">>
+
+The system wasn’t done. A deeper, internal pressure reshaped Ava’s pelvis, Prostate formed behind the urethral line Vas deferens structured Epididymis developed Urethra rerouted through the forming penis Ejaculatory pathways created Measurements locked,
+
+<<system "Ejaculate volume: 5–7 ml \nStamina: VR-enhanced male parameters\n Refill rate: accelerated">>
+
+Ava shivered massive body trembling.
+
+<<img "images/scene/part_1/lower_ava_8.png" "scene">>
+
+<<avan "It feels heavy inside like something’s… building…" >>
+
+He was right. A whole new reproductive system was establishing itself deep within her replacing her old one. A flash of white light pulsed across the shaft, testicles, and internal structures. Then sensation detonated. Ava’s breath broke. Her hips jerked slightly even with system restraints. Her new anatomy came online all at once heat weight pressure vulnerability arousal instinct everything.
+
+<<avan "Leo oh god this this is TOO MUCH " >>
+
+His masculine voice cracked with raw sensitivity. The glow faded. What remained was Ava's full male package, Thick, heavy penis Dense, warm testicles Sculpted masculine anatomy Natural hang and movement Deep internal structures Fully mapped male nerve network Nothing of Ava’s old body remained between her legs. The system gave the final confirmation,
+
+<<system "Male genitalia reconstruction complete. Final anatomy: AVAN MORGAN." >>
+
+Avan towering, muscular, beautiful looked down at himself, stunned, swallowing hard, voice deep and trembling.
+
+<<avan "Leo… I… I have a huge penis" >>
+
+He couldn’t even finish the sentence. His breath shook and mine did too. The system hummed again, preparing the next, most intimate internal shift,
+
+<<system "Proceeding to PHASE 6: Neural Overwrite and Sensory Mapping." >>
+
+<<img "images/scene/part_1/avan.jpeg" "scene">>
+
+This was where our minds would start thinking with the bodies we now wore.
+
+[[moment Ava's transformation stabilized|day_7_15_lumira_straight]]
+
+:: day_7_15_lumira_straight
+
+The moment Ava's transformation stabilized, the light around me thickened not warm this time, not sculpting, but deep, internal, electrical. Ava Avan held my hand tighter in instinctive fear. The system’s tone dropped to something lower, more resonant, almost like it was speaking directly into my skull rather than the air.
+
+<<system "PHASE 6: Neural Overwrite and Sensory Mapping   recalibrating user LEO HART → LEONA HART." >>
+
+My heart jumped. My breath hitched. This was not physical change. This was mental rewiring.
+
+A pulse hit my chest. Not physically deeper. Inside the brain. My breasts already heavy, soft, full suddenly lit up with sensitivity that hadn’t existed seconds ago. A warm shock radiated from, the nipples the areolae the lower curves right between the breasts My breath broke in a soft gasp I could not control.
+
+<<leona "A-Ah " >>
+
+My nipples hardened instantly in response to the new neural activation. Ava's eyes widened, his masculine face flushing. The system continued without mercy.
+
+<<system "Mammary nerve clusters recalibrated. Sensitivity: high." >>
+
+A pressure built in my chest not pain, not pleasure  awareness. A constant, receptive presence.
+
+A sharp pulse of white shot between my legs and everything inside me ignited. My clitoris went from warm to blazing with sensation. The inner labia tingled, fluttering with involuntary micro-movements. The outer labia shifted lightly with hyper-awareness of touch and temperature. Even the smooth skin around the pubic mound gained fine, delicate sensitivity. It was overwhelming. A shudder ran through my whole body.
+
+<<leona "Nnh s-so sensitive " >>
+
+Avan squeezed my hand hard he could feel the tremor.
+
+<<avan "Leo… breathe. I’m here. Just breathe." >>
+
+His voice deep, steady, grounding. But the system wasn’t done. This hit deeper. Much deeper. A slow wave rolled through my pelvis, up the canal, brushing against every ridge the system had shaped moments ago. The nerves connected, the entrance, the lower third, the ribbed internal folds, the G-spot ridge, the deeper A-spot All at once. My knees nearly gave out if not for system stabilization. A hot wave of emptiness surged inside me. Not a physical hole a neural one. A deep instinctive awareness, I am receptive now. I am open. I can be filled. My breathing turned quick, high, breathy.
+
+<<leona "I I feel… empty inside… I have full vagina Ava. I can feel it.." >>
+
+My voice trembled, embarrassed, overwhelmed. Ava's eyes flickered some instinct he didn’t understand forming behind them. Heat formed a ring low in my abdomen.
+
+Then a throb of muscular control I’d never had before. The pelvic floor rewired itself into, subtle internal contractions, rhythmic responsiveness, gentle tightening waves, These muscles were designed for, arousal, reception, climax, movement of the vaginal canal, Every small involuntary contraction sent a ripple of sensation through me. I whimpered softly. Could not stop myself.
+
+<<system "Pelvic floor musculature recalibrated: feminine." >>
+
+The warmth spread upward again, down again, swirling around my new clitoris. Then Moisture. Real, warm wetness gathered instantly at my entrance. Not dripping but unmistakable. Arousal mapped. Lubrication linked to neural signals. Every tiny emotional spike, every breath from Avan, every tremble in my chest made the wetness respond.
+
+<<leona "O-oh I'm… getting wet " >>
+
+My cheeks burned. Ava's face went dark red even as a man.
+
+<<avan "Leo… you don't have to be embarrassed. This isn’t your fault." >>
+
+He swallowed.
+
+<<avan "...It looks… real." >>
+
+A heavy rearrangement pulled through my hips and thighs. My balance shifted downward and backward toward my hips, toward my butt, toward the soft lower weight of a woman. Walking would sway. Standing already felt different. Breathing even changed chest rising differently with my new anatomy. My brain accepted it. Even if I didn’t want it to.
+
+A neural package downloaded directly into my motor cortex. Suddenly I knew how to shift weight over my hips, how to stabilize with a narrower waist, how to walk with the natural side-to-side movement of wide hips and thick thighs. I didn’t choose it. My body simply adopted it. Instinctively feminine.
+
+A warm pulse washed over me through my chest, pelvis, thighs, even my lips. My entire nervous system felt…soft. sensitive. receptive. female. The system delivered its final command,
+
+<<system "Neural overwrite complete. User LEONA HART sensory mapping stabilized." >>
+
+I exhaled shakily a soft, airy sound that didn’t belong to Leo at all. My fingers squeezed Avan’s reflexively.
+
+<<leo "Ava… everything feels… different. Everything." >>
+
+His deeper voice trembled.
+
+<<ava "I know. It’s okay. I’ve got you." >>
+
+But he didn’t know. He couldn’t. Not until his own neural rewrite began. The system shifted toward him.
+
+<<system "Preparing user AVAN MORGAN for neural override." >>
+
+My heart pounded. His was next.
+
+[[Light around Ava thickened |day_7_16_lumira_straight]]
+
+
+
+
+
+:: day_7_16_lumira_straight
+
+The moment Leona’s transformation stabilized, the light around Avan thickened deeper, denser, charged with a masculine resonance. This wasn’t sculpting muscle anymore. This was sculpting instinct. A cold-hot surge built beneath Avan’s ribs. Then the system spoke,
+
+<<system "PHASE 6: Neural Overwrite and Sensory Mapping   recalibrating user AVA MORGAN → AVAN MORGAN." >>
+
+Ava inhaled but the breath that came out was not Ava’s. Deep. Low. Powerful. The world braced. A vibration pulsed through Avan’s throat. His vocal cords thickened. His larynx shifted lower. His breath resonated deeper in his chest. A tremor left his lips involuntarily,
+
+<<avan "…Leo…?" >>
+
+The sound shocked both of us. It wasn’t Ava speaking. It wasn’t even a disguised version. It was Ava, deep smooth controlled undeniably male The system confirmed,
+
+<<system "Vocal resonance stabilized: masculine range." >>
+
+Ava swallowed her throat bobbing beneath a thicker masculine neck. A wave of pressure rolled through his limbs. Suddenly his brain understood, the mass of his shoulders the heft of his arms the density of his thighs the wider reach of his stride the balance of a tall, muscular male frame He shifted slightly. The floor felt closer and farther at the same time his feet planted wider, stabilizing under his new male posture. A low, instinctive grunt escaped him his body testing its new power.
+
+<<avan "Everything… feels so strong…" >>
+
+Her voice vibrated through my chest. A bright pulse fired through Avan’s pelvis. Her new penis twitched a sudden, intense throb rushing along the shaft as every nerve came online. The system connected, glans sensitivity shaft pressure feedback foreskin glide sensation urethral mapping arousal triggers Avan gasped deep, guttural his eyes widening as raw sensation ignited.
+
+<<ava "Oh fuck. I can feel it. the shaft" >>
+
+He slapped a hand over his mouth, stunned by both the intensity and the voice. The system’s tone remained clinical,
+
+<<system "Primary male sexual organ: sensitivity level high." >>
+
+He exhaled heavily, chest rising in slow masculine rhythm. A deeper pulse filled the scrotum and the space behind it. Avan’s new testicles warmed, gaining full sensory registration, weight movement tightness vs relaxation temperature sensitivity Then a sharp inward flick of sensation hit the prostate engaging for the first time. Avan staggered forward half a step, held only by system restraint.
+
+<<ava "What what was that ?" >>
+
+His voice cracked low and rough.
+
+<<system "Prostatic nerve cluster mapped. Function: arousal modulation." >>
+
+His thighs tightened reflexively. He was feeling sensations no woman’s body could ever replicate. A heavy warmth swept through Avan’s chest and pelvis. Then the system rewired, spontaneous arousal response, surge-based pleasure peaks, genital-centered desire impulses, visual-trigger sensitivity, whole-body tension patterns, Ava inside Avan felt the shift like a rewiring of her very instincts. Her breath stuttered  not fluttery or anxious  but hot, low, driven. Avan blinked hard, trying to steady himself.
+
+<<ava "Leo… everything is… pulling me forward…" >>
+
+Instinct. Hunger. Male desire. Mapped directly into his neural network. A deep rumble of pressure built inside his pelvis  not arousal, but system diagnostics.
+
+Ava stiffened as the internal pathways activated, prostate compression reflex, testicular contraction signals, urethral release path, pelvic floor thrust-link, He gasped, the sensation overwhelming but non-orgasmic.
+
+<<system "Ejaculatory pathways mapped. Function: stabilized." >>
+
+Ava trembled not from pleasure, but from the massive internal shift of having a male release system integrated into his nervous system. His breath shook as he recovered.
+
+Another neural download hit. Ava's posture adjusted  shoulders pulling back, chest lifting, weight settling confidently. He looked at me differently. Not as Ava looked at me  but as a man looks at someone he needs to protect. An unconscious shift. Subtle but powerful. Her voice deepened further as he spoke,
+
+<<avan "Leo… I feel taller. Stronger. Like I need to… shield you." >>
+
+My breath caught. The instinct was coded in. Not emotional. Neurological. A warm wave rolled from head to toe. When it settled, He stood as Avan, thinking through male instincts, feeling male arousal, understanding male weight, breathing with a man’s chest reacting with male drive,perceiving his new body as natural, The final confirmation pinged,
+
+<<system "Neural overwrite complete. User AVAN MORGAN sensory mapping stabilized." >>
+
+Avan exhaled. A deep, slow, grounding breath. He looked at me Leona with new eyes. Not Ava’s eyes. Not uncertain. But controlled. Focused. Masculine. His voice was a low rumble,
+
+<<ava "Leona… are you okay?" >>
+
+My heart skipped. Because he said Leona. Without thinking. As if that had always been my name and the system’s light was already shifting.
+
+<<system "Transformation complete. Initializing world rendering: LUMIRA." >>
+
+Everything around us began to dissolve into color.
+
+[[Warm glow around my throat|day_7_17_lumira_straight]]
+
+:: day_7_17_lumira_straight
+
+The warm glow around my throat tightened not like fingers, not like pressure, but like warm air funneling through a narrowing channel. Then the system’s tone deepened, vibrating along my neck,
+
+<<system "PHASE 7: Vocal Reconstruction   converting male vocal anatomy to female resonance." >>
+
+My pulse hammered. My Adam’s apple throbbed once then the transformation began. A soft heat pulsed at the front of my throat. My Adam’s apple   something I’d never paid attention to until this moment   began to shrink, smoothing beneath the skin. The larynx lifted subtly higher in my neck, changing the entire resonance chamber. I swallowed. The motion felt foreign lighter, smaller and my breath left me in a tiny, startled sound.
+
+<<leona "…oh " >>
+
+The sound wasn’t exactly feminine yet. But it wasn’t Leo’s. Ava stared, chest rising.
+
+<<avan "L-Leo… your voice…" >>
+
+A sharp, tingling heat spread across my vocal cords. They narrowed, thinned, tightened, changing the tension like strings being rewound on an instrument. My next breath vibrated differently across them higher, softer, smoother.
+
+<<leona "Ah " >>
+
+The pitch jumped nearly an octave. Not fully feminine, but unmistakably not male. My cheeks flushed with embarrassment at the unfamiliar sound.
+
+<<avan "W-wow… " >>
+
+A deeper wave hit the middle of my throat. My chest no longer vibrated when I breathed or spoke. Instead, resonance lifted into my upper throat, sound echoed behind my nose, airflow moved higher, tighter, gentler, breath became a dominant component of tone It created a soft, airy, feminine timbre. I swallowed again, and the sound alone made me blush.
+
+The system rewrote the shape of my vocal tract, narrower oral cavity, smaller resonating chamber, softer tongue movements, lighter articulation patterns My consonants softened. My vowels lengthened. When I inhaled to speak, my body automatically pulled in a gentle, breathy pre-tone   a feminine habit encoded directly into nerve pathways.
+
+The system pulsed once more finalizing the change. My throat fluttered. My lips parted. And in a voice I didn’t recognize  a soft, delicate, warm, breathtakingly feminine voice  I whispered,
+
+<<leona "…Ava…?" >>
+
+Ava stiffened. Her breath caught. Her eyes widened stunned by the sound of me. That wasn’t Leo. That wasn’t even a boy trying to speak softly. That was Leona light warmairy gently pitched naturally sweet unmistakably feminine It startled me so badly I pressed a hand over my mouth. My voice was beautiful. I wasn’t ready for that.
+
+A soft electrical wave tickled the back of my mind. New instincts slid into place, softer sentence endings, breathier transitions, upward inflection when uncertain, smoother consonants, naturally melodic tone, subconscious feminine cadence, I didn’t practice it. I didn’t try to sound like a girl. I was one now, vocally. My next breathy whisper escaped without permission,
+
+<<leo "I… I sound so different…" >>
+
+Avan swallowed his new deep voice trembling slightly.
+
+<<ava "Leona… your voice…" >>
+
+He exhaled slowly.
+
+<<ava "…it’s beautiful." >>
+
+My face burned hot. The system chimed,
+
+<<system "Female vocal profile calibrated. \nFinal range: mezzo-soprano. \nBreathiness level: medium-high. \nResonance: head-dominant." >>
+
+<<system "Vocal transformation complete for user: LEONA HART." >>
+
+I breathed out once more and even that breath had a soft, musical quality now. My voice wasn’t something I could hide. It wasn’t something I could force deeper. It was mine. Leona’s and Ava was staring at me like hearing it had changed everything.
+
+[[Cabin around us shimmered softly|day_7_18_lumira_straight]]
+
+:: day_7_18_lumira_straight
+
+The cabin around us shimmered softly, but the glow that wrapped around Avan’s throat had a different weight denser than mine, heavier, a deep vibration that seemed to hum through bone. The system’s voice resonated through the air and through his chest,
+
+<<system "PHASE 7: Vocal Reconstruction   converting female vocal anatomy to male resonance." >>
+
+Ava stiffened, a visible pulse moving down his thick new neck. This wasn’t like mine. This would not make him softer. It would make him powerful. A deep warmth gripped his throat. Then, His larynx lowered. Slow, heavy, pulling downward until the base of his throat vibrated with a new depth.
+
+The lowering increased his vocal chamber dramatically. Ava gasped, but the sound broke halfway, the pitch sliding downward on its own. A new Adam’s apple pushed outward Large. Defined. Masculine. She swallowed reflexively, and the movement was thick, visible.
+
+<<avan "…Leo?" >>
+
+<<leona "You Sound different too… Male" >>
+
+But the sound came out deeper than he expected. His eyes widened. Heat seared across his vocal cords. They thickened. Lengthened. Tightened with masculine weight. The system stretched the tension levels, male length, male thickness, male resonance frequency His next breath trembled out of him 
+
+<<avan "Ah " >>
+
+Deep. Smooth. Shockingly low. Not male-ish. Not a mix. A masculine register built from Ava’s subconscious ideal. Ava's throat flexed, and her new voice rumbled faintly completely unintentional. A wave hit his ribcage. His entire chest vibrated a deep, warm resonance replacing Ava’s light tone. Sound moved from, the upper throat, the nasal cavity, the head voice, Down into, the sternum, the diaphragm, the chest cavity, the collarbones, Every breath became heavy, grounded. When he exhaled, the air carried a new depth. Leo felt it vibrate in the floorboards.
+
+<<leoona "A-Ava... ?" >>
+
+He answered his voice rolling through the space like a low, controlled rumble,
+
+<<avan "…yes?" >>
+
+The way he said it sent a shiver up my spine. The system adjusted the shape of his entire vocal tract, wider mouth resonance. larger oral cavity, broader tongue base, heavier consonant production, clipped syllables, deeper vowel resonance, His speech patterns shifted automatically, firmer, straighter, less breathy, more direct, subtly commanding She didn’t practice it. Her body simply knew how to speak like a man. The system pulsed once more. Ava inhaled her chest rising powerfully and he spoke without meaning to,
+
+<<avan "Leo." >>
+
+My name. Low. Warm. Protective. Deep enough to vibrate in my ribs. She froze at the sound of her own voice. I froze at the way hearing her say my name made my stomach tighten. She touched his neck, stunned by the depth.
+
+<<avan "My voice… it’s…" >>
+
+She swallowed, the Adam’s apple moving boldly.
+
+<<avan "…deep." >>
+
+A small, shocked smile appeared on her face just for a second as if some hidden curiosity inside Ava had always wondered what this would feel like. A hum rippled through his mind. The system installed, stable downward inflection, assertive tone edges, slower pacing, warm chest resonance, reduced breathiness, instinctive masculine articulation, She didn’t think about speaking like a man. She was. Her next natural sentence came out smoother, heavier, earnest,
+
+<<avan "Leo… it’s okay. I'm here." >>
+
+And hearing him speak like that in that voice  made my knees weaken. A final chime.
+
+<<system "Male vocal profile calibrated. Final range: baritone. Resonance: chest-dominant. Tension: high-masculine." >>
+
+<<system "Vocal transformation complete for user: AVAN MORGAN." >>
+
+Ava exhaled.  a full, rich, low breath that belonged to a man built from heroic fantasies and looked at me with that new voice wrapped around every word,
+
+<<avan "Leo… are you alright?" >>
+
+And the way he said it…made my heart skip.
+
+[[Light around us shifted no longer sculpting|day_7_19_lumira_straight]]
+
+
+
+
+
+
+:: day_7_19_lumira_straight
+
+The light around us shifted no longer sculpting, no longer rewriting, but revealing. A soft-prismatic glow peeled back the white void like curtains being drawn from a stage. Our bodies were released. Our hands finally unlocked. Silence fell. Then the system’s final transition appeared, gentle but absolute,
+
+<<system "Transformation sequence complete. Rendering final avatars." >>
+
+<<system "Welcome, Leona Hart." >>
+
+<<system "Welcome, Avan Morgan." >>
+
+The glow dissolved completely and I saw her and she saw me.
+
+<<img "images/scene/part_1/avan.jpeg" "scene">>
+
+The first thing I noticed was height. Ava towered over me broad-shouldered, sculpted, powerfully built, the kind of male silhouette that absorbed space effortlessly. Her chest rose in slow, controlled breaths, her waist tapered into strong hips, her thighs looked carved from stone. Then her face. Ava was gone.
+
+In her place was, a strong jawline, high masculine cheekbones, steady forest-green eyes, thick brows, short tousled hair framing a striking expression, He stared at me with a look I had never seen from Ava. Focused. Grounded. Intense. His deep voice broke the silence,
+
+<<avan "…Leo." >>
+
+My stomach flipped. The way he said my name, Leona hit something raw inside me. His gaze traveled downward  …and stopped. His breath caught sharply. I knew what he was seeing, my narrow 60 cm waist, my wide 98 cm hips, my thick, soft thighs, the plush curve of my 103 cm butt, the heavy sway of my full DD-cup breasts rising and falling with each breath, my glowing warm-toned skin, my long, shimmering honey hair cascading to my waist He swallowed hard. Not shy. Not embarrassed. Just stunned.
+
+<<avan "You’re… beautiful. More than I ever was.." >>
+
+He said it like he couldn’t stop himself. Like the words escaped before he understood them. Heat rushed up my neck. I didn’t know how to stand. My center of gravity felt low, my hips soft, my thighs touching slightly, my breasts shifting with every inhale. I crossed my arms, A mistake. They pressed my breasts together, making them swell and lift. Avan’s eyes widened just slightly. A flicker of something instinctive flashed across his new features. My breath hitched.
+
+<<img "images/scene/part_1/front_2.jpeg" "scene">>
+
+Leona. Not Leo. Not the person I’d joked with, panicked with, calmed down in the dark. This was… A woman. A breathtaking woman. Her hair poured down in glowing waves. Her lips were full and soft, slightly parted with shock. Her eyes were huge, shimmering gold-brown with something vulnerable and impossibly pretty. Her chest… God.
+
+Full, heavy DD-cups that moved with every tiny motion, the kind of soft curve that made my newly built male instincts tighten in a place I didn’t yet fully understand. Her waist was tiny. Her hips wide and perfect. Her thighs thick and warm-looking. Her entire body shaped like a fantasy heroine sculpted to break composure. My pulse pounded in my throat. I stepped forward without realizing it. She stepped back, hips swaying unintentionally from her new balance, breasts bouncing softly, hair brushing her thighs. A sound rose in my chest something protective, something almost territorial. I swallowed it back, forcing my jaw to unclench.
+
+<<avan "Leo… talk to me. Are you okay?" >>
+
+Her voice came out small, breathy,
+
+<<leona "I… I don’t know how to stand. I don’t know how to be in this body." >>
+
+Her thighs pressed together as if she was trying to stabilize herself and my breath caught again. The instinct response was immediate. Strong. I forced myself to take a step back.
+
+<<avan "It's okay. I’ll… I’ll keep a little distance." >>
+
+She nodded, trembling. We stared at each other not knowing where to put our eyes, not knowing where to breathe. Leona lifted a hand to her cheek, brushing her new soft skin. Avan pressed a hand to his chest, feeling the heavy masculine rise of his breath. Our gazes locked again. This time, neither of us looked away. We weren’t Leo and Ava anymore. Not here. Not in this world. We were Leona and Avan, standing in bodies built from subconscious wants we never admitted even to ourselves. Before either of us could speak The floor rippled beneath us. The light changed and the system whispered,
+
+<<system "Initializing world environment: LUMIRA   Starter Cabin Zone." >>
+
+The world began to materialize around us wood, sunlight, a warm cabin interior. Avan reached for me instinctively. Leona stepped toward him without thinking and Lumira came into focus around our new bodies.
+
+[[Last glow of the transformation flickered out|day_7_20_lumira_straight]]
+
+
+
+
+
+:: day_7_20_lumira_straight
+
+The last glow of the transformation flickered out, replaced by a slow, warm radiance that pulsed beneath our feet. The white void cracked   not shattered, not abruptly   but unfolded, like soft paper peeling away to reveal color, texture, life. Lumira. The world breathed itself into existence around us.
+
+<<img "images/scene/part_1/apartment_3.jpeg" "scene">>
+
+The floor gained grain   smooth, honey-colored wood swirling outward in growing rings. Walls rose next, timber beams, warm-toned planks, soft golden light filling the space as if from a sun that hadn’t yet been rendered. A bed appeared   large, inviting, draped in rich celestial-patterned blankets of deep blue and shimmering gold. A washroom corner formed with, a polished stone basin, a soft-glow mirror, a carved wooden privacy wall
+
+A small dresser built itself from floating fragments of wood, drawers sliding into place. Shelves flickered into existence, holding folded clothes   our clothes, sized and shaped for Leona’s curves and Avan’s broad frame. The air warmed, scented faintly of cedar and something floral, like dream-forest air.
+
+A gentle hum vibrated through the cabin as a crystal began to glow on a small table, the Lumira Heart, pulsing with a soft rose-gold light. It felt alive. The cabin door existed last, growing from the frame like vines weaving together, sealing with a soft click. We stood in the middle of it. Together. Changed. Breathing hard.
+
+<<img "images/scene/part_1/user_6.jpeg" "scene">>
+
+I shifted my foot. Just one inch. My thighs brushed   a soft, warm friction that sent a startled jolt up my spine. My hips rocked subtly from the instinctive adjustment. My breasts lifted and dropped with the smallest motion, heavy and warm against my chest. My hair slid over my back, silky and impossibly long, brushing the tops of my thighs. Everything felt… in motion. Even standing still. I took a slow, uncertain step. My hips swayed automatically. My chest bounced. My thighs pressed together. I froze   cheeks flushing hot.
+
+<<leona "I… I don’t know how to move in this body…" >>
+
+Avan looked at me like the air had left his lungs.
+
+<<img "images/scene/part_1/avan_2.jpeg" "scene">>
+
+Her body felt… enormous. Every breath filled a chest that rose and stretched powerfully. Every shift of weight activated thick thigh muscles, strong calves, wide shoulders. Her arms felt dense, heavy with strength She didn’t remember earning and between her legs  A constant presence. Warm. Weighted. Hanging. Responsive. Every small motion brushed new nerves into awareness. She swallowed her Adam’s apple dipping in a thick, masculine motion. Her voice rumbled softly,
+
+<<avan "I… feel huge. And heavy. And…" >>
+
+Words failed her.
+
+<<avan "Different." >>
+
+We were no longer silhouettes in a void. I stood in warm sunlight, my curves catching the light, honey hair glowing, skin luminous. The beauty was… devastating. Idealized. Fantastical. Too much. Ava stood tall in the same light, broad and sculpted, his jaw shadowed by masculine definition, his stance naturally confident and protective. We breathed in synchrony, facing each other in bodies our minds were only moments from fully accepting. A soft chime filled the cabin. A floating message appeared,
+
+<<system "Welcome to Lumira. Emotional sensitivity settings: HIGH." >>
+
+<<system "Starter location: Serenity Cabin, Isle of Dawn." >>
+
+<<system "Linked session enabled. Physical proximity enhances synchronization." >>
+
+<<img "images/scene/part_1/apartment_4.jpeg" "scene">>
+
+The last message flickered twice   almost intentionally. I stepped backward, overwhelmed. Ava stepped forward, instinctively. They froze. Their proximity made the system glow brighter.
+
+<<system "Synchronization increasing." >>
+
+Heat rose in both our bodies. I felt a new kind of awareness. He felt a new kind of pull. We stared at each other not as Leo and Ava but as Leona and Avan, newly created avatars with bodies reacting to things we did not yet understand. Ava's voice was low, trembling with awe and fear,
+
+<<avan "Leo.. what do we do now?" >>
+
+I swallowed hard.
+
+<<leona "I… I don’t know." >>
+
+The door of the cabin creaked as the world outside finished loading. Soft wind. Glowing trees. Floating islands. Warm blue sky. Lumira was waiting. So were we. Together. Changed. Breathing in a world shaped by emotion and connection.
+
+<<nobr>>
+<p>
+  This marks the end of version 1.0.1. For version 1.0.2, visit https://www.patreon.com/c/nexatto
+</p>
+<</nobr>>
+

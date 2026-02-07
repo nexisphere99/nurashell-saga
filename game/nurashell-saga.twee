@@ -1,0 +1,29 @@
+:: StoryTitle
+Nurashell Saga
+
+
+:: StoryData
+{
+	"ifid": "27FA6D7B-4709-4B3D-9797-F5BF92C9430B",
+	"format": "SugarCube",
+	"format-version": "2.37.3",
+	"start": "start",
+	"zoom": 0.6
+}
+
+
+:: Story Stylesheet [stylesheet]
+
+
+:: Story JavaScript [script]
+
+
+:: StoryMenu
+/* [[start]] */
+<a href="https://www.patreon.com/c/nexatto" target="_blank">Patreon</a>
+
+:: StoryInit
+<<set $playerImage to "images/characters/leo/leo_full_cloth.png">>
+<<set $firstTimeSplash to true>>
+<<set $day to 1>>
+<<set $game to "nurashell">>
