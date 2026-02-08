@@ -5,6 +5,7 @@
 :: leo_dorm_room
 <<nobr>>
 <<img "images/locations/leo_dorm.jpeg" "header">>
+<br><br>
 <<set $locationImage = "images/locations/leo_dorm.jpeg">>
 <<if $day == 1>>
     [[Wake Up|morning_1]]

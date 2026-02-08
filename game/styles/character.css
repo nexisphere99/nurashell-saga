@@ -166,3 +166,10 @@
     color: #f5eaff;
 }
 .dialog-system .name { color: #d3a2f0; }
+
+.dialog-npc {
+    background: rgba(63, 53, 32, 0.749);
+    border-color: #b47a0f;
+    color: #f5eaff;
+}
+.dialog-npc .name { color: #d3a2f0; }

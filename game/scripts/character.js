@@ -180,6 +180,21 @@ Macro.add("system", {
 });
 
 
+Macro.add("npc", {
+  handler() {
+      let text = this.args[0];
+      let html = '<div class="dialog-box dialog-npc">' +
+                  //  '<img class="portrait" src="images/characters/agent/agent.png">' +
+                   '<div class="dialog-text">' +
+                     '<span class="name">NPC</span>' +
+                     text +
+                   '</div>' +
+                 '</div>';
+      $(this.output).wiki(html);
+  }
+});
+
+
 Macro.add("img", {
     handler() {
         let file = this.args[0];
