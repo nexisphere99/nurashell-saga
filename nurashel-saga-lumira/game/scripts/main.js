@@ -7,7 +7,7 @@ $(document).one(':storyready', function () {
     $('body').append(`
         <div id="neura-splash">
             <div class="neura-splash-content step1">
-                <h1>Nurashell Saga</h1>
+                <h1>Nurashell Saga   Lumira</h1>
                 <button id="neura-splash-next">Next</button>
             </div>
 

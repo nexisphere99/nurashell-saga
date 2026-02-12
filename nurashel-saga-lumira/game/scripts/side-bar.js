@@ -9,7 +9,7 @@ $(document).one(':storyready', function () {
             <div id="neura-ui-bar-history"></div>
             <div class="neura-left-header">
                 <h2 class="neura-game-title">Nurashell Saga - Lumira</h2>
-                <span class="neura-game-version">v1.0.1</span>
+                <span class="neura-game-version">v1.0.2</span>
             </div>
             <div class="neura-left-image">
                 <img id="neura-player-image"
