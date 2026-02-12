@@ -2,15 +2,15 @@
 
 
 
-:: leo_dorm_room
+:: leo_dorm_room_night_lumira
 <<nobr>>
 <<img "images/locations/leo_dorm.jpeg" "header">>
-<br><br>
 <<set $locationImage = "images/locations/leo_dorm.jpeg">>
+<br><br>
 <<if $day == 1>>
-    [[Wake Up|day_1_lumira]]
+    [[Sleep|leo_dorm_room_lumira]]
 <<elseif $day == 2>>
-    [[Wake Up|day_2_1]]
+    [[Sleep|day_2_9_lumira]]
 <<elseif $day == 3>>
     [[Wake Up|day_3_1]]
 <<elseif $day == 4>>
@@ -23,7 +23,6 @@
     [[Wake Up|day_7_1_eidolom_straight]]
 <<elseif $day == 7 and $game == "lumira_straight">>
     [[Wake Up|day_7_1_lumira_straight]]
-<<elseif $day == 7 and $game == "lumira_lesbian">>
-    [[Wake Up|day_7_1_lumira_lesbian]]
 <</if>>
+<<set $day += 1>>
 <</nobr>>

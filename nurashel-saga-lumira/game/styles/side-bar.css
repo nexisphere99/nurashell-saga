@@ -33,7 +33,7 @@
     top: 0;
     left: 0;
 
-    width: 300px;
+    width: 20%;
     height: 100vh;
 
     background: #03110c;
@@ -47,6 +47,10 @@
     display: flex;
     /* justify-content: center; */
     align-items: center;
+
+    overflow-y: auto; /* Enable vertical scrolling */
+    scrollbar-width: thin; /* Optional: thinner scrollbar for Firefox */
+    scrollbar-color: #7af7c2 #03110c; /* Optional: custom scrollbar colors */
 }
 
 
@@ -55,8 +59,8 @@
 ------------------------------------------- */
 
 .neura-left-image {
-    width: 280px;
-    height: 500px;
+    width: 90%;
+    height: 50%;
 
     border-radius: 18px;
     overflow: hidden;
@@ -83,7 +87,7 @@
     top: 0;
     right: 0;
 
-    width: 300px;
+    width: 20%;
     height: 100vh;
 
     background: #03110c;
@@ -177,7 +181,7 @@
 ------------------------------------------- */
 
 .neura-left-location {
-    width: 280px;
+    width: 90%;
     height: 160px;
 
     margin-top: 1rem;
@@ -195,4 +199,106 @@
     height: 100%;
     object-fit: cover;
     display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* -------------------------------------------
+   MOBILE: SIDEBARS OFF-CANVAS + 2 TOGGLES
+------------------------------------------- */
+
+#neura-toggle-left,
+#neura-toggle-right {
+    display: none; /* shown only on mobile */
+}
+
+@media (max-width: 900px) {
+
+    /* Remove desktop offsets on mobile */
+    #story {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+
+    /* Sidebars become drawers */
+    #neura-left-bar,
+    #neura-right-bar {
+        width: 80vw;
+        max-width: 340px;
+        transition: transform 0.25s ease;
+        will-change: transform;
+    }
+
+    /* Default hidden (each independently) */
+    body.neura-left-hidden #neura-left-bar {
+        transform: translateX(-105%);
+    }
+    body.neura-right-hidden #neura-right-bar {
+        transform: translateX(105%);
+    }
+
+    /* Buttons */
+    #neura-toggle-left,
+    #neura-toggle-right {
+        display: inline-flex;
+        position: fixed;
+        bottom: 12px;
+        z-index: 9999;
+
+        gap: 10px;
+        align-items: center;
+        justify-content: center;
+
+        padding: 10px 14px;
+        border-radius: 999px;
+
+        background: rgba(15, 22, 19, 0.92);
+        border: 1px solid rgba(122, 247, 194, 0.25);
+        color: #dfe7e2;
+
+        box-shadow:
+            0 10px 30px rgba(0,0,0,0.55),
+            0 0 18px rgba(0,255,150,0.18);
+
+        -webkit-backdrop-filter: blur(8px);
+        backdrop-filter: blur(8px);
+
+        cursor: pointer;
+        user-select: none;
+        font-size: 0.95rem;
+    }
+
+    #neura-toggle-left { left: 12px; }
+    #neura-toggle-right { right: 12px; }
+
+    #neura-toggle-left:active,
+    #neura-toggle-right:active {
+        transform: scale(0.98);
+    }
+
+    .neura-dot {
+        width: 8px;
+        height: 8px;
+        border-radius: 999px;
+        background: #7af7c2;
+        box-shadow: 0 0 10px rgba(0,255,150,0.45);
+    }
 }

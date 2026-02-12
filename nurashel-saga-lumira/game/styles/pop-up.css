@@ -1,0 +1,416 @@
+/* -------------------------------------------
+   NEURASHELL MENU TOGGLE BUTTON
+------------------------------------------- */
+
+#neura-toggle {
+    position: fixed;
+    top: 14px;
+    left: 14px;
+
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+
+    background: radial-gradient(circle, #1a3a2c, #0f1613);
+    border: 1px solid #2d4e3f;
+
+    box-shadow:
+        0 0 16px rgba(0,255,150,0.6),
+        inset 0 0 8px rgba(0,255,150,0.25);
+
+    cursor: pointer;
+    z-index: 3000;
+}
+
+#neura-toggle::before,
+#neura-toggle::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    width: 18px;
+    height: 2px;
+    background: #7af7c2;
+    transform: translateX(-50%);
+    box-shadow: 0 0 6px rgba(0,255,150,0.6);
+}
+
+#neura-toggle::before { top: 16px; }
+#neura-toggle::after  { top: 24px; }
+
+
+/* -------------------------------------------
+   BACKDROP OVERLAY
+------------------------------------------- */
+
+#neura-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(2, 10, 7, 0.75);
+    backdrop-filter: blur(6px);
+
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+
+    z-index: 2900;
+}
+
+#neura-overlay.open {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+
+/* -------------------------------------------
+   CENTER POPUP PANEL
+------------------------------------------- */
+
+#neura-popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+
+    width: 20%;
+    max-width: 90vw;
+    padding: 2rem 1.8rem;
+
+    background: #03110c;
+    border: 1px solid rgba(0,255,150,0.2);
+    border-radius: 20px;
+
+    transform: translate(-50%, -50%) scale(0.9);
+    opacity: 0;
+    pointer-events: none;
+
+    box-shadow:
+        0 0 45px rgba(0,255,150,0.25),
+        0 0 90px rgba(0,0,0,0.6);
+
+    transition:
+        transform 0.35s ease,
+        opacity 0.35s ease;
+
+    z-index: 3100;
+
+    
+}
+
+@media (max-width: 900px) {
+    #neura-popup {
+
+        width: 70%;
+    }
+}
+
+#neura-popup.open {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+    pointer-events: auto;
+}
+
+
+/* -------------------------------------------
+   AVATAR
+------------------------------------------- */
+
+.neura-avatar {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+.neura-avatar img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+
+    border: 2px solid #53eaa8;
+    box-shadow:
+        0 0 18px rgba(0,255,150,0.5);
+}
+
+
+/* -------------------------------------------
+   TITLE
+------------------------------------------- */
+
+.neura-title {
+    text-align: center;
+    color: #7af7c2;
+    font-size: 1.4rem;
+    text-shadow: 0 0 12px rgba(0,255,150,0.5);
+}
+
+.neura-separator {
+    margin: 1rem auto 1.4rem;
+    width: 60%;
+    border-bottom: 1px solid rgba(0,255,150,0.25);
+}
+
+
+/* -------------------------------------------
+   MENU LINKS
+------------------------------------------- */
+
+.neura-menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.neura-menu a {
+    display: block;
+    padding: 0.75rem 1rem;
+    margin-bottom: 0.3rem;
+
+    color: #a6e5cd;
+    text-align: center;
+    border-radius: 8px;
+
+    transition: 0.25s;
+}
+
+.neura-menu a:hover {
+    background: rgba(0,255,150,0.1);
+    color: #e9fff4;
+    text-shadow: 0 0 6px #46e9a0;
+}
+
+
+
+/* -------------------------------------------
+   HIDE DEFAULT SUGARCUBE UI BAR COMPLETELY
+------------------------------------------- */
+
+#ui-bar,
+#ui-bar-toggle,
+#ui-bar-history,
+#ui-bar-body {
+    display: none !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+}
+
+
+
+
+/* -------------------------------------------
+   POPUP CLOSE BUTTON (TOP RIGHT)
+------------------------------------------- */
+
+#neura-close {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+
+    width: 34px;
+    height: 34px;
+    padding: 0;
+
+    border-radius: 50%;
+    background: radial-gradient(circle, #1a3a2c, #0f1613);
+    border: 1px solid #2d4e3f;
+
+    cursor: pointer;
+
+    box-shadow:
+        0 0 10px rgba(0,255,150,0.4),
+        inset 0 0 6px rgba(0,255,150,0.25);
+
+    z-index: 5;
+}
+
+/* X icon */
+#neura-close::before,
+#neura-close::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    width: 16px;
+    height: 2px;
+    background: #7af7c2;
+
+    transform-origin: center;
+    box-shadow: 0 0 6px rgba(0,255,150,0.6);
+}
+
+#neura-close::before {
+    transform: translate(-50%, -50%) rotate(45deg);
+}
+
+#neura-close::after {
+    transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+#neura-close:hover {
+    box-shadow:
+        0 0 16px rgba(0,255,150,0.7),
+        inset 0 0 10px rgba(0,255,150,0.35);
+}
+
+
+
+.neura-action-btn {
+    width: 100%;
+    padding: 10px 12px;
+    margin: 8px 0;
+    background: #4c4cff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+
+.neura-action-btn:hover {
+    background: #6666ff;
+}
+
+
+
+
+#neura-char-popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 520px;
+    max-width: 90%;
+    transform: translate(-50%, -50%);
+    background: #1a1a1a;
+    padding: 26px;
+    border-radius: 16px;
+    z-index: 9999;
+    display: none;
+}
+
+#neura-char-popup.open {
+    display: block;
+}
+
+#neura-char-popup .neura-char-list p {
+    margin: 10px 0;
+    font-size: 1.2rem;
+    color: #ddd;
+}
+
+
+
+
+.neura-char-profile {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 700px;
+    max-width: 95%;
+    max-height: 90%;
+    overflow-y: auto;
+    transform: translate(-50%, -50%);
+    background: #1a1a1a;
+    padding: 26px;
+    border-radius: 16px;
+    z-index: 10000;
+    display: none;
+}
+
+.neura-char-profile.open {
+    display: block;
+}
+
+.neura-char-profile-content {
+    display: flex;
+    gap: 24px;
+}
+
+.neura-char-image img {
+    width: 512px;
+    height: 768px;
+    background: #333;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.neura-char-text {
+    flex-grow: 1;
+    color: #ddd;
+    font-size: 1.05rem;
+    line-height: 1.55;
+}
+
+
+
+
+.neura-char-profile-content {
+    display: flex;
+    flex-direction: column;   /* <-- STACK EVERYTHING */
+    align-items: center;      /* center the image */
+    gap: 24px;
+}
+
+.neura-char-image img {
+    width: 512px;
+    height: 768px;
+    background: #333;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.neura-char-text {
+    width: 100%;
+    color: #ddd;
+    font-size: 1.05rem;
+    line-height: 1.55;
+}
+
+
+
+.neura-char-list p {
+    background: #2b2b2b;
+    padding: 10px 14px;
+    margin: 8px 0;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.15s ease;
+    text-align: center;
+    font-size: 1.1rem;
+    color: #eee;
+    border: 1px solid #444;
+}
+
+.neura-char-list p:hover {
+    background: #3a3a3a;
+    border-color: #666;
+    transform: translateY(-2px);
+}
+
+.neura-char-list p:active {
+    background: #505050;
+    transform: translateY(0);
+}
+
+
+
+
+.neura-char-profile-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+}
+
+.neura-char-image img {
+    width: 512px;
+    height: 768px;
+    background: #333;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.neura-char-text {
+    width: 100%;
+    color: #ddd;
+    font-size: 1.05rem;
+    line-height: 1.55;
+}

@@ -1,0 +1,168 @@
+/* DIALOG BOX */
+.dialog-box {
+    position: relative;
+    padding: 1rem 1.4rem;
+    margin: 1.2rem 0;
+    border-radius: 12px;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    max-width: 90%;
+    border-left: 5px solid;
+    overflow: hidden;
+}
+
+/* RESERVE SPACE FOR PORTRAIT */
+.dialog-text {
+    padding-right: 110px;   /* ← Increase this for more spacing */
+}
+
+/* Name styling */
+.dialog-text .name {
+    display: block;
+    margin-bottom: 0.4rem;  /* ← space between name and text */
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+/* TOP-RIGHT PORTRAIT */
+.dialog-box img.portrait {
+    position: absolute;
+    top: 0.6rem;
+    right: 0.6rem;
+
+    width: 85px !important;
+    height: 85px !important;
+
+    object-fit: cover;
+    border-radius: 8px;
+    opacity: 0.95;
+    pointer-events: none;
+}
+
+
+/* PUSH TEXT AWAY FROM PORTRAIT SO THEY DON'T OVERLAP */
+.dialog-text {
+    padding-right: 100px; /* enough space so text doesn't overlap image */
+}
+
+
+/* ------------------------------------------
+   COLOR THEMES
+------------------------------------------ */
+
+.dialog-leo {
+    background: rgba(80,200,180,0.12);
+    border-color: #44e2c0;
+    color: #c6fff1;
+}
+.dialog-leo .name { color: #7ff7da; }
+
+.dialog-ava {
+    background: rgba(255,180,180,0.14);
+    border-color: #ff8ea0;
+    color: #ffe4e8;
+}
+.dialog-ava .name { color: #ffb9c7; }
+
+.dialog-avan {
+    background: rgba(10,255,150,0.10);
+    border-color: #3cffb2;
+    color: #d2ffe9;
+}
+.dialog-avan .name { color: #71ffcc; }
+
+.dialog-leona {
+    background: rgba(255,120,220,0.10);
+    border-color: #ff66cc;
+    color: #ffd8f3;
+}
+.dialog-leona .name { color: #ff99dd; }
+
+
+.dialog-jenna {
+    background: rgba(180,160,255,0.15);
+    border-color: #c2a4ff;
+    color: #f4eeff;
+}
+.dialog-jenna .name { color: #e3d2ff; }
+
+
+.dialog-natalie {
+    background: rgba(255,130,95,0.16);
+    border-color: #ff9b73;
+    color: #ffeae3;
+}
+.dialog-natalie .name { color: #ffc2a8; }
+
+
+.dialog-jamie {
+    background: rgba(80,140,255,0.16);
+    border-color: #6d9eff;
+    color: #e3ecff;
+}
+.dialog-jamie .name { color: #a9c5ff; }
+
+
+.dialog-agent {
+    background: rgba(255,200,90,0.15);
+    border-color: #ffcc66;
+    color: #fff4da;
+}
+.dialog-agent .name { color: #ffe5a4; }
+
+
+.dialog-f5 {
+    background: rgba(245,160,200,0.15);
+    border-color: #f5a6d1;
+    color: #ffeaf5;
+}
+.dialog-f5 .name { color: #ffd3e8; }
+
+
+.dialog-marcus {
+    background: rgba(140,200,255,0.14);
+    border-color: #8bc7ff;
+    color: #e6f3ff;
+}
+.dialog-marcus .name { color: #b8ddff; }
+
+
+.dialog-dylan {
+    background: rgba(180,80,50,0.17);
+    border-color: #cc6a4e;
+    color: #ffe5dd;
+}
+.dialog-dylan .name { color: #e89e85; }
+
+
+.dialog-rowan {
+    background: rgba(70,120,90,0.17);
+    border-color: #85c9a3;
+    color: #e7fff2;
+}
+.dialog-rowan .name { color: #b6f5d9; }
+
+
+.dialog-m4 {
+    background: rgba(240,170,40,0.17);
+    border-color: #f4c35a;
+    color: #fff3dd;
+}
+.dialog-m4 .name { color: #ffe09c; }
+
+
+.dialog-m5 {
+    background: rgba(120,60,140,0.17);
+    border-color: #b079d1;
+    color: #f5eaff;
+}
+.dialog-m5 .name { color: #d3a2f0; }
+
+
+
+.dialog-system {
+    background: rgba(199, 225, 208, 0.17);
+    border-color: #b079d1;
+    color: #f5eaff;
+}
+.dialog-system .name { color: #d3a2f0; }
