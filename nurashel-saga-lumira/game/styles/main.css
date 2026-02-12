@@ -1,0 +1,406 @@
+/* -------------------------------------------
+   NEURASHELL DARK-GREEN THEME
+------------------------------------------- */
+
+body {
+    background: #050806; /* deep forest-black */
+    color: #dfe7e2;
+    font-family: "Segoe UI", Roboto, sans-serif;
+    line-height: 1.6;
+}
+
+/* ----- PASSAGES ----- */
+#passages {
+    max-width: 840px;
+    margin: auto;
+    padding: 2rem;
+}
+
+.passage {
+    background: rgba(255,255,255,0.02);
+    border: 1px solid rgba(0,255,150,0.10);
+    border-radius: 10px;
+    padding: 2rem;
+    box-shadow: 0 0 22px rgba(0,255,150,0.08);
+    backdrop-filter: blur(4px);
+}
+
+/* ----- LINKS ----- */
+a {
+    color: #7af7c2;
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+a:hover {
+    color: #53eaa8;
+    text-shadow: 0 0 6px #53eaa8;
+}
+
+/* ----- BUTTONS ----- */
+button,
+.link-internal {
+    background: #0f1613;
+    border: 1px solid #1d3027;
+    color: #dfe7e2;
+    padding: 0.5rem 1.2rem;
+    border-radius: 6px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+button:hover,
+.link-internal:hover {
+    background: #16221c;
+    border-color: #2d4e3f;
+    box-shadow: 0 0 10px rgba(80,240,160,0.25);
+}
+
+/* ----- HEADINGS ----- */
+h1, h2 {
+    font-weight: 600;
+    color: #f1fff6;
+    text-shadow: 0 0 10px rgba(0,255,150,0.25);
+}
+
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.6rem; }
+
+/* ----- PARAGRAPH GLOW ----- */
+.passage p {
+    text-shadow: 0 0 3px rgba(0,255,150,0.10);
+}
+
+/* -------------------------------------------
+   LEFT SIDEBAR — Deep-Green VR Glow
+------------------------------------------- */
+
+#menu-core {
+    background: #060d0a; /* dark swamp-black green */
+    border-right: 1px solid rgba(0,255,150,0.06);
+    box-shadow: 4px 0 18px rgba(0,0,0,0.45);
+    padding-top: 1rem;
+}
+
+/* Sidebar headings */
+#menu-core h2 {
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+    padding: 0.8rem 1rem;
+    margin-bottom: 0.5rem;
+    color: #7db39a;
+    text-transform: uppercase;
+}
+
+/* Sidebar links */
+#menu-core a {
+    display: block;
+    padding: 0.8rem 1.2rem;
+    color: #a9cdbd;
+    transition: 0.2s;
+    border-left: 3px solid transparent;
+}
+
+#menu-core a:hover {
+    color: #e8fff4;
+    background: rgba(0,255,150,0.08);
+    border-left: 3px solid #53eaa8;
+    text-shadow: 0 0 6px #53eaa8;
+}
+
+/* Scrollbar */
+#menu-core::-webkit-scrollbar {
+    width: 6px;
+}
+
+#menu-core::-webkit-scrollbar-thumb {
+    background: #36d690;
+    border-radius: 10px;
+}
+
+#menu-core::-webkit-scrollbar-track {
+    background: #06100c;
+}
+
+
+/* -------------------------------------------
+   MAIN SIDEBAR WRAPPER
+------------------------------------------- */
+
+#ui-bar {
+    background: #03110c !important; /* deep green-black */
+    border-right: 1px solid rgba(0,255,150,0.10);
+    box-shadow: 4px 0 20px rgba(0,0,0,0.6);
+}
+
+#ui-bar-body {
+    background: #03110c !important;
+    padding-top: 1rem;
+}
+
+/* -------------------------------------------
+   SIDEBAR TITLE
+------------------------------------------- */
+
+#story-title {
+    color: #7af7c2 !important;
+    text-shadow: 0 0 8px rgba(0,255,150,0.4);
+}
+
+#story-title-separator {
+    border-bottom: 1px solid rgba(0,255,150,0.18);
+}
+
+/* -------------------------------------------
+   MENU SECTIONS
+------------------------------------------- */
+
+#menu {
+    background: transparent !important;
+}
+
+#menu-story a,
+#menu-core a {
+    display: block;
+    padding: 0.8rem 1.2rem;
+    color: #a6e5cd !important;
+    border-left: 3px solid transparent;
+    transition: 0.25s;
+}
+
+/* HOVER EFFECT */
+#menu-story a:hover,
+#menu-core a:hover {
+    color: #e9fff4 !important;
+    background: rgba(0,255,150,0.08);
+    border-left: 3px solid #53eaa8;
+    text-shadow: 0 0 6px #46e9a0;
+}
+
+/* -------------------------------------------
+   HISTORY BUTTONS (back/forward)
+------------------------------------------- */
+
+#history-backward,
+#history-forward {
+    background: #0f1613 !important;
+    border: 1px solid #1d3027 !important;
+}
+
+#history-backward:hover:not([disabled]),
+#history-forward:hover:not([disabled]) {
+    background: #16221c !important;
+    border-color: #2d4e3f;
+}
+
+/* -------------------------------------------
+   UI-BAR TOGGLE BUTTON
+------------------------------------------- */
+
+#ui-bar-toggle {
+    background: #0f1613 !important;
+    border: 1px solid #1d3027 !important;
+}
+
+#ui-bar-toggle:hover {
+    background: #16221c !important;
+    border-color: #2d4e3f;
+}
+
+/* -------------------------------------------
+   SIDEBAR SCROLLBAR
+------------------------------------------- */
+
+#ui-bar::-webkit-scrollbar {
+    width: 7px;
+}
+
+#ui-bar::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, #0eea8f, #067e4c);
+    border-radius: 12px;
+}
+
+#ui-bar::-webkit-scrollbar-track {
+    background: #03110c;
+}
+
+
+
+
+
+
+
+.scene-image {
+    width: 100%;
+    margin: 2rem auto;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 0 30px rgba(0,0,0,0.45);
+}
+
+.scene-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* FULL SCREEN SPLASH */
+#neura-splash {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+
+    background: #050806;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    backdrop-filter: blur(6px);
+}
+
+/* SPLASH CONTENT BASE */
+.neura-splash-content {
+    text-align: center;
+    background: rgba(3,17,12,0.95);
+    border: 2px solid #36d690;
+    border-radius: 20px;
+    padding: 3rem 2rem;
+    max-width: 720px;
+    box-shadow: 0 0 40px rgba(0,255,150,0.25);
+}
+
+/* STEP 1 — BIG TITLE */
+.neura-splash-content.step1 h1 {
+    font-size: 5rem;
+    color: #7af7c2;
+    text-shadow: 0 0 20px rgba(0,255,150,0.7);
+    margin-bottom: 3rem;
+}
+
+/* STEP 2 — WARNING */
+.neura-splash-content.step2 .neura-warning {
+    font-size: 1.5rem;
+    color: #dfe7e2;
+    line-height: 1.6;
+    margin-bottom: 2rem;
+    text-shadow: 0 0 6px rgba(0,255,150,0.15);
+}
+
+/* BUTTONS */
+#neura-splash-next,
+#neura-splash-continue {
+    background: #0f1613;
+    border: 1px solid #1d3027;
+    color: #dfe7e2;
+    padding: 0.8rem 1.5rem;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    box-shadow: 0 0 15px rgba(0,255,150,0.3);
+    transition: 0.3s;
+}
+
+#neura-splash-next:hover,
+#neura-splash-continue:hover {
+    background: #16221c;
+    border-color: #2d4e3f;
+    box-shadow: 0 0 25px rgba(0,255,150,0.5);
+}
+
+
+
+/* SPLASH CONTENT BASE */
+.neura-splash-content {
+    text-align: center;
+    background: rgba(3,17,12,0.95);
+    border: 2px solid #36d690;
+    border-radius: 20px;
+    padding: 3rem 2rem;
+    max-width: 720px;
+    box-shadow: 0 0 40px rgba(0,255,150,0.25);
+    transition: transform 0.6s ease, opacity 0.6s ease;
+}
+
+/* Fade-in scale for appearing */
+.fade-in-scale {
+    opacity: 0;
+    transform: scale(0.8);
+    animation: fadeInScale 0.6s forwards;
+}
+
+@keyframes fadeInScale {
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+/* Fade-out scale for disappearing */
+.fade-out-scale {
+    animation: fadeOutScale 0.6s forwards;
+}
+
+@keyframes fadeOutScale {
+    to {
+        opacity: 0;
+        transform: scale(1.2);
+    }
+}
+
+/* STEP 1 — BIG TITLE */
+.neura-splash-content.step1 h1 {
+    font-size: 5rem;
+    color: #7af7c2;
+    text-shadow: 0 0 20px rgba(0,255,150,0.7);
+    margin-bottom: 3rem;
+}
+
+/* STEP 2 — WARNING */
+.neura-splash-content.step2 .neura-warning {
+    font-size: 1.5rem;
+    color: #dfe7e2;
+    line-height: 1.6;
+    margin-bottom: 2rem;
+    text-shadow: 0 0 6px rgba(0,255,150,0.15);
+}
+
+/* BUTTONS */
+#neura-splash-next,
+#neura-splash-continue {
+    background: #0f1613;
+    border: 1px solid #1d3027;
+    color: #dfe7e2;
+    padding: 0.8rem 1.5rem;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    box-shadow: 0 0 15px rgba(0,255,150,0.3);
+    transition: 0.3s;
+}
+
+#neura-splash-next:hover,
+#neura-splash-continue:hover {
+    background: #16221c;
+    border-color: #2d4e3f;
+    box-shadow: 0 0 25px rgba(0,255,150,0.5);
+}
+
+/* Initially hide step2 */
+.neura-splash-content.step2 {
+    display: none;
+}

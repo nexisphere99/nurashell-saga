@@ -1,0 +1,20 @@
+
+
+
+
+:: leo_dorm_room_night
+<<nobr>>
+<<img "images/locations/leo_dorm.jpeg" "header">>
+<<set $locationImage = "images/locations/leo_dorm.jpeg">>
+<br><br>
+<<if $day == 1>>
+    [[Sleep|day_1_9]]
+<<elseif $day == 2>>
+    [[Sleep|day_2_9]]
+<<elseif $day == 3>>
+    [[Sleep|day_3_12]]
+<<elseif $day == 4>>
+    [[Sleep|leo_dorm_room]]
+<</if>>
+<<set $day += 1>>
+<</nobr>>

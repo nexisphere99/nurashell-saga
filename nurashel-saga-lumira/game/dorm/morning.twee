@@ -1,0 +1,27 @@
+
+
+
+
+:: leo_dorm_room
+<<nobr>>
+<<img "images/locations/leo_dorm.jpeg" "header">>
+<<set $locationImage = "images/locations/leo_dorm.jpeg">>
+<br><br>
+<<if $day == 1>>
+    [[Wake Up|day_1_1]]
+<<elseif $day == 2 && $path_day_1 == "lesbian">>
+    [[Wake Up|day_2_0_les]]
+<<elseif $day == 2>>
+    [[Wake Up|day_2_0_str]]
+<<elseif $day == 3 && $path_day_2 == "lesbian">>
+    [[Wake Up|day_3_1_1]]
+<<elseif $day == 3>>
+    [[Wake Up|day_3_1]]
+<<elseif $day == 4 && $path_day_3 == "lesbian">>
+    [[Wake Up|day_4_1_les]]
+<<elseif $day == 4>>
+    [[Wake Up|day_4_1_str]]
+<<elseif $day == 5>>
+    [[Wake Up|day_5_1_str]]
+<</if>>
+<</nobr>>

@@ -1,0 +1,2048 @@
+
+
+
+:: start_lumira
+
+I used to think I understood love. Little crushes in high school, fleeting warmth, momentary sparks   nothing that lasted, nothing that felt like it meant anything.
+
+<span style="color: green; font-size: 30px;">Then came Ava.....</span>
+
+What still surprises me is how quiet the beginning was. No lightning bolt, no dramatic moment. She just… slipped into my days like sunlight warming a room, slow and gentle until suddenly I couldn’t imagine the space without her.
+
+We met in the campus café. Not a meet-cute, nothing memorable   at least, not at first. She always sat in the corner by the window, ribbon in her hair, hands wrapped around a mug like she needed its warmth to anchor her. I saw her before I <span style="color: green;">noticed</span> her. Then one afternoon, while I stared hopelessly at circuits homework, she peeked over her book.
+
+<<ava "Are you… okay?">>
+
+I laughed awkwardly.
+
+<<leo "Just engineering trying to kill me.">>
+
+She smiled   small, shy, but genuine. Something tugged inside me. The next day, we exchanged a wave. Two days later, a small conversation. A week later, I was sitting at her table without needing an excuse.
+
+She was soft-spoken, thoughtful, the kind of person who moves carefully through the world without ever realizing how much space she fills in someone else’s mind.
+
+One rainy afternoon, she came in drenched. I offered my spare hoodie before I could think twice. It swallowed her whole. She blushed.
+
+<<ava "Thank you… You didn’t have to.">>
+
+<<leo "I wanted to.">>
+
+That was the first time I realized I liked her. Really liked her. What followed was a slow rhythm   study sessions, walks, quiet talks about fantasy novels, warm cups of tea, shared glances that lasted just a little too long.
+
+She let me in carefully, like each small step forward was a gift. Her affection was gentle, deliberate. The first kiss was shy, the second, braver. She melted into me with every week that passed, even as her boundaries held firm. She wanted to wait. To go slow. To make intimacy something meaningful, not rushed.
+
+I respected that. Even when desire grew sharp, even when my body ached for more, I waited because she was worth patience. Because loving Ava meant moving at the pace her heart felt safe and every time she whispered,
+
+<<ava "Not yet…">>
+
+I answered,
+
+<<leo "That’s okay. I’m here.">>
+
+A year in, I understood something simple and true, Ava loved slowly, but deeply and I was falling for her at exactly her pace.
+
+<<set $day = 1>>
+[[Let me tell you more of our story|start_lumira_2]]
+
+
+:: start_lumira_2
+There’s a moment in a relationship when everything shifts quietly no fireworks, no dramatic reveal just a soft realization that this person has woven themselves into your life without trying. With Ava, that moment came somewhere around half year...
+
+We had fallen into an easy rhythm, shared café mornings, small walks between classes, evenings curled up watching movies. She wasn’t loud about her affection, she showed it in tiny gestures. A thumb brushing my palm. Her head leaning onto my shoulder. The way she’d whisper my name when she thought I wasn’t listening.
+
+One autumn afternoon, we sat on a bench near the literature building, leaves scattering around us. She wasn’t reading, she was watching the wind move through the trees. Her voice was barely there when she said,
+
+<<ava "This is my favorite kind of day.">>
+
+<<leo "Why?">>
+
+<<ava "Because everything slows down enough to breathe.">>
+
+That line stayed with me. Ava saw the world softly, and somehow she made me want to see it that way too. Around that time, our closeness deepened. Kissing her became a language slow, warm, shy but full of something growing. 
+
+She’d melt into me one moment, then pause the next, breath trembling, fingers curling at my shirt. Her boundaries were gentle but firm. When things heated too quickly, she’d whisper,
+
+<<ava "Not yet…">>
+
+Though the wanting inside me tightened, I always answered,
+
+<<leo "Whenever you’re ready.">>
+
+Because loving her wasn’t just wanting her body it was wanting her trust and she gave it in all these small, careful ways.
+
+Over time, we built a life together in small rituals. Saturday café visits. Evening walks. Movie nights with her tucked against me, tracing tiny circles on my ribs when she got sleepy.
+
+She wasn’t afraid of me she was afraid of rushing herself. Afraid of stepping over a line she wasn’t ready to approach yet. But she always came back to me, always curled into my arms afterward, trusting me with both her desire and her hesitation.
+
+By One year, I knew I loved her deeply. Not suddenly, but through a thousand quiet moments. The way she bit her lip when she was nervous. The way she looked at me before every kiss, checking that I wanted her too. The way her boundaries weren’t walls they were steps she was building slowly.
+
+I learned patience from her. Not the strained kind, but patience born of love. The kind that makes waiting feel like part of the journey. By the time a year passed, I wasn’t wondering whether she was the right person. I was wondering how I’d gotten so lucky to be the one she trusted.
+
+<<set $day = 1>>
+[[Back to the present|leo_dorm_room_lumira]]
+
+:: day_1_1_lumira
+<<set $day = 1>>
+
+The vibration on my pillow is soft, familiar   the exact pattern Ava uses every morning. I’m barely awake, but I’m already smiling when I pick up.
+
+Before I say anything, I hear her breath. She always exhales first. It’s like she’s gathering courage just to greet me.
+
+<<ava "Um… good morning, Leo…">>
+
+Her voice is warm with sleep, fragile around the edges. I picture her curled up the way she always is   blanket half-pulled over her face, hair a mess, phone clutched in both hands like she’s afraid it’ll slip away.
+
+<<leo "Morning, angel. You sound cozy.">>
+
+A shy sound, almost a hum.
+
+<<ava "A little… I just… wanted to hear you.">>
+
+That does something to me every time   this quiet little truth she drops like it’s nothing.
+
+<<leo "You can wake me every morning if you want.">>
+
+There’s a pause. I can feel her smiling through the line.
+
+<<ava "Okay… I’d like that.">>
+
+The day starts sweeter than the sunlight through my blinds.
+
+<<link "Meet Ava for breakfast">><<goto day_1_2_lumira>><</link>>
+
+
+:: day_1_2_lumira
+She’s already at our spot when I walk in   tiny, tucked into the corner seat with her ribbon tied neatly and her tea cupped between her palms. A calmer picture of my morning than anything else in my life. She looks up, bright in that soft way only she can manage.
+
+<<ava "Good morning… again.">>
+
+I slide into the seat beside her because she always makes room, even when she pretends she isn’t doing it on purpose. Our knees brush. She pretends not to notice. I absolutely notice.
+
+I break the top off my muffin the best part and set it on her napkin. She blinks like I’ve given her a present.
+
+<<ava "You always do that…">>
+
+<<leo "Because you like it. That’s reason enough.">>
+
+Her cheeks warm pink. She takes the piece delicately, like she’s afraid she’ll drop it. The café hums around us   quiet students, the steam hiss of the espresso machine, forks tapping plates. 
+
+Every time someone walks past too close, Ava tenses for a heartbeat, then pretends she didn’t. She sips her tea and watches me over the rim. I catch her. She flinches and looks away.
+
+<<ava "Um… did you… sleep okay?">>
+
+<<leo "Better now.">>
+
+She blushes again. I don’t think she realizes how much she wears her feelings on her face.
+
+<<link "Walk to campus together">><<goto day_1_3_lumira>><</link>>
+
+:: day_1_3_lumira
+Outside, the morning breeze is cool enough to make her drift closer. I don’t have to offer my hand   she slips hers into mine like it’s instinct, like that’s where it belongs. 
+
+Her fingers are small and warm. They tighten every time someone brushes too close on the sidewalk.
+
+<<ava "Your hand is… um… really warm today.">>
+
+<<leo "Yours fits mine. Perfectly.">>
+
+She tries not to react, but her shoulders relax a little.
+
+We stop beneath the big oak near the campus gate   the first place she ever let me kiss her. The leaves cast flickering shapes across her face, and she looks up at me like she’s waiting, like she trusts me to set the pace.
+
+She doesn’t have to ask. I lean in. The kiss starts gentle, just the way she likes it. Then she rises on her toes, meeting me more eagerly than she usually does. Her breath trembles against my mouth. My hand finds her waist, steadying her.
+
+Then it slips. Just a little. Too high. Too quick. My fingers brush the curve of her breast through her shirt. She jolts like I burned her.
+
+<<ava "Ah ">>
+
+She steps back fast, eyes wide, breath shaking. She looks like she did something wrong, not me.
+
+<<ava "I  I’m sorry  I didn’t  I wasn’t thinking  I didn’t mean ">>
+
+Her hands twist together, pulling at her sleeves. She won’t look at me.
+
+<<leo "Ava, hey  slow down. It was just an accident. You didn’t do anything wrong.">>
+
+But she keeps shaking her head, cheeks flushed, panic rising in little waves I can practically feel.
+
+<<ava "I shouldn’t have leaned so close  I made it weird  I’m really sorry ">>
+
+Every apology hits me in the chest. This isn’t what I wanted. I didn’t even <span style="color: green;">mean</span> to touch her like that   not today, not like this. The moment breaks apart between us.
+
+<<link "Head to class together">><<goto day_1_4_lumira>><</link>>
+
+
+:: day_1_4_lumira
+The walk to her lecture hall feels longer than usual. Ava keeps close, but not relaxed-close more like she’s afraid of leaving my side and afraid of staying there at the same time. 
+
+She keeps glancing up at me, checking if I’m upset. I’m not, but I can’t seem to convince her of that. She stops just outside the classroom door, fidgeting with her ribbon.
+
+<<ava "I… um… I’m sorry for earlier. I didn’t mean to ruin our morning.">>
+
+I step closer, trying to catch her eyes.
+
+<<leo "Ava, you didn’t ruin anything. Really. Look at me?">>
+
+She tries   she really does   but her gaze flickers down again, too overwhelmed to hold it.
+
+<<ava "I’ll… I’ll try to be better.">>
+
+The words twist something in my stomach. Before I can tell her she doesn’t need to <span style="color: green;">be</span> anything but herself, she slips into the room, head lowered.
+
+The door closes quietly behind her and I’m left standing in the hallway, wishing I understood how to stop her from apologizing for things she never needs to.
+
+<<link "Check Messages">><<goto day_1_5_lumira>><</link>>
+
+
+:: day_1_5_lumira
+Campus looks normal, but everything inside me feels tilted after the morning. Ava’s last look before class keeps replaying in my head   the rounded shoulders, the forced smile, the way she whispered she’d “be better,” like she owed me something. She never owes me anything.
+
+I keep checking my phone even though I know she won’t text yet. Ava never texts during class, she’s too careful, too rule-following   but habit has me opening my messages every ten minutes anyway. Finally, her name lights up my screen.
+
+<<ava "Um… hi. I… just wanted to say sorry again.">>
+
+My chest tightens.
+
+<<leo "Ava, you don’t have to keep apologizing. I’m not upset." >>
+
+The typing bubble appears… disappears… returns… goes away again. She’s overthinking every word in real time.
+
+<<ava "I made things weird. I didn’t mean to. I hope you’re not... uncomfortable?" >>
+
+Uncomfortable. That’s the last thing I feel. I’m terrified of hurting her, not the other way around.
+
+<<leo "You didn’t make me uncomfortable. You’re okay. I just want you to feel safe with me." >>
+
+Another long wait, then
+
+<<ava "Okay… I’ll try.">>
+
+Those two words hit hard. “I’ll try” is what she says when she’s scared but determined not to disappoint me.
+
+<<link "Meet Ava during classes">><<goto day_1_6_lumira>><</link>>
+
+:: day_1_6_lumira
+
+On the way to my next class, I spot her across the quad   not close enough to talk, but close enough to see she’s moving carefully, like she’s afraid of taking up space. Before I can reach her, Jenna and Natalie intercept her. Jenna waves wildly.
+
+<<jenna "Avaaa! There you are! We’ve been looking for you!" >>
+
+Ava startles. Her smile flickers on thin, watery.
+
+<<ava "Oh  hi… I’m okay, I was just heading to class.">>
+
+Jenna’s grin fades fast.
+
+<<jenna "Why do you sound like someone stole your lunch money?" >>
+
+Natalie steps closer, voice soft.
+
+<<natalie "You’re tense. Is everything alright?" >>
+
+Ava hugs her books tighter.
+
+<<ava "I’m fine. Really. Just… tired." >>
+
+Jenna leans in, suspicious.
+
+<<jenna "Uh-huh. Sure. I don’t buy that for a second." >>
+
+Ava’s shoulders hunch.
+
+<<ava "I have class soon. I should go." >>
+
+Natalie watches her carefully.
+
+<<natalie "If you need us… anything… we’re here." >>
+
+Ava nods once, almost guilty, then slips past them and continues walking. I’m close enough now that Jenna sees me. She crosses her arms.
+
+<<jenna "She’s upset about something. If someone said something to her " >>
+
+Natalie touches her arm gently.
+
+<<natalie "Let it be for now. She’ll talk when she can." >>
+
+I glance after Ava, she’s already halfway down the path, walking quickly, eyes fixed on the ground. She didn’t even see me.
+
+Later, between my own classes, I catch a glimpse of her again. Ava notices me, stops mid-step, and gives a tiny wave   a hopeful, nervous one, like she’s checking if I still want her here.
+
+I wave back immediately. She smiles   the smallest one I’ve ever seen from her   then hurries off as if she’s afraid of bothering me by staying too long. God, I hate that she thinks like that.
+
+<<link "Seek for Ava">><<goto day_1_7_lumira>><</link>>
+
+
+
+
+:: day_1_7_lumira
+
+My last class lets out early, and I spot Dylan and Marcus before I spot Ava. They’re loud   always loud   leaning against the brick wall near the quad, throwing a football lazily back and forth like they’re still in high school. I should’ve walked the other way.
+
+<<dylan "Yo! Leo! Lover boy!">>
+
+I roll my eyes, but they’re already jogging over.
+
+<<marcus "Man, you look drained. What’s wrong? Too much cuddling with your girl?">>
+
+I shove my hands in my pockets. I don’t want this. Not today.
+
+<<leo "Just tired. Chill.">>
+
+Dylan smirks, elbowing Marcus.
+
+<<dylan "Tired from what? Bro, you’ve been dating her a whole decade and you’re still ">>
+
+He drags out the last word with a grin.
+
+<<dylan " *virgin mode activated*." >>
+
+Marcus laughs way too loudly.
+
+<<marcus "Man, if you don’t take your shot soon, someone else will." >>
+
+My jaw tightens.
+
+<<leo "Guys. Drop it." >>
+
+But they never know when to shut up. They’re still laughing when I feel a shift in the air a quietness behind me that doesn’t belong in their noise.
+
+I turn. Ava stands a few feet away. Frozen. Small. Eyes wide like she’s been hit. She must’ve heard everything.
+
+Her fingers tighten around the strap of her bag. Her shoulders fold in. She looks like she’s shrinking into herself, trembling without moving. I step toward her.
+
+<<leo "Ava, hey ">>
+
+She shakes her head quickly, eyes stuck on the ground.
+
+<<ava "I It’s fine. Don’t… don’t worry.">>
+
+Her voice is tiny   thinner than I’ve ever heard it. She won’t even look at me. Dylan finally notices.
+
+<<dylan "Oh oh shit, Ava hey, we were just messing around ">>
+
+Marcus tries to speak too, but she flinches when he opens his mouth. She’s pale. Breathing shallow. Already backing up.
+
+<<ava "I’m… sorry. I didn’t mean to… interrupt." >>
+
+Interrupt. Like she wasn’t even allowed to exist in the space. I move closer, lowering my voice.
+
+<<leo "Ava, you didn’t interrupt anything. They were being idiots.">>
+
+But she’s already folding inward, tugging at her sleeves, apology written all over her face even though she’s the one hurting. She whispers so softly I barely catch it.
+
+<<ava "I… should go.">>
+
+She walks away before I can stop her   small steps, fast, like she’s running from the weight of those jokes crushing her chest. I glare at Dylan and Marcus, who suddenly look less amused.
+
+<<leo "Great job, guys. Seriously." >>
+
+I don’t wait for their excuses. I go after her.
+
+<<link "Meet Ava at her dorm room">><<goto day_1_8_lumira>><</link>>
+
+
+
+:: day_1_8_lumira
+
+I catch up to Ava outside her dorm. She’s standing under the stairwell light, hands twisting together, chest rising too fast like she’s been holding her breath since the quad.
+
+When she sees me, something in her collapses relief and fear tangled together. She steps into me without thinking, pressing her forehead against my chest.
+
+<<ava "I’m sorry… I’m so sorry, Leo…">>
+
+Her voice breaks against my shirt. I wrap my arms around her gently, guiding her inside her room. She clings tighter, like she’s afraid I might disappear if she lets go.
+
+<<leo "Hey… you don’t have to be sorry. They were idiots. None of that was about you.">>
+
+But she shakes her head, fingers curling into the back of my hoodie.
+
+<<ava "They said those things because of me… because I’m slow… because I… can’t ">>
+
+I cup the back of her head before she spirals.
+
+<<leo "Ava. Stop. I don’t want anything you’re not ready for.">>
+
+Her breath hitches. She looks up at me, eyes glossy. Then she rises on her toes and kisses me   hard. Too hard. Desperate. It’s not like her. Ava kisses like she lives, soft, cautious, thoughtful.
+
+But tonight she’s pushing herself. Trying to quiet the hurt. Trying to erase the shame. Trying to prove something she shouldn’t have to prove.
+
+Her hands slide up my chest, clutching at my shirt. Her mouth opens under mine, trembling. I pull back slightly to breathe, to slow her down She leans in again, urgent.
+
+<<ava "Please… just… let me ">>
+
+Her lips move against mine in a way that’s more panic than passion. I hold her shoulders gently.
+
+<<leo "Ava… slow down. You don’t have to force anything.">>
+
+The moment heat even threatens to rise between us, she jerks back like she’s touched a hot stove. Her whole body trembles.
+
+<<ava "I I can’t  I’m sorry  I’m sorry  I’m so, so sorry ">>
+
+She curls in on herself, arms wrapped tight around her ribcage. It hurts to watch   like she’s punishing herself for something she never owed me.
+
+I sit with her on the edge of her bed. She leans against my shoulder, fragile and silent except for the occasional shaky breath.
+
+For a long time, neither of us speaks. The tension sits between us   thick, heavy, unspoken   as if one wrong word might shatter her. Eventually she whispers,
+
+<<ava "I didn't mean to ruin everything today…">>
+
+I rest my hand over hers.
+
+<<leo "You didn’t ruin anything. Not today. Not ever.">>
+
+She nods, but I can tell she doesn’t believe it. Not yet. We lie down together, fully dressed, her head tucked under my chin, her breath still uneven.
+
+She clings to me like she’s holding on for dear life. I hold her back, wishing I knew how to pull the guilt out of her chest with my hands.
+
+The room stays dim and quiet. No kissing. No heat. Just two heartbeats pressed too close, and the distance somehow still growing.
+
+<<link "Go to Dorm Room">><<goto leo_dorm_room_night_lumira>><</link>>
+
+
+
+:: day_2_1_lumira
+
+My phone rings before the sun’s even fully up. Ava never calls this early unless something’s wrong. I answer immediately.
+
+<<leo "Ava? Hey  you okay?">>
+
+There’s a shaky inhale on the other end.
+
+<<ava "C-Can you… come over? Please?" >>
+
+Her voice cracks halfway through the sentence. I’m already pulling on my hoodie.
+
+<<leo "I’m on my way.">>
+
+She doesn’t speak again, but I can hear the faint tremble in her breathing until the call disconnects. 
+
+[[Go to Ava’s Dorm Room|day_2_2_lumira]]
+
+:: day_2_2_lumira
+
+Her dorm door opens before I can knock. Ava stands there wrapped in her blanket, hair messy, eyes swollen from crying she probably tried to hide. She steps back wordlessly, letting me in.
+
+The moment the door clicks shut, she folds into me   no hesitation, no soft approach like usual. Just a quiet collapse into my chest.
+
+<<ava "I’m sorry… about last night… about everything…">>
+
+She clings like she’s afraid to let go. I hold her gently, rubbing small circles on her back until her breathing evens out.
+
+<<leo "You don’t need to apologize. Not for anything." >>
+
+She shakes her head against me.
+
+<<ava "I keep ruining things… you shouldn’t have to deal with me being like this…">>
+
+God, it hurts hearing her talk about herself this way.
+
+<<leo "Ava, stop. You’re not ruining anything. I’m here because I want to be." >>
+
+She nods, but it’s the kind of nod people do when they don’t believe the words yet.When we leave for breakfast, she stays glued to my side.  
+
+[[Go to Breakfast|day_2_3_lumira]]
+
+:: day_2_3_lumira
+
+At the café, she does something she’s never done before   she slides into the booth nearly on top of me, thigh pressed tightly against mine, shoulder leaned into my chest.
+
+She acts like she doesn’t notice how close she is. But her eyes keep flickering to my face, reading every tiny reaction. I tear off the top of her muffin like always. She tries to smile, but it looks stretched, worried.
+
+<<ava "Thank you…">>
+
+She lifts her tea with both hands, sipping without letting go of me. Her knee nudges mine. She scoots closer. It’s subtle, but desperate like she thinks closeness will erase everything that hurt her yesterday.
+
+<<leo "You can relax, you know. I’m not upset." >>
+
+She stares at the table, fingers fidgeting with the sleeve of my hoodie.
+
+<<ava "I just… I want today to be better. For you.">>
+
+That hits me wrong   too heavy, too self-punishing.
+
+<<leo "Ava, I don’t need you to fix anything." >>
+
+She swallows hard. I can see tears gathering, the kind she won’t let fall in public.
+
+<<ava "But I want to. I want to try harder.">>
+
+She leans her head against my shoulder   not the shy, gentle kind she usually gives me, but something anxious, searching. She keeps touching me in little ways, brushing her fingers along my arm, straightening my sleeve, resting her hand on my thigh for a second before pulling it back like she’s afraid she crossed a line.
+
+She’s trying too hard. Trying to make up for something I never expected from her in the first place. I want to tell her she doesn’t have to do any of this. But she looks up at me with those soft, guilty eyes and whispers,
+
+<<ava "Please don’t be unhappy with me today…">>
+
+It breaks something in me. I put my arm around her shoulders and pull her closer, kissing the top of her head.
+
+<<leo "Ava, I’m not unhappy with you. I never am." >>
+
+She nods again   but the fear doesn’t quite leave her posture. Breakfast ends with her practically tucked under my arm, clinging like letting go might make the entire day fall apart.
+
+<<link "Go to Classess">><<goto leo_class_lumira>><</link>>
+
+
+
+:: day_2_4_lumira
+
+After lunch, Ava walks beside me with that same quiet tension wrapped around her shoulders. She doesn’t speak much   just small nods, tiny glances up at me, her hand brushing mine like she’s debating whether she’s allowed to hold it.
+
+When we reach the campus fork, she stops. Her fingers tug nervously at her ribbon. Her voice trembles before the words even form.
+
+<<ava "Um… could I… come to your dorm? Just us?">>
+
+My chest tightens. Something about her tone isn’t excitement   it’s fear mixed with determination.
+
+<<leo "Yeah, of course. We can just relax ">>
+
+<<ava "No  I… I wanted to… do something. For you.">>
+
+Her eyes dart down. Her cheeks burn and that guilt that hasn’t left her since yesterday rises again like a shadow behind her. I reach for her hand.
+
+<<leo "Ava, you don’t have to ">>
+
+She pulls her fingers away gently, shaking her head.
+
+<<ava "I want to. I want to make you happy." >>
+
+The way she says it isn’t desire. It’s obligation. It hits me wrong, but she’s already stepping closer, already fighting some internal battle I can’t interrupt.
+
+[[Go to Dorm Room|day_2_5_lumira]]
+
+:: day_2_5_lumira
+
+My dorm is quiet when we enter. She closes the door behind us as if sealing herself into a decision she can’t back out of.
+
+She stands still for a moment, breathing unsteadily. Then she turns to me with a fragile little smile that doesn’t reach her eyes.
+
+<<ava "C-Can you… sit down?">>
+
+I sit on the edge of the bed. She takes a step closer. Then another. Her hands tremble as she reaches the hem of her sweater, gripping it so tightly the fabric strains. I shake my head softly.
+
+<<leo "Ava, you don’t need to do anything you don’t want ">>
+
+She cuts me off in a whisper.
+
+<<ava "I want to try. Please… let me try.">>
+
+She lifts the sweater just a little   not fully, just enough that the loose neckline dips. Enough that a soft curve shows at the edge of her bra. Enough that the slightest movement reveals a shy, trembling peek of her nipple. Her voice cracks.
+
+<<ava "Y-You can… look. If you want to.">>
+
+My heart twists. She’s blushing so hard she can’t meet my eyes. She’s doing this for me not because she’s ready, but because she thinks she has to compensate for yesterday.
+
+She steps between my knees and takes my hand in both of hers. Her palms are freezing.
+
+<<ava "I know you… want more. And I keep messing up. I just… want to make you feel good. Once." >>
+
+Before I can tell her she’s wrong, she kneels. Her fingers fumble with my zipper. She’s shaking so much she misses twice before getting it. I swallow, guilt already coiling in my gut.
+
+<<leo "Ava… we can stop. You don’t have to ">>
+
+<<ava "I-I’m okay. I promise. I want to.">>
+
+Her eyes flick open for half a second, widen, then shut again fast like she wasn’t prepared for what she saw. But her voice is too small to be a promise. She pulls my penis out carefully, eyes squeezing shut as if afraid of looking directly. Her hand wraps around my penis, timid and awkward and terrified.
+
+<<ava "Oh  um… oh." >>
+
+She bites her lip, cheeks burning, fingers frozen around the base like she’s afraid she’s holding it wrong. It is first time Ava seeing me penis. I can see her awkwardly look. She is handling it very unfamiliar way. 
+
+<<ava "I… I didn’t think it would look like this.">>
+
+She retreats her gaze immediately, like she’s embarrassed by her own curiosity.
+
+<<ava "It feels large in my hand. It is bigger than I thought...">>
+
+Her grip shifts awkwardly, unsure where to hold, how tight, how gentle. The first stroke is barely pressure at all. The second is shaky, uneven. She’s breathing fast   not arousal, but panic.
+
+<<ava "It’s… um… warmer">>
+
+Her fingers test the warmth like she’s unsure if she’s allowed to touch at all. She swallows hard. Her voice shakes like she’s reporting data she doesn’t know how to interpret.
+
+<<ava "Am I… doing it right?">>
+
+<<leo "Ava, you don’t need to ">>
+
+<<ava "Please  just… let me.">>
+
+Her hand keeps moving, guided more by obligation than instinct. I want to stop her. I should stop her. But she looks so desperate to prove something to fix something that was never broken that I freeze.
+
+The guilt smothers me even as pleasure coils tightly, too fast, too wrong. Her eyes stay closed the whole time. She never looks at me.
+
+I finish   quickly, helplessly   more from shock than release, feeling sick with how wrong it feels. Ava gasps softly when warmth hits her fingers.  
+
+She pulls her hand back like she’s been burned, staring at her palm in trembling disbelief before wiping it hastily with a tissue from my desk. She won’t meet my eyes.
+
+<<ava "I… I hope that… made you happy." >>
+
+Her smile is paper-thin. Her fingers still shake. She stands abruptly, hugging herself like she’s cold.
+
+<<leo "Ava  wait  we should talk ">>
+
+She shakes her head, already stepping toward the door.
+
+<<ava "I-I need to go. I forgot  I have something to do. I’m sorry  I’m so sorry ">>
+
+Before I can stand up, before I can say anything, she’s already slipping out the door, closing it softly behind her. The room feels too quiet without her and the guilt sits in my chest like a stone.
+
+<<link "Answer Call">><<goto day_2_6_lumira>><</link>>
+
+
+:: day_2_6_lumira
+
+My phone buzzes just as I’m trying to clear my head. Ava’s name appears on the screen. I hesitate before answering not because I don’t want to talk, but because I’m scared of what she’s feeling right now. Her voice is tiny when I pick up.
+
+<<ava "H-Hi… um… I… I’m sorry.">>
+
+She swallows audibly.
+
+<<ava "I left your room so fast. I didn’t say anything. I didn’t even… look at you. I’m really, really sorry.">>
+
+I close my eyes, guilt pressing down again.
+
+<<leo "Ava, you don’t need to apologize. I just want to make sure you’re okay.">>
+
+There’s a trembling little breath on the other end.
+
+<<ava "I’m… I’m okay. I think. Or I’m trying to be. I didn’t mean to run out like that. I just… felt weird. And embarrassed. And wrong.">>
+
+My chest tightens.
+
+<<leo "You didn’t do anything wrong." >>
+
+But she goes quiet   quiet in that way where she clearly doesn’t believe me. After a moment, she speaks again, softer.
+
+<<ava "Can we… maybe… do something normal today? Like go out? I don’t want things to… stay heavy.">>
+
+I lean back on my bed, heart aching.
+
+<<leo "Yeah. Of course. What do you want to do?">>
+
+Another shaky inhale.
+
+<<ava "Maybe… the mall? A movie? I think I need to be somewhere… not emotional." >>
+
+I hear the vulnerability under her forced calm.
+
+<<leo "Okay. I’ll meet you there." >>
+
+Her tone lifts just a little   the smallest spark of relief.
+
+<<ava "O-Okay. I’ll… get ready now. I’ll try to look cute.">>
+
+The call ends before I can tell her she already always looks cute. I stare at the screen for a moment, wishing I knew how to fix this   wishing she didn’t think she had to.
+
+<<link "Meet Ava at the mall">><<goto day_2_7_lumira>><</link>>
+
+
+
+
+:: day_2_7_lumira
+
+Ava shows up outside the mall looking brighter than I’ve ever seen her too bright. Her smile is stretched tight at the edges, her eyes darting like she’s terrified I’ll notice the cracks.
+
+<<ava "Hi! I’m really excited  um  I’ve been wanting to go to the movies with you all week.">>
+
+Her voice is too bubbly, too quick. She’s trying to bury the entire afternoon under a layer of cheerfulness. I squeeze her hand gently.
+
+<<leo "It’s good to see you." >>
+
+She nods immediately, relief washing over her like she expected me to be disappointed.
+
+Inside the mall, she keeps up the act   laughing at things that aren’t funny, leaning into me randomly, talking too loudly. She buys us a smoothie and insists I taste it first, giggling when I do.
+
+It’s all an overcorrection. I feel the tension under her skin with every touch. But she’s trying. God, she’s trying so hard to seem “normal.”
+
+When we line up at the cinema hallway, that’s when everything shatters. A couple is tucked into the narrow alcove beside the bathrooms. They’re not being subtle   muffled breaths, soft moans, the rhythmic sound of someone pressed against tile.
+
+Ava hears it first. She freezes mid-step. Her hand tightens painfully around mine. Her face floods with panic. Her breathing turns sharp, shallow.
+
+<<ava "I  I can’t ">>
+
+She’s trembling before I even pull her away from the noise. Her eyes dart everywhere, like she’s trapped. I brush her hair back from her face.
+
+<<leo "Ava, it’s just some idiots messing around. You’re okay. You’re with me." >>
+
+She nods mechanically, but the tremor stays. Inside the dark theater, she sits pressed to my side, thigh glued to mine, her hand gripping my sleeve like a lifeline. Every time the speakers boom, she flinches.
+
+Halfway through the movie, she shifts slightly. Her fingers slide onto my thigh   hesitant, cautious. Trying again. Trying to make up for the panic. Trying to be someone she thinks I want.
+
+Her hand moves closer to my crotch, timid and trembling. My heart tightens. She’s not doing this because she wants to. She’s doing it because she thinks she’s supposed to.
+
+But in the dim light, in her closeness, in the warmth of her hand, my instinct misfires   I think she’s giving permission. I place my hand lightly over hers, guiding her down.
+
+Just a few centimeters. Just enough to understand the suggestion. She goes rigid. Every muscle locks at once.
+
+<<ava "Leo ">>  
+
+Her voice is barely a breath. Then,  
+
+<<ava "Leo… no. I can’t." >>
+
+It’s not hesitation. It’s terror. I pull back immediately.
+
+<<leo "Ava, hey  it’s okay. We don’t have to ">>
+
+But tears are already gathering. She tries to blink them away in the dark, fails, and scrubs her cheek quickly with her sleeve, pretending the movie made her emotional.
+
+She doesn’t touch me again. The rest of the film plays in a silence heavier than the theater around us.  
+
+She keeps her hands folded in her lap, unmoving, staring forward with empty eyes that don’t follow the screen. When the credits roll, she stands quickly.
+
+<<ava "I… I’m sorry. I ruined the night… again." >>
+
+Her voice is so small I barely hear it. I shake my head, reaching for her hand   but she withdraws it gently, holding her arm against her stomach like she’s protecting herself from her own shame.
+
+We walk out of the theater without speaking. Her eyes never leave the floor. Every step feels like a widening distance neither of us knows how to close.
+
+<<link "Walk to Dorm">><<goto day_2_8_lumira>><</link>>
+
+
+
+:: day_2_8_lumira
+
+The walk back to campus is silent. Not the comfortable silence Ava and I usually fall into the soft, warm kind where her hand finds mine and everything feels easy.  
+
+This silence is tight. Brittle. Like one wrong word might make her break again. She walks half a step behind me, shoulders curled inward, her gaze glued to the ground. 
+
+Every few seconds she breathes in like she wants to speak then exhales and says nothing. When we reach her dorm, she finally whispers,
+
+<<ava "I’m… really sorry, Leo…">>
+
+Her voice is thin, swallowed by the night air. She’s hugging her own arms like she’s keeping herself from falling apart. I turn to her.
+
+<<leo "Ava, you don’t have to apologize. Not for tonight. Not for anything." >>
+
+But she shakes her head immediately, eyes shining in the dim hallway light.
+
+<<ava "But I keep… messing everything up. And you’re so patient and I’m just ">>
+
+I step closer, gently touching her arm.
+
+<<leo "Ava, listen to me. I don’t want you pushing yourself like this. I don’t want you hurting because you think you owe me something." >>
+
+She bites her lip hard   too hard   and nods once, though her expression says she doesn’t believe a word of what I’m saying. She unlocks her door quietly and steps inside. I follow, closing it behind us.
+
+Inside her room, she sits on the edge of the bed, her knees drawn up, fingers twisting the hem of her sweater. She looks so small. So breakable.
+
+<<ava "I wanted tonight to be good for you… and I ruined it. Again." >>
+
+I kneel in front of her, trying to meet her eyes.
+
+<<leo "Ava. You didn’t ruin anything. I swear." >>
+
+Her breath trembles. She wipes at her face even though she isn’t crying   defensive, automatic.
+
+<<ava "I just… don’t know why I can’t be normal." >>
+
+The words hit like a punch to my ribs.
+
+<<leo "Ava, you are normal. And you don’t have to rush anything for me. If something scares you, I want to stop. I want you to feel safe first. Always." >>
+
+She closes her eyes, leaning forward until her forehead rests against my shoulder. Her arms slide around me slowly, weakly, as if she’s afraid I won’t want the hug.
+
+I hold her carefully. Her whole body feels like it’s trembling from the weight of too many apologies. Eventually she crawls back onto the bed, pulling me with her. We lie on top of the covers, fully dressed, facing each other in the dark.
+
+She inches closer, tucking herself beneath my chin the way she always does   but the tension never leaves her muscles. I brush her hair from her face.
+
+<<leo "Get some rest, okay?" >>
+
+She nods against my chest, whispering one last fragile line,
+
+<<ava "Please don’t be upset with me…" >>
+
+It breaks me every time. I kiss the top of her head.
+
+<<leo "I’m not upset. I promise." >>
+
+But the truth is heavier than those words, I’m not upset with her I’m upset at myself, at the way I keep misreading her fear as readiness.
+
+I hold her until her breathing evens out. She clings to me the whole time, even in sleep. I went outside after she fell sleep..
+
+<<link "Go to Dorm">><<goto leo_dorm_room_night_lumira>><</link>>
+
+
+
+:: day_2_9_lumira
+
+<span style="color: green; font-size: 30px;">Deaming.....</span>
+
+The dream forms around me like warm fog soft, glowing, unreal. Ava is already kneeling between my legs. But she isn’t trembling like earlier. Her hands move with a slow, practiced rhythm… confident in a way that makes my breath catch. Her fingers glide along my shaft, perfect pressure, perfect pace. Too perfect.
+
+Her fingers glide over my shaft like she’s memorized my body. No shaking. No hesitation. Just warmth. Just pleasure.
+
+The air around us glows softly, like the room is breathing with us. My guilt from earlier feels miles away, fading under the unreal heat of her touch. I want to tell her she doesn’t have to But Ava lifts her head, and her eyes are heavy, dreamy, full of something intoxicating.
+
+<<leo "A-Ava… you’re…">>
+
+She looks up with heavy-lidded eyes, her lips parted in a slow, dreamy smile.
+
+<<ava "Does it feel good…?">>
+
+Her voice is soft velvet, warm enough to melt guilt right out of my chest.
+
+<<leo "Yeah… it feels incredible.">>
+
+She blushes softly, almost glowing and leans in closer. Her breath ghosts over my skin.
+
+<<ava "Good. I want you to feel good. I want to make you…" >>  
+
+Her thumb circles the tip, making my hips jolt.
+
+<<ava "...really, really happy.">>
+
+Her smile deepens as she watches my reaction. The room pulses. Colors smear. Nothing feels real except her hands and her voice.
+
+<<leo "Ava… how are you so ">>
+
+<<ava "Because it’s a dream, Leo." >>  
+
+Her tone becomes a whisper, intimate, coaxing.  
+
+<<ava "Here… I can be anything you want. Do anything you ask." >>
+
+She strokes harder smooth, rhythmic, deliberate. My breathing grows shaky. She leans her cheek against my thigh, eyes half-closed, looking up at me like she’s waiting for a command.
+
+<<ava "Do you want more?" >>
+
+The words hum through me inviting, promising.
+
+<<leo "I… yeah. I think so." >>
+
+She tilts her head, teasing a smile.
+
+<<ava "More how, Leo?" >>
+
+Her thumb drags slowly down my length, deliberate enough to send heat through my spine.
+
+<<ava "Do you want my mouth…?" >>  
+
+Her lips hover just an inch away.  
+
+<<ava "Or do you want to see me… more exposed for you?" >>
+
+The dream holds its breath.
+
+<<link "Ask for a blowjob">><<goto Dream_Blowjob>><</link>> | <<link "Ask her to show her tits">><<goto Dream_Tits>><</link>>
+
+
+:: Dream_Blowjob
+Ava’s breath warms the tip of my cock, her fingers still wrapped around the base. But now her eyes lift soft, glowing, unreal and her lips part in a way she has never done in real life.
+
+<<ava "If you want my mouth… then I’ll give it to you.">>
+
+Dream-Ava doesn’t hesitate. She leans in slowly, almost reverently, and lets her lips close around me.
+
+The first touch sends a shock through me hot, silky, impossibly smooth. Her tongue slides along the underside, gentle at first, then deeper, more deliberate.  She takes me into her mouth inch by inch, eyes fluttering shut, her breath humming around me. I gasp.
+
+<<leo "A-Ava… oh my god…">>
+
+She moans softly at the sound of my voice vibrations traveling straight through me. Her hands settle on my thighs, steady, confident, guiding herself lower until her nose brushes my pelvis. She swallows. The warmth pulls a helpless groan from my chest.
+
+<<ava "Mmh… you taste warm…">>
+
+She says it against my skin, lips still wrapped around the head, the words muffled but intimate. The rhythm builds slow, dreamy, hypnotic.  
+
+Her mouth moves with a purpose so unlike her real-life self that the pleasure feels unreal, too perfect to exist anywhere outside a dream.
+
+Her hair brushes my stomach. Her tongue curls around me. Her lips glide like velvet. I grip the sheets, pulse hammering.
+
+<<leo "Ava… I’m close ">>
+
+Her eyes open just enough to meet mine and she takes me deeper. Heat explodes up my spine as I finish hard, fast, too intense. Her throat contracts around me. She took every drop into her mouth. Every. Single. Drop.
+
+She pulls back slowly, licking her lips, breathing softly through her nose. A thin strand of saliva clings to her tongue before she wipes it delicately with her finger. Then she crawls up my body, straddling me, face inches from mine.
+
+Her lips press against mine suddenly warm, soft, insistent. She parts my mouth with hers she push load of my cum into my mouth, and I taste it, My own cum. Mixed with her breath. Sweetened by the dream.
+
+She feeds it to me tenderly, like sharing something intimate and forbidden. When she pulls back, her smile is too soft, too calm. Something underneath it quivers sadness, guilt, relief.
+
+<<ava "Leo… was it tasty ?">>
+
+Her voice drops to a whisper.
+
+<<ava "I don’t like doing that. Not really. Not when I’m awake.">>
+
+A cold shiver threads through the warm air.
+
+<<ava "I don’t like giving blowjobs. I don’t like… touching a penis. Any penis." >>
+
+She trails a finger down my chest, gentle, apologetic.
+
+<<ava "I’m not into sex with men. I just… can’t feel desire that way.">>
+
+Her face leans close again, her breath soft against my lips.
+
+<<ava "I only did it here because you wanted it. Because dreams don’t hurt the same way waking life does." >>
+
+The dream wavers. Her voice lowers. A shadow enters her expression something heavy, something unspoken.
+
+<<ava "But maybe… maybe it feels wrong because… I’m not supposed to want this with a man.">>
+
+The air ripples like heat on pavement. Something changes in her tone deeper, smoother, resonant.
+
+<<ava "Maybe I’m not supposed to be a woman doing this at all.">>
+
+Her pupils dilate. Her breath grows deeper. Her silhouette trembles, edges blurring. Dream logic thickens around us, warm and sweet and terrifying. The shift begins.
+
+<<link "Ava begins to change">><<goto Dream_Transform>><</link>>
+
+
+
+
+
+:: Dream_Transform
+The air trembles. Ava’s breath hits my cheek warm at first… then heavier. Deeper. Wrong and right at the same time. She blinks slowly, and her voice spills out again lower than before, resonant enough to vibrate in my chest.
+
+<<ava "Leo…See I am changing" >>
+
+The sound of my name stretches into something richer, almost masculine. Her body tightens. She sits back, one hand pressing to her chest.
+
+Her breasts rise, pause then begin to pull inward, shrinking slowly beneath her palms. Soft curves flatten. Her shirt hangs looser across a chest that broadens subtly beneath it. Her breath hitches not in fear, but in relief.
+
+<<ava "It’s… changing…" >>
+
+Her waist narrows. Her hips draw inward, bone shifting in a slow, inevitable roll beneath the surface. Her thighs reshape, losing their gentle curves, taking on something firmer.
+
+The dream haze thickens around her lower body. A pressure forms between her legs  a shadow first, then a swelling fullness that pushes outward against her shorts.
+
+She gasps a deep, new sound as the bulge grows heavier, larger, pulsing with her heartbeat.
+
+Her hair shortens in slow waves, strands retracting, curls reshaping into a sharp, tousled cut that frames a face becoming more angular. Sharper jaw. Stronger brow. Eyes glowing with something unmistakably masculine.
+
+Ava’s voice breaks into a new register entirely.
+
+<<avan "…yes." >>
+
+The final shiver rolls through her body, and Ava becomes male, confident, powerful in a way the dream welcomes without question.
+
+I stare  breathless but then the warmth shifts inside me. A glow pulses in my chest soft, rising warmth that spreads across my skin like someone tracing deliberate fingers down my body.
+
+My nipples tighten, swell, push outward. Breasts form beneath my shirt small at first, then fuller, sensitive, perfect.
+
+My waist pulls inward. My hips widen, thighs softening and rounding beneath me. My breath catches in a high, trembling sigh.
+
+<<leo "W-what… what’s happening to me…">>
+
+My penis twitches softens melts like heat drawing wax inward. Pleasure surges through me as the last of it disappears, replaced by a deep, liquid warmth between my legs a new softness, a new opening a pussy forming where I never had one.
+
+My hair lengthens in a shimmer of dream-light, falling past my shoulders in warm waves. My voice slips free higher, breathy.
+
+<<leona "A… Ava…">>
+
+He looks at me with dark, hungry eyes, drinking in every new curve of my body. The dream logic hums around us sweet, thick, erotic making the transformation feel inevitable, natural, wanted. Ava reaches out, brushing his thumb over my cheek.
+
+<<avan "Leo… You are becoming female" >>  
+
+He smiles slow, full of desire.  
+
+<<avan "You’re beautiful like this." >>
+
+The world steadies into something new and intoxicating. I am no longer Leo. I am female.
+
+<<link "Ava's Desire">><<goto Dream_Avan_Desire>><</link>>
+
+
+
+:: Dream_Avan_Desire
+Ava/Avan exhales slowly, the sound deep and warm, vibrating through the dream-space. He shifts backward onto the bed, moving with a confidence Ava never had broad shoulders relaxing, hips settling, legs spreading open in a slow, deliberate invitation.
+
+Between his thighs, his erection stands fully, thick and pulsing, framed by the faint glow of the dream’s haze. He watches me no, he drinks me in, eyes dark, hungry, mesmerized by every new curve of my transformed body.
+
+<<avan "Leona… come here.">>
+
+The way he says my name as leona makes my breath break. It curls inside me, hot and undeniable, pulling me forward like a hand against my spine. I swallow, feeling my new thighs press together, the warm wetness between them making my knees weak.
+
+<<leona "A-Avan…" >>
+
+He leans back against the pillows, lifting his chin slightly, legs spreading wider to show every inch of his hardness.
+
+<<avan "This is what I like." >>
+
+His voice is a low, resonant promise. He strokes himself once, slowly, as if showing me what waits for me.
+
+<<avan "This is what I want." >>
+
+His gaze sweeps down my body the breasts rising with my shaky breaths, the soft curve of my hips, the way my legs tremble with new sensitivity. Then his eyes meet mine again.
+
+<<avan "I want *you*… as a girl." >>
+
+Heat floods my face. My body reacts before my mind does a soft, instinctive pull downward, my knees bending, my hands touching the floor.
+
+I kneel. It feels natural. It feels inevitable. It feels like the dream was always leading me here.
+
+Ava watches me with a slow, satisfied smile as I settle between his spread legs. My breath catches at the sight of him thick and dripping for me, for Leo/leona. He brushes my cheek with the back of his fingers.
+
+<<avan "Good girl." >>
+
+A shiver runs through me, deep and molten. The dream thickens around us warm, fog-sweet, charged with something electric. I lean closer, lips parting, breath unsteady. Ready. Waiting. Wanting.
+
+<<link "Ava’s Confession">><<goto Dream_Leona_Blowjob>><</link>>
+
+
+
+:: Dream_Leona_Blowjob
+Avan’s cock throbs inches from my lips, the heat of it pulling me forward like gravity. His hand rests on my cheek warm, steady and when his thumb strokes my skin, something inside me melts completely.
+
+I lean in. Slow at first. Testing this new body, this new instinct. My lips brush the tip, soft enough to make him groan.
+
+<<avan "Leona…" >>
+
+The way he says my name sends a shiver straight through my core. My pussy clenches wet, needy like this is something I was made to do. I take his penis into my mouth.
+
+His taste is sharp and warm. His breath catches. His fingers slide gently into my hair, not forcing, just guiding, holding me like something precious.
+
+I sink deeper into his shaft. My lips stretch around his penis. My tongue glides along the underside, tracing every throbbing line. He moans deep, grateful, almost broken.
+
+<<avan "God… Leona… that feels so good…">>
+
+I take him further, my throat relaxing in a way that feels natural even though I’ve never done this before. Dream logic moves my body like instinct, Down. Up. Swirl. Suck. Repeat.
+
+Avan’s hips twitch, his abs clenching. His voice drops in a trembling growl.
+
+<<avan "Leona… Leona keep going please ">>
+
+His hand tightens in my hair, not rough, but desperate. My own thighs press together, heat pulsing through me with every sound he makes.
+
+I take him all the way. His tip hits the back of my throat. He shudders violently.
+
+<<avan "I-I'm gonna Leona ">>
+
+I hold him deep. His orgasm hits in a hot, flooding rush. He spills into my mouth. Warmth fills me and I swallow instinctively, obediently, hungrily.
+
+My head lifts slowly, lips wet, breath unsteady. Avan cups my face with both hands, eyes soft and shining in the dreamlight.
+
+<<avan "I love you like this." >>
+
+His forehead rests against mine.
+
+<<avan "I love you as Leona… not as Leo." >>
+
+The words ripple through the dream, turning the world white at the edges.
+
+<<avan "Stay like this for me…" >>
+
+The room dissolves. His voice lingers, echoing in the blank light.
+
+<<avan "Stay, Leona…" >>
+
+Everything fades.
+
+<<link "Dream Fades">><<goto leo_dorm_room_lumira>><</link>>
+
+
+:: day_3_1_lumira
+
+I wake with a gasp. Not a scream. Not a shout. Just a sharp inhale that drags the cold morning air into my lungs like I’ve been drowning in something warm.
+
+My sheets are tangled around my legs. My skin is hot. My heart is hammering against my ribs. For a moment I don’t know where I am.
+
+The dream clings to me like humidity Avan’s voice in my ear, his hands in my hair, the heat of his thighs against my cheeks,  the taste still ghosting on my tongue.
+
+Leona. The name echoes in my skull. *My* name, in the dream. I press a palm to my forehead, trying to steady my breathing. Something inside me tightens confusion, embarrassment, something else I can’t name.
+
+My body is still thrumming with leftover pleasure. The kind that leaves a faint ache low in my stomach. The kind that makes my thighs tense involuntarily. I swallow hard.
+
+<<leo "What the hell was that…">>
+
+My voice cracks. I rub my face, trying to chase away the images, but they only sharpen, Ava shrinking into Avan strong, sure, wanting me.
+
+Me changing too  hips widening, chest rising, heat flooding between my legs. The way I knelt. The way I wanted to kneel.
+
+The way he said, “I love you as Leona… not as Leo.”
+
+I exhale shakily. That part hits deeper than the sex. Somewhere soft. Somewhere I don’t know how to look at yet. My chest tightens again something like guilt, something like longing. I shift under the sheets. I’m hard again. Embarrassingly hard, considering what the dream was.
+
+<<leo "Jesus… get it together…">>
+
+But the more I try to shake it off, the more the details pull back, Ava’s lips feeding me my own cum. Ava saying she doesn’t like men Ava touching me tenderly only after I became Leona Ava begging me to stay like that.
+
+None of it was real. But the emotional weight feels devastatingly real. I sit up slowly, rubbing the back of my neck.
+
+My phone buzzes on the nightstand a soft, nervous notification from Ava. The real Ava. Not the dream one. Not Avan. Not the one begging for Leona.
+
+I stare at the screen, heart still pounding. I’m not ready to answer. I’m not sure what part of me is waking up right now.
+
+The part that loves Ava or the part that is still kneeling in front of Avan. The dream fades in pieces, but one line keeps circling back, refusing to let go, “I want you as a girl.”
+
+I drag in a slow breath and force myself out of bed. Today… something is going to break open. In her. In me. Maybe in both of us.
+
+<<link "Answer the call">><<goto day_3_2_lumira>><</link>>
+
+
+
+:: day_3_2_lumira
+
+My phone buzzes again. I glance at the screen. Ava. The real Ava. Not the dream one whispering for Leona… not Avan… not any of that blurred, erotic nonsense still stuck in my bloodstream. I clear my throat and answer.
+
+<<leo "Hey Ava?">>
+
+There’s a soft inhale on the other end.
+
+<<ava "G-Good morning… I um… I’m sorry to call so early.">>
+
+Her voice is timid, shaky, like she’s been rehearsing this since sunrise.
+
+<<ava "I… didn’t sleep much. I think I just… wanted to hear you.">>
+
+A pang hits my chest but the dream tries to rise again, sticky and vivid. Avan’s voice. Leona’s voice. My voice. I force a deep breath, push it all down. Now isn’t the time.
+
+<<leo "It’s okay. Really. Did you need something?">>
+
+She hesitates.
+
+<<ava "C-Could you… come to the café? If you’re free?">>  
+
+<<ava "I just… want to see you.">>
+
+Her voice is small, hopeful in a way that twists something in me. The dream pushes back again white light, a male body above me, a new voice inside my throat but I shove it away, burying it hard. Not real. Not important. Not now.
+
+<<leo "Yeah. I’ll head over.">>
+
+Her breath catches relief, warmth, all the things Ava feels too intensely.
+
+<<ava "Okay… I’ll be waiting.">>
+
+The call ends. Silence fills the room for a beat, thick enough that I feel the dream twitch inside me again. I push it down a second time. I stand, grab my jacket, run a hand through my hair.
+
+<<leo "It was just a dream. Leave it.">>
+
+I leave my dorm before the images can drag me back under. Toward the café. Toward Ava. Toward reality whatever version of it is still solid.
+
+<<link "Go to the café">><<goto day_3_3_lumira>><</link>>
+
+
+
+
+
+
+:: Dream_Tits
+
+Ava’s eyes flicker downward, cheeks flushing a soft rose. She hesitates just a breath then nods slowly, shyly, dreamlike.
+
+<<ava "O-Okay… if you want to see…">>
+
+She slips her fingers under the hem of her shirt. Her hands tremble not with fear this time, but with a fragile uncertainty as she lifts the fabric up her torso.
+
+Her breasts come into view inch by inch soft, pale, perfect in the warm haze of the dream. Her nipples stiffen from the cool air or maybe from my gaze. She bites her lower lip, glancing up at me through her lashes.
+
+<<ava "…Don’t stare too hard…">>
+
+<<leo "You’re beautiful." >>
+
+Her blush deepens, glowing warm across her cheeks.
+
+<<ava "Y-You can… touch. A little.">>
+
+I reach out gently. My thumb brushes the curve of her left breast. She gasps high, startled her body tensing under the contact.
+
+<<ava "Ah !">>
+
+Her breath shakes. Her nipples tighten in the center of my palm, but her expression flickers something conflicted beneath the arousal. She swallows, then gently takes my wrist and guides my hand down.
+
+<<ava "I… I don’t think I like that. Not when it’s… a man touching me." >>
+
+Her voice is tiny, apologetic. Before I can ask what she means, she sits back between my legs.
+
+<<ava "Let me… just use my hand again.">>
+
+Her fingers wrap around my cock timid, soft, trembling slightly. She strokes slowly at first, then faster, trying to mimic confidence she doesn’t have. Her free hand presses to her cheek, still blushing as her breasts rise and fall with her uneven breaths.
+
+<<ava "I want to make you feel good, Leo… even if I’m clumsy…">>
+
+She squeezes a little harder, I gasp and her eyes widen in surprise.
+
+<<ava "D-Did that help?">>
+
+I nod, hips twitching involuntarily. Her strokes grow faster, her lips parted, expression a mix of determination and embarrassment.
+
+The dream amplifies everything, the heat of her hand, the softness of her skin, the faint bounce of her breasts every time her arm moves.
+
+<<ava "Please… finish for me… I-I want you to.">>
+
+Her voice trembles with a strange desperation. The pressure builds unbearably quickly and I cum across her trembling fingers with a sharp, involuntary groan.
+
+Ava freezes, staring at the warm streaks on her hand as if she didn’t expect the reality of it. She wipes her fingers slowly, uncertainly.
+
+Then her expression falls guilt pulling her face downward like a shadow.
+
+<<ava "I… I’m sorry if that wasn’t good. I tried. I really tried.">>
+
+She closes her shirt again, hugging herself lightly.
+
+<<ava "But being touched by a man… it never feels right to me. Not really.">>
+
+Her eyes lift to mine soft, sad, honest.
+
+<<ava "I don’t think I like it when men touch my chest.">>
+
+The dream begins to thrum, low and warm, as her confession deepens.
+
+<<ava "Touch from women… that feels different. That feels right.">>
+
+Her fingers brush my cheek tenderly.
+
+<<ava "Maybe… maybe I only want intimacy with someone who has… a female body.">>
+
+A pulse ripples through the dream a warm, inevitable shift.
+
+<<link "Ava’s confession">><<goto Dream_Confession_FF>><</link>>
+
+
+
+
+:: Dream_Confession_FF
+Ava wipes her hand again slow, almost ashamed then sits back on her heels, arms wrapping around her middle as if holding herself together.
+
+Her shirt is still slightly lifted, a hint of her breasts visible, but she covers them instinctively now, drawing inward. Her eyes stay lowered.
+
+<<ava "Leo… there’s something I’ve never said out loud.">>
+
+Her voice is barely above a whisper. The dream hushes, waiting.
+
+<<ava "When you touched my chest earlier… even just for a second… it made my heart feel wrong. Not scared wrong. Just… not meant for that." >>
+
+She looks up at me then, eyes glossy, fragile, searching to see if I’ll reject what she’s about to say.
+
+<<ava "I don’t like when men touch me. Anywhere. Not on my breasts, not on my waist… not even my hands if it’s meant to be sexual.">>
+
+Her voice cracks softly.
+
+<<ava "I tried to ignore it because I thought maybe I wasn’t ready. Or that I was nervous. Or that something was wrong with me.">>
+
+She shakes her head.
+
+<<ava "But it’s not fear. It’s… incompatibility.">>
+
+She exhales slowly, as if letting go of a secret she’s been carrying for years.
+
+<<ava "I only like touch from women.">>
+
+The world hums at those words warm, thick, distorting slightly around the edges. Ava scoots closer, her knees touching mine.
+
+<<ava "When a woman touches me, it feels natural. Right. Safe.">>
+
+She reaches out and places her palm flat against my chest. A warm ripple spreads immediately from her hand through my ribs.
+
+<<ava "But with you as a man… I feel like my body closes up. Even when my heart doesn’t want it to.">>
+
+She moves her hand lower down my stomach, lingering above my pelvis. Heat flares under her touch, dream-heavy and intimate.
+
+<<ava "And touching you…" >>  
+
+Her fingers hover just above my softening cock.  
+
+<<ava "Touching a penis… has never felt right. Not with you. Not in my fantasies. Not ever.">>
+
+Her voice deepens with a soft ache.
+
+<<ava "But I still want you. I want you so much it scares me sometimes." >>
+
+She takes my face gently in both hands.
+
+<<ava "I just… want you differently.">>
+
+The dream pulses. Her eyes glow softly.
+
+<<ava "I want you… with a female body.">>
+
+My breath catches.
+
+<<ava "If you were a girl… if you had a woman’s warmth, a woman’s softness… Leo…" >>
+
+She leans her forehead against mine.
+
+<<ava "I would want you in every way I’ve been too scared to want anyone.">>
+
+Another ripple runs through the air. A warm pulse spreads through my hips, my chest, my entire body. Ava’s smile deepens tender, hopeful, trembling with desire she’s never shown before.
+
+<<ava "Let me show you how much I’d want you… if you were her.">>
+
+Her thumb strokes my cheek.
+
+<<ava "If you were Leona.">>
+
+The dream thickens  warm, sweet, inevitable.
+
+<<link "I begin to change">><<goto Dream_Transform_FF>><</link>>
+
+
+
+:: Dream_Transform_FF
+
+Ava’s hands cradle my face, her thumbs brushing slow circles into my cheeks. Her touch is soft, reverent so gentle it makes my chest ache.
+
+The dream pulses. Warmth floods my skin in a slow wave, starting where her palms rest against me and spreading outward, down my throat, down my chest, down my stomach, down into my hips.
+
+<<leo "A-Ava… what’s… happening…?">>
+
+She smiles with a tenderness I’ve never seen from her, her forehead resting against mine.
+
+<<ava "Nothing bad.">>  
+
+Her lips ghost mine.  
+
+<<ava "Just the truth.">>
+
+Another pulse hits strong enough to arch my back. Heat blooms across my chest, tightening, tingling. My nipples stiffen, swell, then begin to push outward, sensitive, electric, sending shockwaves down to my toes.
+
+I gasp as soft weight gathers behind them, swelling, filling, rounding, forming breasts under Ava’s hands. She sighs, her breath warm on my neck.
+
+<<ava "Beautiful…">>
+
+My waist contracts a soft pull inward, gentle but firm my ribs narrowing into a feminine curve.
+
+My hips respond next, bones shifting beneath the surface, widening, rolling outward, creating a soft cradle beneath my stomach.
+
+The air grows thick around my thighs. My legs reshape leaner at first, then fuller, rounder, skin smoothing under Ava’s drifting fingers. My voice breaks into a soft sound, a moan I don’t recognize as my own.
+
+<<leona "Ah Ava…">>
+
+The name slips out before I realize it’s mine, Leona light, breathy, right. Ava cups my new breasts gently, thumbs brushing over my sensitive nipples, making me tremble.
+
+<<ava "Yes… that’s it…">>
+
+Her hand slides downward, skimming my stomach, fingertips reaching the base of my cock. It twitches once weak, almost apologetic.
+
+Then the warmth concentrates around it a tight pulse, a deep melt, a draw inward that makes me gasp sharply.
+
+My penis softens completely, heat curling it inward folding, dissolving into softness becoming a warm ache between my legs. Ava kisses my cheek as it disappears.
+
+<<ava "Let it go…">>
+
+Something new forms in its place wetness, heat, an opening. A pussy. My pussy. Ava’s breath catches as she feels the change.
+
+<<ava "Leo…" >>  
+
+She smiles, eyes shining.  
+
+<<ava "No… Leona.">>
+
+My hair spills down my shoulders in a wave of dream-light, brushing my collarbone. My cheeks warm, softer, fuller. My lips tingle, plumping slightly under her gaze.
+
+Everything settles gentle, sweet, inevitable. I lie there beneath her, chest rising with small, delicate breaths, hips open, body humming with a new, raw sensitivity. Ava’s hand slides up my thigh, slow and reverent.
+
+<<ava "Now… I feel desire.">>
+
+Her voice lowers hushed, breathless.
+
+<<ava "I want you like this." >>
+
+She leans in, her lips almost touching mine.
+
+<<ava "I’ve always wanted you like this." >>
+
+My new body trembles under her. The dream deepens warm, lush, ready for her touch.
+
+<<link "Ava touches me">><<goto Dream_FF_Fingering>><</link>>
+
+
+
+:: Dream_FF_Fingering
+Ava lowers herself over me slowly, as if studying every new curve of my transformed body. Her hands hover above my skin for a moment almost trembling with how badly she wants to touch.
+
+Then her palms settle on my breasts. Soft, warm contact. Her thumbs brush my nipples, and the sensation makes my back arch instantly, a helpless moan slipping out of me.
+
+<<leona "A-Ava ">>
+
+She breathes out shakily, staring at my chest like she’s seeing something she’s always longed for.
+
+<<ava "These…" >>  
+
+She cups my breasts gently, lifting them, squeezing just enough to make me gasp.  
+
+<<ava "These breasts… this softness…" >>
+
+Her fingers trail downward, over my ribs, my stomach, lower still.
+
+<<ava "This is what I like to touch." >>
+
+She leans in close, lips brushing my ear.
+
+<<ava "Not a penis." >>
+
+A warm shiver runs straight through my spine. Her hand slips between my thighs slow, reverent pausing just at the edge of my new pussy. I’m already wet, embarrassingly so, the warmth pooling and glistening against her fingertips. She exhales, breath trembling.
+
+<<ava "And this…" >>
+
+Her fingertip slides over my folds, parting them gently.
+
+<<ava "This pussy…" >>
+
+I gasp, hips jolting upward at the contact. She smiles soft, adoring touching me with a careful, loving precision she never had with my male body.
+
+<<ava "This is what I want to touch. What I want to taste." >>
+
+Her fingers explore me slowly, learning me, mapping me. She circles my clit lightly once, twice each motion sending sparks up my spine. I moan, thighs trembling open.
+
+She kisses the inside of my thigh. Then again, higher. Then her lips hover just above my pussy, warm breath ghosting over sensitive skin.
+
+<<ava "You’re so beautiful like this, Leona… so soft…" >>
+
+Her tongue touches me light, teasing drawing a sharp cry from my throat. She licks again, slower now, savoring me.
+
+Her fingers slide inside while her mouth kisses my clit, gentle but insistent. Every stroke, every motion, feels like she’s dreamed of this, practiced this, craved this.
+
+<<leona "A-Ava… oh god ">>
+
+She moans softly against me, the vibration making my whole body tighten. Her fingers curl inside me.
+
+<<ava "This… this is the intimacy I want." >>  
+
+She kisses me deeply, tongue tracing my folds.  
+
+<<ava "With a woman… with you…" >>
+
+I tremble beneath her, overwhelmed, breathless, drowning in pleasure. Ava lifts her head slowly, lips wet with my taste, her eyes glowing with desire. She crawls up my body, breasts brushing mine, straddling my waist as she leans close.
+
+<<ava "Now taste me too, Leona…" >>  
+
+She whispers against my lips.  
+
+<<ava "Please.">>
+
+She shifts forward, lifting herself as she positions her pussy above my mouth 
+
+<<link "Ava gives her pussy to me">><<goto Dream_FF_LeonaEatingAva>><</link>>
+
+
+
+
+
+:: Dream_FF_LeonaEatingAva
+Ava moves slowly carefully as though offering something sacred. Her knees slide up beside my shoulders, her thighs warm and trembling as she straddles my face.  
+
+
+Her breath catches, body hovering just above my mouth, her pussy glistening with arousal that wasn’t there minutes ago. Dream or not she wants this. She wants *me* like this.
+
+<<leona "Ava…">>
+
+My voice is soft, breathy, unrecognizable in its new form. She looks down at me, cheeks flushed, hair falling around her face like a halo.
+
+<<ava "Leona… please…">>
+
+Her hands rest lightly on my breasts as she lowers herself inch by inch until her warmth presses against my lips.
+
+The taste hits me soft, sweet, dizzying. Ava gasps sharply, thighs tightening around my head.
+
+<<ava "Ah ! Oh god ">>
+
+I kiss her first, gently, letting her get used to the sensation of being touched this way. Her fingers curl over my nipples, squeezing reflexively.
+
+I lick her slowly a single, deliberate stroke up her folds. She shudders violently.
+
+<<ava "Y-Yes there keep going ">>
+
+Her hips begin to rock softly, uncertain at first, then with growing confidence as pleasure overtakes her hesitation. I hold her thighs, guiding her movements, tasting her deeply. Her moans grow louder, breathier, filling the dream-space with soft echoes.
+
+<<ava "Leona… Leona… you feel so good ">>
+
+Her voice cracks with need. She presses down harder against my mouth, sliding her pussy over my tongue, her wetness coating my lips. Her breath stutters.
+
+<<ava "This this is what I want two women touching each other loving each other ">>
+
+I suck her clit lightly. She cries out, collapsing forward, her hands bracing on my breasts, squeezing them instinctively.
+
+<<ava "I never… felt this for you… when you were Leo…">>
+
+Her words tremble with guilt and truth.
+
+<<ava "I wasn’t broken. I wasn’t scared. I just… didn’t want a man." >>
+
+Her hips grind harder, her voice dissolving into moans that shake through both of us.
+
+<<ava "But now now I feel everything because you’re her ">>
+
+I slide my tongue inside her, tasting her deeply. She gasps, body buckling.
+
+<<ava "Leona yes there please don’t stop ">>
+
+Her thighs clamp around my head as she rides the edge of climax, her body trembling, her breath coming in ragged little bursts. She looks down at me through half-lidded eyes, flushed and desperate.
+
+<<ava "Stay like this… please stay like this…">>
+
+Her voice breaks.
+
+<<ava "I want *you* but only like this. Only as Leona.">>
+
+Her hips jerk forward once twice and she comes with a soft, shuddering cry. Warmth spills onto my tongue. I drink her in.
+
+Ava collapses gently onto my body, trembling, breath hot against my neck. Her lips brush my cheek, my jaw, my throat soft, grateful kisses.
+
+<<ava "This is real desire, Leona… this is what I’ve always wanted.">>
+
+She wraps her arms around me, holding me close as the dream begins to dissolve into white.
+
+<<ava "Please… be her for me…">>
+
+Her final whisper echoes as everything melts away.
+<<set $path = "les">>
+<<link "Dream melt away">><<goto leo_dorm_room_lumira>><</link>>
+
+
+
+
+:: day_3_1_1_lumira
+I wake up with a sharp inhale, the room spinning for a second before it settles into familiar shapes. My heart is pounding. My skin is hot. My thighs are squeezed together like I’m trying to hold onto something that isn’t there anymore.
+
+For a moment, just a moment I swear I still feel Ava’s thighs around my face. Her taste on my tongue. Her breath against my lips. Her voice whispering, “Stay like this… please stay like this…”
+
+I touch my mouth instinctively. My lips feel swollen, overly sensitive. My whole body feels wrong no, not wrong, just… off. Shifted. Like some part of me is still Leona.
+
+I pull the sheets back. Just Leo. Just my body. But the absence feels strange like I’ve woken up missing something I used to have.
+
+My hand drifts down my stomach, trembling, until it reaches my cock. A jolt of confusion hits me. It feels foreign. Not painful or disgusting, but unfamiliar like I’m not supposed to be touching this anymore. My breath shudders.
+
+<<leo "What the hell…">>
+
+My chest tightens. I try to sit up, but my body is still buzzing with phantom sensations, The weight of breasts that aren’t there. The ache of a pussy that doesn’t exist. The echo of Ava’s fingers inside me. I close my eyes hard, but all it does is bring the dream back sharper 
+
+Ava kissing my thighs. Ava moaning into my pussy. Ava begging me to stay female. Ava telling me she only wanted intimacy with women.
+
+Her voice lingers like a melody I can’t shake, “This is what I want, Leona… this is what I’ve always wanted…”, I swallow hard, throat tight.
+
+Why does thinking of her touching me as a girl make my heart race? Why does remembering her straddling my face make my whole body burn? Why does thinking of her touching *Leo* feel like the wrong version of the memory? I drag a hand through my hair, frustrated and breathless.
+
+<<leo "It was just a dream… it was just a dream…">>
+
+My voice sounds thin, unconvincing. But dreams aren’t supposed to feel this real. Dreams aren’t supposed to leave you aching in a body you suddenly don’t recognize. Dreams definitely aren’t supposed to make you wonder,
+
+*Did I want that?*  
+*Did I want to be her?*  
+*Did I want Ava like that… as a woman?*
+
+A shiver runs through me. I sit up slowly, legs shaky, forcing myself out of bed. My phone buzzes Ava’s name on the screen. My heart lurches.
+
+I’m not ready for her voice. Not while my lips still imagine being wrapped around her clit. Not while my body still aches with phantom curves. Not while part of me still answers to *Leona.* But I can’t ignore her forever. I exhale shakily and grab my jacket.
+
+<<leo "Pull yourself together.">>
+
+I leave my dorm, trying to walk off the confusion, trying to remember how to be Leo again. But every step feels like something inside me is still shifting. Still changing. Still wanting.
+
+<<link "Ava Calling">><<goto day_3_1_1_lumira>><</link>>
+
+
+:: day_3_2_1_lumira
+
+My phone buzzes again sharp, too loud in the quiet room. Ava. Her name flashes across the screen, bright enough to make my stomach twist. My body is still humming with dream aftershocks  Ava’s thighs on my face, her fingers inside me, her voice begging *Leona* to stay. I take a few breaths before answering.
+
+<<leo "H-Hey… Ava.">>
+
+She responds almost immediately, voice soft and shaky.
+
+<<ava "Leo? Um… good morning.">>
+
+Her tone is gentle, nervous like she’s afraid she might be bothering me. The guilt from the dream mixes with confusion and a strange flutter under my ribs.
+
+<<leo "Morning. Are you okay? You sound…">>
+
+<<ava "I’m fine! I think. I just… didn’t really sleep well.">>
+
+She clears her throat, trying to sound brighter than she feels.
+
+<<ava "I was wondering if… maybe… you could come to the café?">>
+
+Her voice dips into something small, hopeful.
+
+<<ava "I’d really like to see you.">>
+
+A soft ache hits my chest. Even after dreaming of her pushing me down, touching me like a woman, wanting me only in a female body… even after everything… hearing her real voice makes me melt a little. I rub my forehead, forcing my voice steady.
+
+<<leo "Yeah. Of course. I’ll be there soon.">>
+
+I hear the quiet inhale she always makes when relieved.
+
+<<ava "Okay… I’ll save you a seat.">>
+
+The call ends. Silence returns and with it, the lingering confusion, the phantom ache between my legs, the ghost-memory of her whispering, “I want you as Leona.”
+
+I shake my head hard, trying to push it away. Right now, she needs me. Right now, I have to be Leo. I grab my jacket and head for the door, ignoring the strange heaviness in my chest.
+
+<<link "Go to the café">><<goto day_3_3_lumira>><</link>>
+
+
+:: day_3_3_lumira
+
+Ava meets me outside the café with a thin smile   so thin it looks like it might tear if she breathes too hard.  
+She’s dressed neatly, ribbon perfect, hair brushed smooth… all the signs she spent too long trying to look “okay.”
+
+She spots me instantly, lifting her hand in a small wave. Her smile is thin pretty, but stretched too tight to be real. The kind of smile she uses when she’s trying not to let anything spill out.
+
+She steps closer, fingers brushing mine before she takes my hand fully. Her palm is cold.
+
+<<ava "Good morning… I’m glad you came." >>
+
+I squeeze her hand gently.
+
+<<leo "Of course I did." >>
+
+For a heartbeat, she relaxes into that. Then her grip tightens, like she’s reminding herself to stay steady.
+
+A flicker hits me  just a flash her thighs on either side of my face, her voice whispering *Leona…* I blink it away quickly. Not now.
+
+<<ava "Jamie and Rowan are coming today… they just got back." >>
+
+Her voice tries to sound upbeat, but the corners tremble.
+
+<<leo "That’s good. They missed you." >>
+
+She nods a little too quickly.
+
+[[Jaime and Rowan Joins|day_3_4_lumira]]
+
+:: day_3_4_lumira
+
+Inside, the café is warm and busy. Ava chooses our usual corner table beside the window. She sits close closer than normal her shoulder brushing mine like she’s afraid to lose contact. Before either of us can speak, a familiar voice rings out.
+
+<<jamie "Oh my god there they are!" >>
+
+Jamie rushes over, Rowan right behind her. Their luggage is literally still by the door.
+
+<<jamie "Ava, sweetheart!" >>
+
+She hugs Ava so tightly Ava makes a tiny squeak. Rowan claps my shoulder.
+
+<<rowan "Missed you guys. Feels like we were gone a month." >>
+
+Jamie slides into the seat beside Ava, eyes scanning her immediately Jamie always sees everything.
+
+<<jamie "How’ve you two been? Classes treating you okay?" >>
+
+Ava forces a smile.
+
+<<ava "Everything’s… fine. I’m fine." >>
+
+Jamie narrows her eyes slightly but doesn’t push.
+
+<<rowan "We brought souvenirs. Mostly snacks. Mostly weird." >>
+
+Ava giggles softly real, but brief. For a moment, we almost feel like ourselves again.
+
+Ava picks at her tea. Jamie tells a story about a tourist who fed a crow an entire slice of chocolate cake. Rowan shows me photos of a broken vending machine that only dispensed gum.
+
+[[Interuption|day_3_5_lumira]]
+
+:: day_3_5_lumira
+
+It’s light. Easy. Until the café door swings open. Dylan and Marcus walk in. I feel Ava tense before I even see them. They spot us immediately and head over with loud, stupid grins.
+
+<<dylan "Look who it is! The campus couple!" >>
+
+Jamie’s jaw tightens. Rowan leans back, instantly annoyed. Dylan slaps my shoulder.
+
+<<dylan "Leo, my man! Tell me you finally slept well for once." >>
+
+I glare at him, but Marcus leans his elbows on our table, smirking.
+
+<<marcus "Probably still untouched, right? Virgin king, one decade strong." >>
+
+Ava flinches. Her hand curls in her lap. Jamie sits up straighter, ready to intervene. I open my mouth but Marcus keeps going, louder.
+
+<<marcus "No offense, Ava, but if he’s not doing anything with you…" >>  
+
+He shrugs casually.  
+
+<<marcus "I’ll take you instead." >>
+
+The world stops. Ava freezes. Her expression empties instantly, like her mind shuts down to survive it. Her fingers dig into her skirt until they tremble. Jamie’s voice cracks with anger.
+
+<<jamie "Marcus, shut the fuck up." >>
+
+Rowan stands halfway, ready to drag them out if needed. But Ava’s already rising from her seat.
+
+<<ava "E-excuse me… I need a moment." >>
+
+She walks toward the bathroom without looking at any of us. Her shoulders are tight, her steps quick but controlled. Not running. Just… breaking apart in silence. My stomach twists. Jamie stares daggers at Dylan and Marcus.
+
+<<jamie "Out. Now." >>
+
+They sputter some half-assed excuse, but Rowan is already ushering them toward the door. I follow Ava.
+
+[[Follow Ava|day_3_6_lumira]]
+
+:: day_3_6_lumira
+
+She spends a long time in the bathroom. Long enough for worry to turn into a pit in my chest. When she finally returns, she keeps her gaze down. Her ribbon is slightly crooked, and her eyes red, swollen look like she scrubbed them hard. She sits beside me slowly.
+
+<<leo "Ava… hey. Look at me." >>
+
+She shakes her head.
+
+<<ava "I’m okay. I just… washed my face." >>
+
+It’s not convincing. Not even close. Her hands tremble as she reaches for her cup. I slide my fingers over hers under the table. She flinches tiny, involuntary. But then she forces herself to unclench, resting her hand in mine as if she’s afraid I’ll think she doesn’t want the contact.
+
+She leans into me, barely, like a wilted flower searching for warmth. I squeeze her hand gently.
+
+But another flicker hits me. A pair of lips between my thighs. A voice whispering *This is what I want, Leona…* My breath stutters before I mask it. Ava doesn’t notice. She’s too busy trying not to fall apart.
+
+<<link "Leave Cafe">><<goto day_3_7_lumira>><</link>>
+
+
+
+:: day_3_7_lumira
+
+We leave the café quietly. Ava walks beside me in that small, fragile way she has when she’s trying not to fall apart. Her fingers hover near my sleeve before she finally gathers the courage to slip her hand through my arm.
+
+Her grip is tight. Too tight. We only get a few steps before we hear rushed footsteps behind us.
+
+<<jenna "Ava? Hey wait up!">>
+
+Ava stiffens instantly, fingers clamping around my arm. Jenna jogs up, her expression shifting from bright to worried the moment she sees Ava’s face. Natalie arrives a moment later, slower and sharper, studying every detail.
+
+<<jenna "You okay? You left breakfast so fast." >>
+
+Ava tries to smile. It barely lifts her cheeks.
+
+<<ava "I’m fine. Really. I just… needed air." >>
+
+Natalie tilts her head.
+
+<<natalie "You’ve been crying." >>
+
+Ava flinches.
+
+<<ava "I’m… overwhelmed. It’s nothing, really." >>
+
+Jenna crosses her arms, protective and fiery.
+
+<<jenna "If someone upset you, you tell me. I swear I will ">>
+
+Ava shakes her head quickly, cutting her off.
+
+<<ava "No, no… I just… I need some time with Leo." >>
+
+Natalie gives me a knowing, firm nod.
+
+<<natalie "Take care of her. She’s unraveling." >>
+
+I nod softly. Ava tugs my arm.
+
+<<ava "C-can we go? Please?" >>
+
+We walk away as Jenna calls after us:
+
+<<jenna "Text me if you need anything!" >>
+
+We walk the loop behind the library, the noise of campus fading. Ava clutches my arm tighter and tighter until her fingers tremble.
+
+Every few steps she inhales sharply, as if bracing herself to speak, then swallows the words back down. I brush her arm gently.
+
+<<leo "You can talk whenever you're ready." >>
+
+She presses closer, her voice shaking.
+
+<<ava "I… I’m trying." >>
+
+When we reach the shade of the trees, she finally stops. She leans against the trunk, breathing like she’s been running. Her eyes meet mine. Then drop. Then rise again with trembling fear. Her voice cracks.
+
+<<ava "Leo… I want to be close to you." >>
+
+She blurts it out, terrified.
+
+<<ava "I *love* you. I really do. And I want… I want what you want." >>
+
+I take a step toward her, but she lifts a shaking hand don’t interrupt.
+
+<<ava "But every time things get intimate, my chest gets tight, and I freeze, and I can’t breathe…" >>
+
+Tears spill immediately.
+
+<<ava "I want you. I *do.* But when it actually happens… I panic. And I hate myself for it." >>
+
+I touch her arms gently. She doesn't flinch.
+
+<<leo "Ava… you’re not doing anything wrong." >>
+
+She shakes her head hard.
+
+<<ava "Yes, I am." >>  
+
+<<ava "I keep disappointing you. I ruin things. I see your face when I pull away and I feel sick with guilt." >>
+
+Her tears fall faster.
+
+<<ava "I push myself because I don’t want you to get tired of waiting… and now I’m hurting us both." >>
+
+She collapses forward, burying her forehead in my chest. I hold her carefully.
+
+<<leo "Ava… you’re not disappointing me. Not even once." >>
+
+She sobs into my shirt.
+
+<<ava "But I can’t give you what you want. I get scared, Leo…" >>
+
+I rest my chin on her hair.
+
+<<leo "Then we stop anything that scares you. All of it. We go at your pace. Always." >>
+
+She clings to me, arms tight around my waist.
+
+<<ava "I don’t want to lose you…" >>
+
+<<leo "You won’t. Ever." >>
+
+We stand like that for a long time, until her breathing calms and the trembling softens. She pulls back slowly, wiping her cheeks with her sleeve. Her voice is small but steadier.
+
+<<ava "…We should get to class." >>
+
+I nod.
+
+<<leo "Yeah. We’ll walk together." >>
+
+She slips her hand back into mine not as tight as before, but with a quiet trust that makes my chest ache.
+
+We head toward the academic buildings side by side. She keeps close, brushing my shoulder every few steps as if confirming I’m still there.
+
+Just before we split for different lectures, she squeezes my hand softly.
+
+<<ava "Thank you… for not giving up on me." >>
+
+I brush a loose strand of hair behind her ear.
+
+<<leo "Never." >>
+
+She gives a tiny nod half-lost, half-comforted before walking toward her classroom. I watch her go, feeling the weight of her pain and the fragile hope in her steps. We both disappear into our lectures, carrying the same quiet ache.
+
+<<link "Go to Classes">><<goto day_3_8_lumira>><</link>>
+
+
+:: day_3_8_lumira
+
+I sit in my lecture hall, notebook open, pen in hand, pretending I’m taking notes. The professor’s voice is a distant drone, something about midterm concepts and problem sets. None of it sticks.
+
+Every time I blink, the dream flickers at the edges of my vision, Ava lowering herself onto my mouth her breathless moan her fingers tangled in my hair *Leona… please… stay like this…* I grip my pen tighter.
+
+<<leo "Focus. It was just a dream." >>
+
+But my body doesn’t buy it. A warmth curls low in my stomach, phantom-soft, like the sensation of a pussy between my legs instead of what’s actually there. I shift in my seat, uncomfortable, hyper-aware of my body in a way I’ve never been before.
+
+Another flicker, Ava’s lips brushing my inner thigh. Her voice whispering that she only wanted me like *that.*. I exhale sharply.
+
+The guy sitting next to me glances over, confused. I scribble something meaningless in my notebook to look normal.
+
+Across campus, I imagine Ava in her own class quiet, curled in her chair, hiding behind her notes probably blaming herself for this morning, probably twisting her hands until her knuckles go white.
+
+I want to text her. I want to check on her. But my mind keeps pulling me somewhere else entirely, Soft breasts under Ava’s hands, my breathy voice as Leona, Ava pressing her thing to my mouth, I rub my eyes hard. This isn’t helping either of us.
+
+The professor calls for a short break. I pull out my phone, staring at Ava’s name in my messages. My thumb hovers over the screen. I don’t type anything.
+
+I can’t even trust my thoughts right now, how the dream made me feel things that shouldn’t feel this real, how my chest still aches with phantom weight, how the memory of Ava’s tongue makes my breath catch.
+
+I put my phone away and pack up slowly as class ends. Outside, the sky is turning gold. Ava is waiting for me near the courtyard, books clutched to her chest. Her eyes lift when she sees me hesitant, searching for some sign that I’m not upset. I swallow and head toward her. Maybe the dream will fade eventually. Maybe.
+
+<<link "Leave Class and Meet Ava">><<goto day_3_9_lumira>><</link>>
+
+
+
+:: day_3_9_lumira
+
+I met ava near the courtyard, we walk slowly toward her dorm in the fading light. She stays close to me, not clinging exactly more like she’s anchoring herself, breathing carefully, grounding her shaking nerves against my arm.
+
+But every so often, when her shoulder brushes mine, a strange warm flicker runs down my spine. A phantom sensation. A leftover echo of the dream I keep trying not to think about.
+
+Her thighs on my face her breathless whisper *Leona…* I blink hard and shake it off. Now is not the time. Ava needs me steady.
+
+When we reach her room, she steps inside and sits on the bed slowly, like the mattress might collapse under the weight of her emotions. Her hands fold tightly in her lap, trembling just slightly.
+
+I sit beside her close, but careful. A quiet moment passes. Then she exhales shakily.
+
+<<ava "Can I… tell you something Jamie said to me?" >>
+
+I nod. Her fingers twist the edge of her sleeve.
+
+<<ava "She told me about a VR world. The one she and Rowan used… when they are apart." >>
+
+Her voice is soft, embarrassed, but steadying itself.
+
+<<ava "She said it helped her. That it felt real enough to… to be intimate, but safe enough that she didn’t panic." >>
+
+Another flicker hits me a soft phantom warmth between my thighs that doesn’t belong there. I exhale slowly and refocus on Ava. She gathers courage and continues.
+
+<<ava "Jamie said… if we ever wanted to try… she and Rowan could help." >>
+
+She glances up at me eyes wide, hopeful, terrified.
+
+<<ava "They said they can come with us tomorrow. To help us buy VR game… the equipment. To show us how everything works." >>
+
+Her shoulders curl slightly inward.
+
+<<ava "They won’t go in with us. Just… set things up. Make sure it’s comfortable. Safe." >>
+
+I nod gently, understanding what this means to her. She lowers her gaze.
+
+<<ava "Maybe this way… you can be close to me." >>
+
+Then even softer, her voice trembling around the edges,
+
+<<ava "And I won’t be scared." >>
+
+Something tender pulls inside my chest. Something else something warm and strange ripples lower, like my body is remembering a shape that never existed. I push the sensation down. Her fear matters more. I lift her chin gently.
+
+<<leo "If you want to try it, I’m with you. Every step." >>
+
+Her breath stutters relief flooding through her so visibly I feel it in my own chest. She wraps her arms around me tightly.
+
+<<ava "Thank you… thank you…" >>
+
+I hold her until her heartbeat steadies against mine. We don’t speak for a long time. Just silence, soft and fragile, settling between us.
+
+Later, after I leave her dorm, the night air feels cool against my overheated skin. Maybe from nerves. Maybe from the dream I still can’t shake. My phone buzzes. Ava’s voice is small but clearer than earlier.
+
+<<ava "I’m nervous… but I’m glad. About trying something that won’t hurt me." >>
+
+I lean against the railing, closing my eyes. Another tiny intrusive flash hits me, my own breathy voice *feminine, trembling* Ava straddling me in the white-lit dream. I grip the railing until it passes.
+
+<<leo "Tomorrow. One step at a time." >>
+
+She whispers softly,
+
+<<ava "Tomorrow." >>
+
+<<link "Try to go to Dorm">><<goto day_3_10_lumira>><</link>>
+
+
+
+
+
+:: day_3_10_lumira
+
+Ava walks me to the door of her dorm, fingers still loosely holding mine. She looks up at me, hesitant, chewing her lip. Then she whispers,
+
+<<ava "C-Can I… try something? Just… a little?" >>
+
+My heart jumps.
+
+<<leo "Only if you’re sure." >>
+
+She nods too fast to be confidence. But she steps back inside her room and gently pulls me with her. She sits on the edge of her bed, hands shaking as she reaches for my waistband.
+
+<<ava "I want to… not be scared anymore." >>
+
+I swallow.
+
+<<leo "Ava, we don’t have to ">>
+
+<<ava "I know. But I want to try." >>
+
+Her fingers fumble with my zipper. She frees me carefully and wraps her hand around me   timid, soft, uncertain, but without the panic from before. She strokes once. Twice. Her breath catches, but she keeps going.
+
+<<ava "Is… is this okay?" >>
+
+<<leo "Yeah. You're doing fine." >>
+
+A tiny relieved breath leaves her lips. Then   to my shock   she leans in. Her mouth brushes the tip. Just a small, warm, trembling lick. A sound escapes her   not panic, not disgust, something like *startled confusion.* She tries again.
+
+Her tongue touches the tip for maybe five seconds and then she jerks back suddenly. Like something electric startled her. Her eyes widen. Her breath stutters. Her hands pull into her chest.
+
+<<leo "Ava? What is it?" >>
+
+She shakes her head quickly, almost frantically.
+
+<<ava "I… I’m sorry, I I can’t something felt " >>
+
+She doesn’t finish the sentence. She curls in on herself slightly, arms wrapped tight, shaking. Not crying. Just overwhelmed. Just frightened by her own courage. I zip myself quietly, sit beside her, but she won’t lift her head.
+
+<<leo "It’s okay. You’re okay. We’re done. No pressure." >>
+
+She nods, but her breath is still uneven.
+
+<<ava "You should… go rest. I don’t want to make things weird." >>
+
+I want to argue, to stay, to comfort her more but she’s folded too tightly into herself. She needs space more than reassurance. I stand slowly. She whispers without looking up,
+
+<<ava "Goodnight… Leo." >>
+
+I linger a moment, then finally step out. The door closes softly behind me. I walk toward my dorm with my thoughts buzzing, my heart tight, and that strange phantom dream warmth still humming through my body unwelcome, confusing, too vivid. Tonight is going to be a long night.
+
+<<link "Go to Dorm">><<goto day_3_11_lumira>><</link>>
+
+
+:: day_3_11_lumira
+
+Back in my dorm, the room feels too quiet. The lights, the familiar smell, the unmade bed   everything feels a little off, a little disoriented.
+
+Maybe because Ava tried again tonight. Maybe because she panicked again. Maybe because I still keep feeling phantom warmth where nothing should be warm at all. I exhale, rub my face, and sit on the edge of my bed. My phone buzzes. Rowan. I answer.
+
+<<leo "Hey. What’s up?" >>
+
+He doesn’t waste time.
+
+<<rowan "Jamie told me everything. About Ava. And the VR thing. Thought you might want help figuring it out." >>
+
+I slump a little in relief.
+
+<<leo "Yeah. Honestly… I could use it." >>
+
+There’s shuffling on his end then Jamie’s voice appears in the background, loud enough to hear but not directly in the call.
+
+<<jamie "Tell him it’s not some weird hookup thing! Tell him it’s legit therapy-level!" >>
+
+Rowan mutters something, amused.
+
+<<rowan "You heard her. It’s legit. And yeah   Jamie and I use it too. Still do." >>
+
+I blink.
+
+<<leo "Still? Even now?" >>
+
+<<rowan "Yeah. Especially since she’s abroad half the year. It keeps us connected. Emotionally. Physically. All of it." >>
+
+Jamie pipes up again, closer this time.
+
+<<jamie "It feels real, Leo! Like real real. Warmth, touch, everything. But without panic. Without pressure." >>
+
+Rowan sighs playfully.
+
+<<rowan "She won’t let me explain anything without jumping in. But… she’s right. The system’s insane. Fully immersive. Your brain buys it completely." >>
+
+My heart beats a little faster. A safe place. A pressure-free place. A place where Ava won’t freeze up.
+
+<<leo "And you think it could help Ava?" >>
+
+Rowan’s tone softens.
+
+<<rowan "Yeah, man. I do. She’s not broken. She’s scared. And VR lets her be close without her body freaking out." >>
+
+Jamie again:
+
+<<jamie "Tell him about the sensitivity adjuster!" >>
+
+<<rowan "Right, right   there’s an intensity slider. You can control how real it feels. You can go slow. Very slow. Ava can decide every setting." >>
+
+That part lands heavily. Ava in full control.
+
+<<leo "That… actually sounds perfect for her." >>
+
+Jamie’s voice grows warm.
+
+<<jamie "Ava’s trying so hard. Don’t let her feel guilty for needing help. Let the VR take the pressure off both of you." >>
+
+I nod to myself. A quiet moment follows. Then Rowan says,
+
+<<rowan "We’ll come with you two tomorrow. Help you pick the room, get everything installed, walk you through setup." >>
+
+<<leo "You sure? It’s a lot of trouble ">>
+
+<<rowan "Leo. We care about Ava. And we care about you. It’s not trouble." >>
+
+Jamie adds,
+
+<<jamie "Tomorrow morning! We’ll meet you at the plaza. Don’t let him oversleep." >>
+
+I smirk.
+
+<<leo "Got it." >>
+
+Rowan chuckles.
+
+<<rowan "Get some rest, man. Tomorrow’s a big step. For both of you." >>
+
+<<leo "Yeah. Thanks… really." >>
+
+The call ends. I lie back on my bed, staring at the ceiling. My body feels strange   not bad, not good, just… not quite mine.
+
+A leftover echo of a dream I shouldn’t remember so vividly. Ava’s voice whispering my name in a way no one ever has. The warmth between my thighs that doesn’t exist. That soft, unreal shift I shake my head, exhale slowly.
+
+Tomorrow is real. Tomorrow is what matters. Not the dream. Not the weird phantom sensations. Tomorrow, Ava and I take a step together.
+
+<<link "Continue to Day 4 – VR Start">><<goto Day4_VRStart>><</link>>

@@ -1,0 +1,27 @@
+
+
+
+
+:: leo_class_lumira
+<<nobr>>
+<<img "images/locations/eng_class.jpeg" "header">>
+<<set $locationImage = "images/locations/eng_class.jpeg">>
+<br><br>
+<<if $day == 1>>
+    [[Wake Up|day_1_1_lumira]]
+<<elseif $day == 2>>
+    [[Leave the Class|day_2_4_lumira]]
+<<elseif $day == 3>>
+    [[Wake Up|day_3_1]]
+<<elseif $day == 4>>
+    [[Wake Up|day_4_1]]
+<<elseif $day == 5>>
+    [[Wake Up|day_5_1]]
+<<elseif $day == 6>>
+    [[Wake Up|day_6_1]]
+<<elseif $day == 7 and $game == "eidolon_straight">>
+    [[Wake Up|day_7_1_eidolom_straight]]
+<<elseif $day == 7 and $game == "lumira_straight">>
+    [[Wake Up|day_7_1_lumira_straight]]
+<</if>>
+<</nobr>>

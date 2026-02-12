@@ -45,7 +45,7 @@
 
     z-index: 500;
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: center;
 }
 
@@ -127,7 +127,6 @@
 
 #neura-left-bar {
     flex-direction: column;
-    padding-top: 1.5rem; /* Add spacing for header */
     align-items: center;
 }
 

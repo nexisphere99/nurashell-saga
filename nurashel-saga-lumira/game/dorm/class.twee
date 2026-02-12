@@ -1,0 +1,17 @@
+
+
+
+
+:: leo_class
+<<nobr>>
+<<img "images/locations/eng_class.jpeg" "header">>
+<<set $locationImage = "images/locations/eng_class.jpeg">>
+<br><br>
+<<if $day == 1>>
+    [[Search for Ava during Mid classes|day_1_6]]
+<<elseif $day == 2>>
+    [[Leave the Class|day_2_4]]
+<<elseif $day == 3>>
+    [[Leave Class and Meet Ava|day_3_9]]
+<</if>>
+<</nobr>>
