@@ -1139,7 +1139,7 @@ Her eyes filled a man’s strong face twisted into a terrified expression that b
 
 
 :: day_5_11_str
-
+<<set $playerImage to "images/characters/leona/leona_full_lumira.png">>
 The cabin finished loading with a soft chime wooden floors, warm light, floating dust motes but none of it felt real. Not compared to the weight of my new body.
 
 A cold breeze slipped through the open window, brushing my thighs my bare thighs and I flinched so hard my breasts bounced painfully. Behind me, Ava no, Avan shifted, the floor creaking under his massive weight.
@@ -1238,7 +1238,7 @@ We held our breaths. Held our fear. Held each other’s gaze and for the first t
 
 
 :: day_5_12_str
-
+<<set $locationImage to "images/locations_lumira/apartment.jpeg">>
 The system hum deepened into something warm and vibrant, like a heartbeat echoing through the void.
 
 <<system "Initializing world environment… please stand by.">>
@@ -1260,6 +1260,10 @@ His deep voice vibrated inside the golden haze.
 <<system "Rendering Lumira: 42%… 63%… 85%…">>
 
 Wind began to stir. Real wind. Not the fan-in-a-headset kind. Something warm, scented like sunshine and riverwater. It hit my bare thighs first. I felt everything. An uncontrollable breathy gasp escaped me.
+
+<<system "Initializing world environment: Lumira – Eternal Sky." >>
+
+<<img "images/locations_lumira/apartment.jpeg" "scene">>
 
 <<leona "Ah !" >>
 

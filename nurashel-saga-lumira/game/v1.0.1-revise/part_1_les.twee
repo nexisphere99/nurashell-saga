@@ -633,7 +633,7 @@ The warmth faded. Silence followed and I stood there small, soft, trembling in a
 
 
 :: day_4_30_les
-
+<<set $playerImage to "images/characters/leona/leona_full_lumira.png">>
 The golden cocoon dissolved around me like dust drifting upward into the dark. Silence pressed in thick, expectant. My breath trembled in my new throat, light and feminine and horribly real. Then the void rippled.
 
 A glossy black sheen spread across the air in front of me, curving inward like a pool of ink rising upright. It wrapped around me gradually, forming a sphere  a mirror with no frame, no floor, no escape.
@@ -686,6 +686,7 @@ The mirror dimmed like the world beyond it was waking. Light glowed behind the r
 
 
 :: day_4_31_les
+<<set $locationImage to "images/locations_lumira/apartment.jpeg">>
 
 The obsidian mirror around me flickered cracks of gold spreading through it like dawn breaking. My reflection shimmered, then dissolved into drifting particles of light. Wind touched me. Real wind. Warm, sweet, brushing over every curve the system had forced onto me. My breath caught as the long hair down my back lifted and fluttered like a silken banner.
 
@@ -694,6 +695,8 @@ The obsidian mirror around me flickered cracks of gold spreading through it like
 The darkness shattered into gold. Lines of light traced a circle beneath my feet, etching glowing runes that pulsed like a heartbeat. A floor blossomed under me smooth, warm wood that felt unbelievably vivid beneath my bare soles.
 
 <<system "Initializing world environment: Lumira – Eternal Sky." >>
+
+<<img "images/locations_lumira/apartment.jpeg" "scene">>
 
 Walls rose around me in elegant arcs of celestial timber, glowing softly from within. A bed materialized piece by piece floating mattress, shimmering blankets that glowed like nebula threads. Every new detail appeared with a gentle rush of wind that stroked my skin. Too much skin.
 
